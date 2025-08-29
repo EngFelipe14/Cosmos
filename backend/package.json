@@ -1,0 +1,55 @@
+{
+  "name": "cosmos",
+  "version": "1.0.0",
+  "description": "Cosmos, página web del clima por municipio en Colombia. Moderna, intuitiva e interactiva en tiempo real con alertas meteorológicas, pronóstico e histórico del clima.",
+  "keywords": [
+    "Clima",
+    "clima",
+    "colombia",
+    "tiempo",
+    "meteorologia",
+    "pronostico",
+    "alertas",
+    "tiempo-real",
+    "interactivo"
+  ],
+  "homepage": "https://github.com/EngFelipe14/Cosmos#readme",
+  "bugs": {
+    "url": "https://github.com/EngFelipe14/Cosmos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngFelipe14/Cosmos.git"
+  },
+  "license": "ISC",
+  "author": "David Felipe Soto Gallego",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "nodemon --watch src --exec \"ts-node src/index.ts\"",
+    "lint": "eslint ./src/**/*.{ts,js}",
+    "lint:fix": "eslint ./src/**/*.{ts,js} --fix",
+    "format": "prettier --write ./src/**/*.{ts,js,json,md}",
+    "format:check": "prettier --check ./src/**/*.{ts,js,json,md}"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@typescript-eslint/eslint-plugin": "^8.41.0",
+    "@typescript-eslint/parser": "^8.41.0",
+    "eslint": "^9.34.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
+  }
+}
