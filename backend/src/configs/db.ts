@@ -1,17 +1,15 @@
 import { Pool } from "pg";
-import dotenv from "dotenv";
-
-dotenv.config();
+import { config } from "./env.ts";
 
 const pool = new Pool({
-    host: process.env.DB_HOST,
-    port: Number(process.env.DB_PORT) || 5432,
-    user: process.env.DB_USER,
-    password: process.env.DB_PASSWORD,
-    database: process.env.DB_NAME
+    host: config.DB_HOST,
+    port: Number(config.DB_PORT) || 5432,
+    user: config.DB_USER,
+    password: config.DB_PASSWORD,
+    database: config.DB_NAME
 });
 
-const testConnection = async ()  => {
+const testConnection = async (): Promise<void> => {
     try {
         const cliente = await pool.connect();
         console.log("Conexión a PostgreSQL exitosa");

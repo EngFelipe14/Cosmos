@@ -1,17 +1,14 @@
 import express from "express";
-import type { Application, Request, Response } from "express";
-import dotenv from "dotenv";
+import type { Application} from "express";
+import authRoutes from "./routers/auth.routes.ts";
+import { config } from "./configs/env.ts";
 
-dotenv.config({ path: '../.env' });
 const app: Application = express();
-
 app.use(express.json());
 
-app.get("/prueba", (request: Request, response: Response) => {
-    response.json({message: "prueba exitosa"})
-});
-
-const PORT = process.env.PORT || 3000;
+const PORT = config.PORT || 3000;
 app.listen(PORT, (): void => {
     console.log(`Servidor escuchando en el puerto ${PORT}`);
 });
+
+app.use("/auth", authRoutes);
