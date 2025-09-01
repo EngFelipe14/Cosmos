@@ -1,6 +1,6 @@
 import { OAuth2Client } from "google-auth-library";
 import { config } from '../configs/env.ts';
-import { findGoogleSub, createUser } from "../repositories/usuario.repositories.ts";
+import { findGoogleSub, createUser } from "../repositories/usuario.repository.ts";
 import type { Usuario } from "../models/usuario.model.ts";
 import { createToken } from "../utils/jwt.utils.ts";
 

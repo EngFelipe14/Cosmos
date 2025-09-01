@@ -11,7 +11,8 @@ interface Config {
     DB_NAME : string,
     GOOGLE_CLIENT_ID : string,
     GOOGLE_CLIENT_SECRET : string,
-    JWT_SECRET : string,
+    JWT_SECRET: string,
+    OPENWEATHER_KEY: string
 }
 
 const getEnv = (name: string): string => {
@@ -32,5 +33,6 @@ export const config: Config = {
     DB_NAME : getEnv("DB_NAME"),
     GOOGLE_CLIENT_ID : getEnv("GOOGLE_CLIENT_ID"),
     GOOGLE_CLIENT_SECRET : getEnv("GOOGLE_CLIENT_SECRET"),
-    JWT_SECRET : getEnv("JWT_SECRET")
+    JWT_SECRET: getEnv("JWT_SECRET"),
+    OPENWEATHER_KEY: getEnv("OPENWEATHER_KEY")
 }

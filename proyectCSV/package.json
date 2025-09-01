@@ -1,0 +1,24 @@
+{
+  "name": "proyectcsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node generar.objeto.ts",
+    "gen-sql-individual": "ts-node generar.sql.individual.ts",
+    "gen-sql-todo": "ts-node generar.sql.todo.ts",
+    "gen-sql-both": "npm run gen-sql-individual && npm run gen-sql-todo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "csv-parser": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}

@@ -4,6 +4,7 @@
 *.docx
 *.txt
 *.svg
+*.sql
 
 # Logs
 
