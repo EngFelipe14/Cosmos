@@ -18,7 +18,7 @@ export interface ObservacionClima {
 }
 
 export interface CreateObservacionClima {
-  municipio_id: number;
+  municipio_id: number | null;
   temperatura: number | null;
   humedad: number | null;
   presion: number | null;
@@ -29,7 +29,6 @@ export interface CreateObservacionClima {
   lluvia_1h: number | null;
   lluvia_3h: number | null;
   nubes: number | null;
-  uv_index: number | null;
   visibilidad: number | null;
   sensacion_termica: number | null;
 }

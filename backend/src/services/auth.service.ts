@@ -7,9 +7,11 @@ import { viewFavoriteMunicipality } from "../repositories/favorito.repository.ts
 import { findValidByMunicipio } from "../repositories/obsevacion-clima.repository.ts";
 import { requestWeatherCurrent } from "../utils/openweather.utils.ts";
 import { findMunicipalityById } from "../repositories/municipio.repository.ts";
+import type { Municipio } from "../models/municipio.model.ts";
 
 
 const client = new OAuth2Client(config.GOOGLE_CLIENT_ID);
+const municipalityDC: Municipio = { longitud: -74.106992, latitud: 4.649251 };
 
 export async function loginWithGoogle(idToken: string) {
 
@@ -40,13 +42,16 @@ export async function loginWithGoogle(idToken: string) {
   const token = createToken({ userId: user.id, email: user.email })
   
   const idMunicipalityFavoite = await viewFavoriteMunicipality(user.id);
-  if (!idMunicipalityFavoite) return { token, user: { id: user.id, email: user.email, name: user.name, picture } };;
+  if (idMunicipalityFavoite) {
+    const dataMunicipality = await findValidByMunicipio(idMunicipalityFavoite);
+    if (dataMunicipality) return { token, dataMunicipality, user: { id: user.id, email: user.email, name: user.name, picture } };
 
-  const dataMunicipality = await findValidByMunicipio(idMunicipalityFavoite);
-  if (dataMunicipality) return { token, dataMunicipality, user: { id: user.id, email: user.email, name: user.name, picture } };
+    const coordinates = await findMunicipalityById(idMunicipalityFavoite);
+    const clima = await requestWeatherCurrent(coordinates.latitud, coordinates.longitud, idMunicipalityFavoite);
 
-  const coordinates = await findMunicipalityById(idMunicipalityFavoite);
-  const clima = await requestWeatherCurrent(coordinates.latitud, coordinates.longitud, idMunicipalityFavoite);
+    return { token, clima, user: { id: user.id, email: user.email, name: user.name, picture } };
+  }
 
+  const clima = await requestWeatherCurrent(municipalityDC.latitud, municipalityDC.longitud);
   return { token, clima, user: { id: user.id, email: user.email, name: user.name, picture } };
 }

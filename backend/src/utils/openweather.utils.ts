@@ -3,7 +3,7 @@ import { config } from '../configs/env.ts';
 
 const API_KEY = config.OPENWEATHER_KEY;
 
-export const requestWeatherCurrent = async (latitud: number, longitud: number, municipalityId: number) => {
+export const requestWeatherCurrent = async (latitud: number, longitud: number, municipalityId?: number) => {
   const url = `https://api.openweathermap.org/data/2.5/weather?lat=${latitud}&lon=${longitud}&appid=${API_KEY}&lang=es&units=metric`;
 
   const response = await fetch(url);
@@ -14,7 +14,7 @@ export const requestWeatherCurrent = async (latitud: number, longitud: number, m
         const data = await response.json();
     
         const clima: CreateObservacionClima = {
-          municipio_id: municipalityId,
+          municipio_id: municipalityId ?? null,
           temperatura: data.main?.temp ?? null,
           humedad: data.main?.humidity ?? null,
           presion: data.main?.pressure ?? null,
@@ -25,7 +25,6 @@ export const requestWeatherCurrent = async (latitud: number, longitud: number, m
           lluvia_1h: data.rain?.['1h'] ?? null,
           lluvia_3h: data.rain?.['3h'] ?? null,
           nubes: data.clouds?.all ?? null,
-          uv_index: null,
           visibilidad: data.visibility ?? null,
           sensacion_termica: data.main?.feels_like ?? null,
   }
