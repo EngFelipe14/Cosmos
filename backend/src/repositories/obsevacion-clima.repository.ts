@@ -10,9 +10,19 @@ export const findValidByMunicipio = async (municipalityId: number): Promise<Obse
 export const upsertWeather = async(municipioId: number, data: CreateObservacionClima): Promise<void> => {
   const query = `
     INSERT INTO Observacion_clima (
-      municipio_id, timestamp, temperatura, humedad, presion, velocidad_viento,
-      direccion_viento, descripcion_clima, icono_clima, lluvia_1h, lluvia_3h,
-      nubes, uv_index, visibilidad, sensacion_termica
+      municipio_id,
+      timestamp,
+      temperatura,
+      humedad, presion,
+      velocidad_viento,
+      direccion_viento,
+      descripcion_clima,
+      icono_clima,
+      lluvia_1h,
+      lluvia_3h,
+      nubes,
+      visibilidad,
+      sensacion_termica
     )
     VALUES (
       $1, NOW(), $2, $3, $4, $5,
@@ -32,16 +42,23 @@ export const upsertWeather = async(municipioId: number, data: CreateObservacionC
       lluvia_1h = EXCLUDED.lluvia_1h,
       lluvia_3h = EXCLUDED.lluvia_3h,
       nubes = EXCLUDED.nubes,
-      uv_index = EXCLUDED.uv_index,
       visibilidad = EXCLUDED.visibilidad,
       sensacion_termica = EXCLUDED.sensacion_termica;
   `;
   const values = [
     municipioId,
-    data.temperatura, data.humedad, data.presion, data.velocidad_viento,
-    data.direccion_viento, data.descripcion_clima, data.icono_clima,
-    data.lluvia_1h, data.lluvia_3h,
-    data.nubes, data.uv_index, data.visibilidad, data.sensacion_termica
+    data.temperatura,
+    data.humedad,
+    data.presion,
+    data.velocidad_viento,
+    data.direccion_viento,
+    data.descripcion_clima,
+    data.icono_clima,
+    data.lluvia_1h,
+    data.lluvia_3h,
+    data.nubes,
+    data.visibilidad,
+    data.sensacion_termica
   ];
   await pool.query(query, values);
 }

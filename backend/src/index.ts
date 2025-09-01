@@ -3,6 +3,7 @@ import type { Application} from "express";
 import authRoutes from "./routers/auth.routes.ts";
 import { config } from "./configs/env.ts";
 import weatherRoutes from './routers/weather.routes.ts';
+import favoriteRoutes from './routers/favorito.routes.ts';
 
 const app: Application = express();
 app.use(express.json());
@@ -13,4 +14,5 @@ app.listen(PORT, (): void => {
 });
 
 app.use("/auth", authRoutes);
-app.use("/clima", weatherRoutes)
+app.use("/clima", weatherRoutes);
+app.use('/', favoriteRoutes);

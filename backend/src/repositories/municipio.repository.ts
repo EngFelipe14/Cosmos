@@ -1,4 +1,3 @@
-// backend/src/repositories/municipio.repository.ts
 import type { Municipio } from '../models/municipio.model.ts';
 import pool from '../configs/db.ts';
 

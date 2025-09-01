@@ -1,5 +1,5 @@
 export interface Municipio {
-  id?: number;
+  id: number;
   municipio?: string;
   cod_municipio?: number | null;
   departamento?: string;

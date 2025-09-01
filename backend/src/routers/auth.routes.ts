@@ -1,6 +1,7 @@
 import { Router } from "express";
-import { validateGoogleToken, verifyJWT} from "../middlewares/googleAuth.middleware.ts";
+import { validateGoogleToken} from "../middlewares/googleAuth.middleware.ts";
 import { googleAuthController, logoutController } from "../controllers/auth.controller.ts";
+import { verifyJWT } from "../middlewares/validate-jwt.middleware.ts";
 
 const router = Router();
 
