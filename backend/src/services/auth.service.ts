@@ -3,6 +3,10 @@ import { config } from '../configs/env.ts';
 import { findGoogleSub, createUser } from "../repositories/usuario.repository.ts";
 import type { Usuario } from "../models/usuario.model.ts";
 import { createToken } from "../utils/jwt.utils.ts";
+import { viewFavoriteMunicipality } from "../repositories/favorito.repository.ts";
+import { findValidByMunicipio } from "../repositories/obsevacion-clima.repository.ts";
+import { requestWeatherCurrent } from "../utils/openweather.utils.ts";
+import { findMunicipalityById } from "../repositories/municipio.repository.ts";
 
 
 const client = new OAuth2Client(config.GOOGLE_CLIENT_ID);
@@ -33,7 +37,16 @@ export async function loginWithGoogle(idToken: string) {
     user = result;
   }
 
-  const token = createToken({userId: user.id, email: user.email})
+  const token = createToken({ userId: user.id, email: user.email })
+  
+  const idMunicipalityFavoite = await viewFavoriteMunicipality(user.id);
+  if (!idMunicipalityFavoite) return { token, user: { id: user.id, email: user.email, name: user.name, picture } };;
 
-  return { token, user: { id: user.id, email: user.email, name: user.name, picture } };
+  const dataMunicipality = await findValidByMunicipio(idMunicipalityFavoite);
+  if (dataMunicipality) return { token, dataMunicipality, user: { id: user.id, email: user.email, name: user.name, picture } };
+
+  const coordinates = await findMunicipalityById(idMunicipalityFavoite);
+  const clima = await requestWeatherCurrent(coordinates.latitud, coordinates.longitud, idMunicipalityFavoite);
+
+  return { token, clima, user: { id: user.id, email: user.email, name: user.name, picture } };
 }
