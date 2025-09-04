@@ -1,0 +1,7716 @@
+[
+  {
+    "codigo_municipio": "05002",
+    "municipio": "Abejorral",
+    "departamento": "Antioquia",
+    "lat": 5.803728154,
+    "lng": -75.43847353
+  },
+  {
+    "codigo_municipio": "05004",
+    "municipio": "Abriaquí",
+    "departamento": "Antioquia",
+    "lat": 6.627569378,
+    "lng": -76.08597756
+  },
+  {
+    "codigo_municipio": "50006",
+    "municipio": "Acacías",
+    "departamento": "Meta",
+    "lat": 3.943383008,
+    "lng": -73.57135162
+  },
+  {
+    "codigo_municipio": "27006",
+    "municipio": "Acandí",
+    "departamento": "Chocó",
+    "lat": 8.383938499,
+    "lng": -77.26560256
+  },
+  {
+    "codigo_municipio": "41006",
+    "municipio": "Acevedo",
+    "departamento": "Huila",
+    "lat": 1.709114446,
+    "lng": -75.99664184
+  },
+  {
+    "codigo_municipio": "13006",
+    "municipio": "Achí",
+    "departamento": "Bolívar",
+    "lat": 8.622943262,
+    "lng": -74.47805945
+  },
+  {
+    "codigo_municipio": "41013",
+    "municipio": "Agrado",
+    "departamento": "Huila",
+    "lat": 2.26975042,
+    "lng": -75.71632236
+  },
+  {
+    "codigo_municipio": "25001",
+    "municipio": "Agua de Dios",
+    "departamento": "Cundinamarca",
+    "lat": 4.372744676,
+    "lng": -74.67111051
+  },
+  {
+    "codigo_municipio": "20011",
+    "municipio": "Aguachica",
+    "departamento": "Cesar",
+    "lat": 8.248735219,
+    "lng": -73.6227405
+  },
+  {
+    "codigo_municipio": "68013",
+    "municipio": "Aguada",
+    "departamento": "Santander",
+    "lat": 6.182208476,
+    "lng": -73.53038541
+  },
+  {
+    "codigo_municipio": "17013",
+    "municipio": "Aguadas",
+    "departamento": "Caldas",
+    "lat": 5.616204006,
+    "lng": -75.4554471
+  },
+  {
+    "codigo_municipio": "85010",
+    "municipio": "Aguazul",
+    "departamento": "Casanare",
+    "lat": 5.126121886,
+    "lng": -72.54821017
+  },
+  {
+    "codigo_municipio": "20013",
+    "municipio": "Agustín Codazzi",
+    "departamento": "Cesar",
+    "lat": 9.949215908,
+    "lng": -73.22358244
+  },
+  {
+    "codigo_municipio": "41016",
+    "municipio": "Aipe",
+    "departamento": "Huila",
+    "lat": 3.243441923,
+    "lng": -75.27670655
+  },
+  {
+    "codigo_municipio": "18029",
+    "municipio": "Albania",
+    "departamento": "Caquetá",
+    "lat": 1.22786549,
+    "lng": -75.88232651
+  },
+  {
+    "codigo_municipio": "44035",
+    "municipio": "Albania",
+    "departamento": "La Guajira",
+    "lat": 11.22869049,
+    "lng": -72.53209657
+  },
+  {
+    "codigo_municipio": "68020",
+    "municipio": "Albania",
+    "departamento": "Santander",
+    "lat": 5.788190519,
+    "lng": -73.79236929
+  },
+  {
+    "codigo_municipio": "25019",
+    "municipio": "Albán",
+    "departamento": "Cundinamarca",
+    "lat": 4.891121638,
+    "lng": -74.44278432
+  },
+  {
+    "codigo_municipio": "52019",
+    "municipio": "Albán",
+    "departamento": "Nariño",
+    "lat": 1.469854084,
+    "lng": -77.06880947
+  },
+  {
+    "codigo_municipio": "76020",
+    "municipio": "Alcalá",
+    "departamento": "Valle del Cauca",
+    "lat": 4.6788971,
+    "lng": -75.78297932
+  },
+  {
+    "codigo_municipio": "52022",
+    "municipio": "Aldana",
+    "departamento": "Nariño",
+    "lat": 0.913431916,
+    "lng": -77.69538731
+  },
+  {
+    "codigo_municipio": "05021",
+    "municipio": "Alejandría",
+    "departamento": "Antioquia",
+    "lat": 6.365534125,
+    "lng": -75.09059702
+  },
+  {
+    "codigo_municipio": "47030",
+    "municipio": "Algarrobo",
+    "departamento": "Magdalena",
+    "lat": 10.25356475,
+    "lng": -74.10323027
+  },
+  {
+    "codigo_municipio": "41020",
+    "municipio": "Algeciras",
+    "departamento": "Huila",
+    "lat": 2.49785068,
+    "lng": -75.29134946
+  },
+  {
+    "codigo_municipio": "19022",
+    "municipio": "Almaguer",
+    "departamento": "Cauca",
+    "lat": 1.912440521,
+    "lng": -76.83494519
+  },
+  {
+    "codigo_municipio": "15022",
+    "municipio": "Almeida",
+    "departamento": "Boyacá",
+    "lat": 4.954825081,
+    "lng": -73.38813425
+  },
+  {
+    "codigo_municipio": "73024",
+    "municipio": "Alpujarra",
+    "departamento": "Tolima",
+    "lat": 3.390015064,
+    "lng": -74.94078233
+  },
+  {
+    "codigo_municipio": "41026",
+    "municipio": "Altamira",
+    "departamento": "Huila",
+    "lat": 2.07922808,
+    "lng": -75.76858288
+  },
+  {
+    "codigo_municipio": "27025",
+    "municipio": "Alto Baudó",
+    "departamento": "Chocó",
+    "lat": 5.636740989,
+    "lng": -77.0842154
+  },
+  {
+    "codigo_municipio": "13030",
+    "municipio": "Altos del Rosario",
+    "departamento": "Bolívar",
+    "lat": 8.757468863,
+    "lng": -74.19515811
+  },
+  {
+    "codigo_municipio": "73026",
+    "municipio": "Alvarado",
+    "departamento": "Tolima",
+    "lat": 4.582625784,
+    "lng": -74.98630686
+  },
+  {
+    "codigo_municipio": "05030",
+    "municipio": "Amagá",
+    "departamento": "Antioquia",
+    "lat": 6.032921994,
+    "lng": -75.7080031
+  },
+  {
+    "codigo_municipio": "05031",
+    "municipio": "Amalfi",
+    "departamento": "Antioquia",
+    "lat": 6.977788843,
+    "lng": -74.9812393
+  },
+  {
+    "codigo_municipio": "73030",
+    "municipio": "Ambalema",
+    "departamento": "Tolima",
+    "lat": 4.803365246,
+    "lng": -74.80998676
+  },
+  {
+    "codigo_municipio": "25035",
+    "municipio": "Anapoima",
+    "departamento": "Cundinamarca",
+    "lat": 4.559962881,
+    "lng": -74.5256953
+  },
+  {
+    "codigo_municipio": "52036",
+    "municipio": "Ancuya",
+    "departamento": "Nariño",
+    "lat": 1.245254077,
+    "lng": -77.53115777
+  },
+  {
+    "codigo_municipio": "76036",
+    "municipio": "Andalucía",
+    "departamento": "Valle del Cauca",
+    "lat": 4.153314228,
+    "lng": -76.16063341
+  },
+  {
+    "codigo_municipio": "05034",
+    "municipio": "Andes",
+    "departamento": "Antioquia",
+    "lat": 5.604993248,
+    "lng": -75.94128391
+  },
+  {
+    "codigo_municipio": "05036",
+    "municipio": "Angelópolis",
+    "departamento": "Antioquia",
+    "lat": 6.121430303,
+    "lng": -75.71594966
+  },
+  {
+    "codigo_municipio": "05038",
+    "municipio": "Angostura",
+    "departamento": "Antioquia",
+    "lat": 6.861498764,
+    "lng": -75.358316
+  },
+  {
+    "codigo_municipio": "25040",
+    "municipio": "Anolaima",
+    "departamento": "Cundinamarca",
+    "lat": 4.789313614,
+    "lng": -74.46194256
+  },
+  {
+    "codigo_municipio": "05040",
+    "municipio": "Anorí",
+    "departamento": "Antioquia",
+    "lat": 7.193110778,
+    "lng": -75.10848954
+  },
+  {
+    "codigo_municipio": "17042",
+    "municipio": "Anserma",
+    "departamento": "Caldas",
+    "lat": 5.20029922,
+    "lng": -75.75289078
+  },
+  {
+    "codigo_municipio": "76041",
+    "municipio": "Ansermanuevo",
+    "departamento": "Valle del Cauca",
+    "lat": 4.795927292,
+    "lng": -76.02963049
+  },
+  {
+    "codigo_municipio": "73043",
+    "municipio": "Anzoátegui",
+    "departamento": "Tolima",
+    "lat": 4.623390454,
+    "lng": -75.20165423
+  },
+  {
+    "codigo_municipio": "05044",
+    "municipio": "Anzá",
+    "departamento": "Antioquia",
+    "lat": 6.293546613,
+    "lng": -75.91736927
+  },
+  {
+    "codigo_municipio": "05045",
+    "municipio": "Apartadó",
+    "departamento": "Antioquia",
+    "lat": 7.86047815,
+    "lng": -76.58236264
+  },
+  {
+    "codigo_municipio": "25599",
+    "municipio": "Apulo",
+    "departamento": "Cundinamarca",
+    "lat": 4.537711619,
+    "lng": -74.59124656
+  },
+  {
+    "codigo_municipio": "66045",
+    "municipio": "Apía",
+    "departamento": "Risaralda",
+    "lat": 5.139635357,
+    "lng": -75.95353871
+  },
+  {
+    "codigo_municipio": "15047",
+    "municipio": "Aquitania",
+    "departamento": "Boyacá",
+    "lat": 5.437416373,
+    "lng": -72.87149471
+  },
+  {
+    "codigo_municipio": "47053",
+    "municipio": "Aracataca",
+    "departamento": "Magdalena",
+    "lat": 10.64490877,
+    "lng": -73.87972257
+  },
+  {
+    "codigo_municipio": "17050",
+    "municipio": "Aranzazu",
+    "departamento": "Caldas",
+    "lat": 5.265539969,
+    "lng": -75.47392619
+  },
+  {
+    "codigo_municipio": "68051",
+    "municipio": "Aratoca",
+    "departamento": "Santander",
+    "lat": 6.716766585,
+    "lng": -73.01162697
+  },
+  {
+    "codigo_municipio": "81001",
+    "municipio": "Arauca",
+    "departamento": "Arauca",
+    "lat": 6.796280825,
+    "lng": -70.50921153
+  },
+  {
+    "codigo_municipio": "81065",
+    "municipio": "Arauquita",
+    "departamento": "Arauca",
+    "lat": 6.799338394,
+    "lng": -71.29827429
+  },
+  {
+    "codigo_municipio": "25053",
+    "municipio": "Arbeláez",
+    "departamento": "Cundinamarca",
+    "lat": 4.232786985,
+    "lng": -74.39576291
+  },
+  {
+    "codigo_municipio": "52051",
+    "municipio": "Arboleda",
+    "departamento": "Nariño",
+    "lat": 1.480051172,
+    "lng": -77.12985001
+  },
+  {
+    "codigo_municipio": "54051",
+    "municipio": "Arboledas",
+    "departamento": "Norte de Santander",
+    "lat": 7.586048164,
+    "lng": -72.91705315
+  },
+  {
+    "codigo_municipio": "05051",
+    "municipio": "Arboletes",
+    "departamento": "Antioquia",
+    "lat": 8.611395262,
+    "lng": -76.41478317
+  },
+  {
+    "codigo_municipio": "15051",
+    "municipio": "Arcabuco",
+    "departamento": "Boyacá",
+    "lat": 5.73526424,
+    "lng": -73.42793109
+  },
+  {
+    "codigo_municipio": "13042",
+    "municipio": "Arenal",
+    "departamento": "Bolívar",
+    "lat": 8.362996158,
+    "lng": -74.10301905
+  },
+  {
+    "codigo_municipio": "05055",
+    "municipio": "Argelia",
+    "departamento": "Antioquia",
+    "lat": 5.708114524,
+    "lng": -75.09469795
+  },
+  {
+    "codigo_municipio": "19050",
+    "municipio": "Argelia",
+    "departamento": "Cauca",
+    "lat": 2.329337283,
+    "lng": -77.26314906
+  },
+  {
+    "codigo_municipio": "76054",
+    "municipio": "Argelia",
+    "departamento": "Valle del Cauca",
+    "lat": 4.704287864,
+    "lng": -76.14164999
+  },
+  {
+    "codigo_municipio": "47058",
+    "municipio": "Ariguaní",
+    "departamento": "Magdalena",
+    "lat": 9.834264955,
+    "lng": -74.08460085
+  },
+  {
+    "codigo_municipio": "13052",
+    "municipio": "Arjona",
+    "departamento": "Bolívar",
+    "lat": 10.16422123,
+    "lng": -75.37121788
+  },
+  {
+    "codigo_municipio": "05059",
+    "municipio": "Armenia",
+    "departamento": "Antioquia",
+    "lat": 6.163683758,
+    "lng": -75.80995528
+  },
+  {
+    "codigo_municipio": "63001",
+    "municipio": "Armenia",
+    "departamento": "Quindío",
+    "lat": 4.499501128,
+    "lng": -75.72489985
+  },
+  {
+    "codigo_municipio": "73055",
+    "municipio": "Armero",
+    "departamento": "Tolima",
+    "lat": 5.006758956,
+    "lng": -74.84750095
+  },
+  {
+    "codigo_municipio": "13062",
+    "municipio": "Arroyohondo",
+    "departamento": "Bolívar",
+    "lat": 10.24171805,
+    "lng": -75.02690422
+  },
+  {
+    "codigo_municipio": "20032",
+    "municipio": "Astrea",
+    "departamento": "Cesar",
+    "lat": 9.510727925,
+    "lng": -73.94214641
+  },
+  {
+    "codigo_municipio": "73067",
+    "municipio": "Ataco",
+    "departamento": "Tolima",
+    "lat": 3.37749064,
+    "lng": -75.61373257
+  },
+  {
+    "codigo_municipio": "27050",
+    "municipio": "Atrato",
+    "departamento": "Chocó",
+    "lat": 5.525825084,
+    "lng": -76.65064357
+  },
+  {
+    "codigo_municipio": "23068",
+    "municipio": "Ayapel",
+    "departamento": "Córdoba",
+    "lat": 8.265768688,
+    "lng": -75.04868436
+  },
+  {
+    "codigo_municipio": "27073",
+    "municipio": "Bagadó",
+    "departamento": "Chocó",
+    "lat": 5.503119772,
+    "lng": -76.19796907
+  },
+  {
+    "codigo_municipio": "27075",
+    "municipio": "Bahía Solano",
+    "departamento": "Chocó",
+    "lat": 6.162762775,
+    "lng": -77.41653534
+  },
+  {
+    "codigo_municipio": "27077",
+    "municipio": "Bajo Baudó",
+    "departamento": "Chocó",
+    "lat": 4.492865435,
+    "lng": -77.08271352
+  },
+  {
+    "codigo_municipio": "19075",
+    "municipio": "Balboa",
+    "departamento": "Cauca",
+    "lat": 2.084732945,
+    "lng": -77.2088133
+  },
+  {
+    "codigo_municipio": "66075",
+    "municipio": "Balboa",
+    "departamento": "Risaralda",
+    "lat": 4.918349676,
+    "lng": -75.94275386
+  },
+  {
+    "codigo_municipio": "08078",
+    "municipio": "Baranoa",
+    "departamento": "Atlántico",
+    "lat": 10.79329302,
+    "lng": -74.92219491
+  },
+  {
+    "codigo_municipio": "41078",
+    "municipio": "Baraya",
+    "departamento": "Huila",
+    "lat": 3.135423634,
+    "lng": -74.95797796
+  },
+  {
+    "codigo_municipio": "52079",
+    "municipio": "Barbacoas",
+    "departamento": "Nariño",
+    "lat": 1.44563774,
+    "lng": -78.15621072
+  },
+  {
+    "codigo_municipio": "05079",
+    "municipio": "Barbosa",
+    "departamento": "Antioquia",
+    "lat": 6.443417935,
+    "lng": -75.32924085
+  },
+  {
+    "codigo_municipio": "68077",
+    "municipio": "Barbosa",
+    "departamento": "Santander",
+    "lat": 5.955617327,
+    "lng": -73.62345229
+  },
+  {
+    "codigo_municipio": "68079",
+    "municipio": "Barichara",
+    "departamento": "Santander",
+    "lat": 6.647062543,
+    "lng": -73.21518466
+  },
+  {
+    "codigo_municipio": "50110",
+    "municipio": "Barranca de Upía",
+    "departamento": "Meta",
+    "lat": 4.519076127,
+    "lng": -72.99548981
+  },
+  {
+    "codigo_municipio": "68081",
+    "municipio": "Barrancabermeja",
+    "departamento": "Santander",
+    "lat": 7.054074558,
+    "lng": -73.78211646
+  },
+  {
+    "codigo_municipio": "44078",
+    "municipio": "Barrancas",
+    "departamento": "La Guajira",
+    "lat": 10.94871677,
+    "lng": -72.69696879
+  },
+  {
+    "codigo_municipio": "13074",
+    "municipio": "Barranco de Loba",
+    "departamento": "Bolívar",
+    "lat": 8.837077654,
+    "lng": -74.27966531
+  },
+  {
+    "codigo_municipio": "94343",
+    "municipio": "Barrancominas",
+    "departamento": "Guainía",
+    "lat": 3.140558454,
+    "lng": -69.69713423
+  },
+  {
+    "codigo_municipio": "08001",
+    "municipio": "Barranquilla",
+    "departamento": "Atlántico",
+    "lat": 10.98152051,
+    "lng": -74.82771544
+  },
+  {
+    "codigo_municipio": "20045",
+    "municipio": "Becerril",
+    "departamento": "Cesar",
+    "lat": 9.727732939,
+    "lng": -73.25250522
+  },
+  {
+    "codigo_municipio": "17088",
+    "municipio": "Belalcázar",
+    "departamento": "Caldas",
+    "lat": 4.99467728,
+    "lng": -75.81225989
+  },
+  {
+    "codigo_municipio": "05088",
+    "municipio": "Bello",
+    "departamento": "Antioquia",
+    "lat": 6.358841086,
+    "lng": -75.58973588
+  },
+  {
+    "codigo_municipio": "05086",
+    "municipio": "Belmira",
+    "departamento": "Antioquia",
+    "lat": 6.665853953,
+    "lng": -75.68621659
+  },
+  {
+    "codigo_municipio": "25086",
+    "municipio": "Beltrán",
+    "departamento": "Cundinamarca",
+    "lat": 4.791721105,
+    "lng": -74.71491399
+  },
+  {
+    "codigo_municipio": "15087",
+    "municipio": "Belén",
+    "departamento": "Boyacá",
+    "lat": 6.005059265,
+    "lng": -72.89369887
+  },
+  {
+    "codigo_municipio": "52083",
+    "municipio": "Belén",
+    "departamento": "Nariño",
+    "lat": 1.593645287,
+    "lng": -77.01999366
+  },
+  {
+    "codigo_municipio": "66088",
+    "municipio": "Belén de Umbría",
+    "departamento": "Risaralda",
+    "lat": 5.200398696,
+    "lng": -75.86793893
+  },
+  {
+    "codigo_municipio": "18094",
+    "municipio": "Belén de los Andaquíes",
+    "departamento": "Caquetá",
+    "lat": 1.536174657,
+    "lng": -75.90947504
+  },
+  {
+    "codigo_municipio": "15090",
+    "municipio": "Berbeo",
+    "departamento": "Boyacá",
+    "lat": 5.230936356,
+    "lng": -73.12731944
+  },
+  {
+    "codigo_municipio": "05091",
+    "municipio": "Betania",
+    "departamento": "Antioquia",
+    "lat": 5.727081285,
+    "lng": -75.98689107
+  },
+  {
+    "codigo_municipio": "05093",
+    "municipio": "Betulia",
+    "departamento": "Antioquia",
+    "lat": 6.185783612,
+    "lng": -75.95649246
+  },
+  {
+    "codigo_municipio": "68092",
+    "municipio": "Betulia",
+    "departamento": "Santander",
+    "lat": 7.033255886,
+    "lng": -73.37872388
+  },
+  {
+    "codigo_municipio": "15092",
+    "municipio": "Betéitiva",
+    "departamento": "Boyacá",
+    "lat": 5.920858933,
+    "lng": -72.84857876
+  },
+  {
+    "codigo_municipio": "25095",
+    "municipio": "Bituima",
+    "departamento": "Cundinamarca",
+    "lat": 4.847821091,
+    "lng": -74.52862766
+  },
+  {
+    "codigo_municipio": "15097",
+    "municipio": "Boavita",
+    "departamento": "Boyacá",
+    "lat": 6.337515626,
+    "lng": -72.62021239
+  },
+  {
+    "codigo_municipio": "54099",
+    "municipio": "Bochalema",
+    "departamento": "Norte de Santander",
+    "lat": 7.608509339,
+    "lng": -72.65951909
+  },
+  {
+    "codigo_municipio": "11001",
+    "municipio": "Bogotá, D.C.",
+    "departamento": "Bogotá, D.C.",
+    "lat": 4.316107698,
+    "lng": -74.1810727
+  },
+  {
+    "codigo_municipio": "25099",
+    "municipio": "Bojacá",
+    "departamento": "Cundinamarca",
+    "lat": 4.705576252,
+    "lng": -74.3354077
+  },
+  {
+    "codigo_municipio": "27099",
+    "municipio": "Bojayá",
+    "departamento": "Chocó",
+    "lat": 6.474666885,
+    "lng": -77.09933025
+  },
+  {
+    "codigo_municipio": "19100",
+    "municipio": "Bolívar",
+    "departamento": "Cauca",
+    "lat": 1.853951938,
+    "lng": -76.96337454
+  },
+  {
+    "codigo_municipio": "68101",
+    "municipio": "Bolívar",
+    "departamento": "Santander",
+    "lat": 6.181715586,
+    "lng": -73.92065703
+  },
+  {
+    "codigo_municipio": "76100",
+    "municipio": "Bolívar",
+    "departamento": "Valle del Cauca",
+    "lat": 4.393118861,
+    "lng": -76.34982039
+  },
+  {
+    "codigo_municipio": "20060",
+    "municipio": "Bosconia",
+    "departamento": "Cesar",
+    "lat": 9.946391309,
+    "lng": -73.86628815
+  },
+  {
+    "codigo_municipio": "15104",
+    "municipio": "Boyacá",
+    "departamento": "Boyacá",
+    "lat": 5.439856216,
+    "lng": -73.38136994
+  },
+  {
+    "codigo_municipio": "05107",
+    "municipio": "Briceño",
+    "departamento": "Antioquia",
+    "lat": 7.111788462,
+    "lng": -75.56223474
+  },
+  {
+    "codigo_municipio": "15106",
+    "municipio": "Briceño",
+    "departamento": "Boyacá",
+    "lat": 5.673229265,
+    "lng": -73.92660705
+  },
+  {
+    "codigo_municipio": "68001",
+    "municipio": "Bucaramanga",
+    "departamento": "Santander",
+    "lat": 7.155833544,
+    "lng": -73.11156997
+  },
+  {
+    "codigo_municipio": "54109",
+    "municipio": "Bucarasica",
+    "departamento": "Norte de Santander",
+    "lat": 8.079802239,
+    "lng": -72.92919926
+  },
+  {
+    "codigo_municipio": "76109",
+    "municipio": "Buenaventura",
+    "departamento": "Valle del Cauca",
+    "lat": 3.493340766,
+    "lng": -77.11872832
+  },
+  {
+    "codigo_municipio": "15109",
+    "municipio": "Buenavista",
+    "departamento": "Boyacá",
+    "lat": 5.489399419,
+    "lng": -73.95066255
+  },
+  {
+    "codigo_municipio": "23079",
+    "municipio": "Buenavista",
+    "departamento": "Córdoba",
+    "lat": 8.191397953,
+    "lng": -75.43382532
+  },
+  {
+    "codigo_municipio": "63111",
+    "municipio": "Buenavista",
+    "departamento": "Quindío",
+    "lat": 4.366632382,
+    "lng": -75.74403734
+  },
+  {
+    "codigo_municipio": "70110",
+    "municipio": "Buenavista",
+    "departamento": "Sucre",
+    "lat": 9.314972282,
+    "lng": -74.98014057
+  },
+  {
+    "codigo_municipio": "19110",
+    "municipio": "Buenos Aires",
+    "departamento": "Cauca",
+    "lat": 2.988923885,
+    "lng": -76.62158951
+  },
+  {
+    "codigo_municipio": "52110",
+    "municipio": "Buesaco",
+    "departamento": "Nariño",
+    "lat": 1.315215636,
+    "lng": -77.1163664
+  },
+  {
+    "codigo_municipio": "76113",
+    "municipio": "Bugalagrande",
+    "departamento": "Valle del Cauca",
+    "lat": 4.196852991,
+    "lng": -76.0896103
+  },
+  {
+    "codigo_municipio": "05113",
+    "municipio": "Buriticá",
+    "departamento": "Antioquia",
+    "lat": 6.80906489,
+    "lng": -75.91206595
+  },
+  {
+    "codigo_municipio": "15114",
+    "municipio": "Busbanzá",
+    "departamento": "Boyacá",
+    "lat": 5.843483731,
+    "lng": -72.87574623
+  },
+  {
+    "codigo_municipio": "25120",
+    "municipio": "Cabrera",
+    "departamento": "Cundinamarca",
+    "lat": 3.91861924,
+    "lng": -74.44615606
+  },
+  {
+    "codigo_municipio": "68121",
+    "municipio": "Cabrera",
+    "departamento": "Santander",
+    "lat": 6.562543673,
+    "lng": -73.25034892
+  },
+  {
+    "codigo_municipio": "50124",
+    "municipio": "Cabuyaro",
+    "departamento": "Meta",
+    "lat": 4.315244759,
+    "lng": -72.95268896
+  },
+  {
+    "codigo_municipio": "25123",
+    "municipio": "Cachipay",
+    "departamento": "Cundinamarca",
+    "lat": 4.723063341,
+    "lng": -74.45919528
+  },
+  {
+    "codigo_municipio": "05125",
+    "municipio": "Caicedo",
+    "departamento": "Antioquia",
+    "lat": 6.423463639,
+    "lng": -75.99351498
+  },
+  {
+    "codigo_municipio": "76122",
+    "municipio": "Caicedonia",
+    "departamento": "Valle del Cauca",
+    "lat": 4.308997973,
+    "lng": -75.83672567
+  },
+  {
+    "codigo_municipio": "70124",
+    "municipio": "Caimito",
+    "departamento": "Sucre",
+    "lat": 8.792311599,
+    "lng": -75.13191063
+  },
+  {
+    "codigo_municipio": "73124",
+    "municipio": "Cajamarca",
+    "departamento": "Tolima",
+    "lat": 4.406971283,
+    "lng": -75.49745918
+  },
+  {
+    "codigo_municipio": "19130",
+    "municipio": "Cajibío",
+    "departamento": "Cauca",
+    "lat": 2.643209848,
+    "lng": -76.70138914
+  },
+  {
+    "codigo_municipio": "25126",
+    "municipio": "Cajicá",
+    "departamento": "Cundinamarca",
+    "lat": 4.930402779,
+    "lng": -74.02985115
+  },
+  {
+    "codigo_municipio": "13140",
+    "municipio": "Calamar",
+    "departamento": "Bolívar",
+    "lat": 10.15517098,
+    "lng": -74.99995949
+  },
+  {
+    "codigo_municipio": "95015",
+    "municipio": "Calamar",
+    "departamento": "Guaviare",
+    "lat": 1.613634284,
+    "lng": -73.0342639
+  },
+  {
+    "codigo_municipio": "63130",
+    "municipio": "Calarcá",
+    "departamento": "Quindío",
+    "lat": 4.467879428,
+    "lng": -75.65674719
+  },
+  {
+    "codigo_municipio": "05129",
+    "municipio": "Caldas",
+    "departamento": "Antioquia",
+    "lat": 6.054446841,
+    "lng": -75.62642674
+  },
+  {
+    "codigo_municipio": "15131",
+    "municipio": "Caldas",
+    "departamento": "Boyacá",
+    "lat": 5.575990669,
+    "lng": -73.88057508
+  },
+  {
+    "codigo_municipio": "19137",
+    "municipio": "Caldono",
+    "departamento": "Cauca",
+    "lat": 2.803845691,
+    "lng": -76.42719377
+  },
+  {
+    "codigo_municipio": "76001",
+    "municipio": "Cali",
+    "departamento": "Valle del Cauca",
+    "lat": 3.399043723,
+    "lng": -76.57649259
+  },
+  {
+    "codigo_municipio": "68132",
+    "municipio": "California",
+    "departamento": "Santander",
+    "lat": 7.331565443,
+    "lng": -72.95131825
+  },
+  {
+    "codigo_municipio": "76126",
+    "municipio": "Calima",
+    "departamento": "Valle del Cauca",
+    "lat": 3.923271619,
+    "lng": -76.64260484
+  },
+  {
+    "codigo_municipio": "19142",
+    "municipio": "Caloto",
+    "departamento": "Cauca",
+    "lat": 3.062875557,
+    "lng": -76.32127977
+  },
+  {
+    "codigo_municipio": "05134",
+    "municipio": "Campamento",
+    "departamento": "Antioquia",
+    "lat": 7.036017478,
+    "lng": -75.28766178
+  },
+  {
+    "codigo_municipio": "08137",
+    "municipio": "Campo de la Cruz",
+    "departamento": "Atlántico",
+    "lat": 10.38405079,
+    "lng": -74.88466039
+  },
+  {
+    "codigo_municipio": "41132",
+    "municipio": "Campoalegre",
+    "departamento": "Huila",
+    "lat": 2.658666675,
+    "lng": -75.32943803
+  },
+  {
+    "codigo_municipio": "15135",
+    "municipio": "Campohermoso",
+    "departamento": "Boyacá",
+    "lat": 5.006862536,
+    "lng": -73.1446703
+  },
+  {
+    "codigo_municipio": "23090",
+    "municipio": "Canalete",
+    "departamento": "Córdoba",
+    "lat": 8.7240958,
+    "lng": -76.23779081
+  },
+  {
+    "codigo_municipio": "08141",
+    "municipio": "Candelaria",
+    "departamento": "Atlántico",
+    "lat": 10.48902047,
+    "lng": -74.87756627
+  },
+  {
+    "codigo_municipio": "76130",
+    "municipio": "Candelaria",
+    "departamento": "Valle del Cauca",
+    "lat": 3.382091564,
+    "lng": -76.38317663
+  },
+  {
+    "codigo_municipio": "13160",
+    "municipio": "Cantagallo",
+    "departamento": "Bolívar",
+    "lat": 7.239229146,
+    "lng": -74.10014043
+  },
+  {
+    "codigo_municipio": "25148",
+    "municipio": "Caparrapí",
+    "departamento": "Cundinamarca",
+    "lat": 5.381501399,
+    "lng": -74.52123595
+  },
+  {
+    "codigo_municipio": "68147",
+    "municipio": "Capitanejo",
+    "departamento": "Santander",
+    "lat": 6.520200095,
+    "lng": -72.67435203
+  },
+  {
+    "codigo_municipio": "05142",
+    "municipio": "Caracolí",
+    "departamento": "Antioquia",
+    "lat": 6.33797388,
+    "lng": -74.73354817
+  },
+  {
+    "codigo_municipio": "05145",
+    "municipio": "Caramanta",
+    "departamento": "Antioquia",
+    "lat": 5.555275296,
+    "lng": -75.63082096
+  },
+  {
+    "codigo_municipio": "68152",
+    "municipio": "Carcasí",
+    "departamento": "Santander",
+    "lat": 6.659675274,
+    "lng": -72.56968434
+  },
+  {
+    "codigo_municipio": "05147",
+    "municipio": "Carepa",
+    "departamento": "Antioquia",
+    "lat": 7.757967437,
+    "lng": -76.64374657
+  },
+  {
+    "codigo_municipio": "73148",
+    "municipio": "Carmen de Apicalá",
+    "departamento": "Tolima",
+    "lat": 4.123416795,
+    "lng": -74.74700246
+  },
+  {
+    "codigo_municipio": "25154",
+    "municipio": "Carmen de Carupa",
+    "departamento": "Cundinamarca",
+    "lat": 5.338856556,
+    "lng": -73.92614817
+  },
+  {
+    "codigo_municipio": "27150",
+    "municipio": "Carmen del Darién",
+    "departamento": "Chocó",
+    "lat": 7.033646541,
+    "lng": -76.97423016
+  },
+  {
+    "codigo_municipio": "05150",
+    "municipio": "Carolina",
+    "departamento": "Antioquia",
+    "lat": 6.754821442,
+    "lng": -75.30590654
+  },
+  {
+    "codigo_municipio": "13001",
+    "municipio": "Cartagena de Indias",
+    "departamento": "Bolívar",
+    "lat": 10.46343362,
+    "lng": -75.45889915
+  },
+  {
+    "codigo_municipio": "18150",
+    "municipio": "Cartagena del Chairá",
+    "departamento": "Caquetá",
+    "lat": 0.647693081,
+    "lng": -74.27235499
+  },
+  {
+    "codigo_municipio": "76147",
+    "municipio": "Cartago",
+    "departamento": "Valle del Cauca",
+    "lat": 4.70684716,
+    "lng": -75.91790846
+  },
+  {
+    "codigo_municipio": "97161",
+    "municipio": "Carurú",
+    "departamento": "Vaupés",
+    "lat": 1.052762314,
+    "lng": -71.33093035
+  },
+  {
+    "codigo_municipio": "73152",
+    "municipio": "Casabianca",
+    "departamento": "Tolima",
+    "lat": 5.007003948,
+    "lng": -75.19457703
+  },
+  {
+    "codigo_municipio": "50150",
+    "municipio": "Castilla la Nueva",
+    "departamento": "Meta",
+    "lat": 3.805154089,
+    "lng": -73.53886668
+  },
+  {
+    "codigo_municipio": "05154",
+    "municipio": "Caucasia",
+    "departamento": "Antioquia",
+    "lat": 7.867941792,
+    "lng": -75.03501824
+  },
+  {
+    "codigo_municipio": "05138",
+    "municipio": "Cañasgordas",
+    "departamento": "Antioquia",
+    "lat": 6.814950023,
+    "lng": -76.02689632
+  },
+  {
+    "codigo_municipio": "68160",
+    "municipio": "Cepitá",
+    "departamento": "Santander",
+    "lat": 6.752465533,
+    "lng": -72.92924629
+  },
+  {
+    "codigo_municipio": "23162",
+    "municipio": "Cereté",
+    "departamento": "Córdoba",
+    "lat": 8.895667051,
+    "lng": -75.87842391
+  },
+  {
+    "codigo_municipio": "15162",
+    "municipio": "Cerinza",
+    "departamento": "Boyacá",
+    "lat": 5.962013698,
+    "lng": -72.96447288
+  },
+  {
+    "codigo_municipio": "68162",
+    "municipio": "Cerrito",
+    "departamento": "Santander",
+    "lat": 6.903923173,
+    "lng": -72.64536324
+  },
+  {
+    "codigo_municipio": "47161",
+    "municipio": "Cerro de San Antonio",
+    "departamento": "Magdalena",
+    "lat": 10.3132933,
+    "lng": -74.80834413
+  },
+  {
+    "codigo_municipio": "52240",
+    "municipio": "Chachagüí",
+    "departamento": "Nariño",
+    "lat": 1.386497844,
+    "lng": -77.26969022
+  },
+  {
+    "codigo_municipio": "25168",
+    "municipio": "Chaguaní",
+    "departamento": "Cundinamarca",
+    "lat": 4.95425175,
+    "lng": -74.63090139
+  },
+  {
+    "codigo_municipio": "70230",
+    "municipio": "Chalán",
+    "departamento": "Sucre",
+    "lat": 9.569584598,
+    "lng": -75.32420908
+  },
+  {
+    "codigo_municipio": "73168",
+    "municipio": "Chaparral",
+    "departamento": "Tolima",
+    "lat": 3.743693084,
+    "lng": -75.58986634
+  },
+  {
+    "codigo_municipio": "68167",
+    "municipio": "Charalá",
+    "departamento": "Santander",
+    "lat": 6.35099819,
+    "lng": -73.06101382
+  },
+  {
+    "codigo_municipio": "68169",
+    "municipio": "Charta",
+    "departamento": "Santander",
+    "lat": 7.282973001,
+    "lng": -72.97829057
+  },
+  {
+    "codigo_municipio": "05172",
+    "municipio": "Chigorodó",
+    "departamento": "Antioquia",
+    "lat": 7.631665644,
+    "lng": -76.63964213
+  },
+  {
+    "codigo_municipio": "68176",
+    "municipio": "Chima",
+    "departamento": "Santander",
+    "lat": 6.361627641,
+    "lng": -73.40172144
+  },
+  {
+    "codigo_municipio": "20175",
+    "municipio": "Chimichagua",
+    "departamento": "Cesar",
+    "lat": 9.27797765,
+    "lng": -73.84697903
+  },
+  {
+    "codigo_municipio": "23168",
+    "municipio": "Chimá",
+    "departamento": "Córdoba",
+    "lat": 9.11024941,
+    "lng": -75.65237351
+  },
+  {
+    "codigo_municipio": "15172",
+    "municipio": "Chinavita",
+    "departamento": "Boyacá",
+    "lat": 5.202971639,
+    "lng": -73.34048074
+  },
+  {
+    "codigo_municipio": "17174",
+    "municipio": "Chinchiná",
+    "departamento": "Caldas",
+    "lat": 4.974340569,
+    "lng": -75.65954686
+  },
+  {
+    "codigo_municipio": "54172",
+    "municipio": "Chinácota",
+    "departamento": "Norte de Santander",
+    "lat": 7.583353136,
+    "lng": -72.58390978
+  },
+  {
+    "codigo_municipio": "23182",
+    "municipio": "Chinú",
+    "departamento": "Córdoba",
+    "lat": 9.053287104,
+    "lng": -75.37387363
+  },
+  {
+    "codigo_municipio": "25178",
+    "municipio": "Chipaque",
+    "departamento": "Cundinamarca",
+    "lat": 4.463746629,
+    "lng": -74.04605246
+  },
+  {
+    "codigo_municipio": "68179",
+    "municipio": "Chipatá",
+    "departamento": "Santander",
+    "lat": 6.067944658,
+    "lng": -73.63239132
+  },
+  {
+    "codigo_municipio": "15176",
+    "municipio": "Chiquinquirá",
+    "departamento": "Boyacá",
+    "lat": 5.622488024,
+    "lng": -73.80424531
+  },
+  {
+    "codigo_municipio": "20178",
+    "municipio": "Chiriguaná",
+    "departamento": "Cesar",
+    "lat": 9.426648354,
+    "lng": -73.54797894
+  },
+  {
+    "codigo_municipio": "15180",
+    "municipio": "Chiscas",
+    "departamento": "Boyacá",
+    "lat": 6.68911806,
+    "lng": -72.41795675
+  },
+  {
+    "codigo_municipio": "15183",
+    "municipio": "Chita",
+    "departamento": "Boyacá",
+    "lat": 6.091468485,
+    "lng": -72.43903174
+  },
+  {
+    "codigo_municipio": "54174",
+    "municipio": "Chitagá",
+    "departamento": "Norte de Santander",
+    "lat": 7.05161677,
+    "lng": -72.52544746
+  },
+  {
+    "codigo_municipio": "15185",
+    "municipio": "Chitaraque",
+    "departamento": "Boyacá",
+    "lat": 5.984394625,
+    "lng": -73.42582375
+  },
+  {
+    "codigo_municipio": "15187",
+    "municipio": "Chivatá",
+    "departamento": "Boyacá",
+    "lat": 5.556830465,
+    "lng": -73.26061715
+  },
+  {
+    "codigo_municipio": "47170",
+    "municipio": "Chivolo",
+    "departamento": "Magdalena",
+    "lat": 10.09951961,
+    "lng": -74.52606667
+  },
+  {
+    "codigo_municipio": "15236",
+    "municipio": "Chivor",
+    "departamento": "Boyacá",
+    "lat": 4.871181606,
+    "lng": -73.36142379
+  },
+  {
+    "codigo_municipio": "25181",
+    "municipio": "Choachí",
+    "departamento": "Cundinamarca",
+    "lat": 4.578183896,
+    "lng": -73.95290054
+  },
+  {
+    "codigo_municipio": "25183",
+    "municipio": "Chocontá",
+    "departamento": "Cundinamarca",
+    "lat": 5.118419271,
+    "lng": -73.68068583
+  },
+  {
+    "codigo_municipio": "85015",
+    "municipio": "Chámeza",
+    "departamento": "Casanare",
+    "lat": 5.228453404,
+    "lng": -72.86496804
+  },
+  {
+    "codigo_municipio": "25175",
+    "municipio": "Chía",
+    "departamento": "Cundinamarca",
+    "lat": 4.857823671,
+    "lng": -74.03809539
+  },
+  {
+    "codigo_municipio": "15232",
+    "municipio": "Chíquiza",
+    "departamento": "Boyacá",
+    "lat": 5.643075648,
+    "lng": -73.44562391
+  },
+  {
+    "codigo_municipio": "13188",
+    "municipio": "Cicuco",
+    "departamento": "Bolívar",
+    "lat": 9.235268598,
+    "lng": -74.68840962
+  },
+  {
+    "codigo_municipio": "68190",
+    "municipio": "Cimitarra",
+    "departamento": "Santander",
+    "lat": 6.40972961,
+    "lng": -74.17030427
+  },
+  {
+    "codigo_municipio": "63190",
+    "municipio": "Circasia",
+    "departamento": "Quindío",
+    "lat": 4.604845344,
+    "lng": -75.66688449
+  },
+  {
+    "codigo_municipio": "05190",
+    "municipio": "Cisneros",
+    "departamento": "Antioquia",
+    "lat": 6.550065431,
+    "lng": -75.08254116
+  },
+  {
+    "codigo_municipio": "05101",
+    "municipio": "Ciudad Bolívar",
+    "departamento": "Antioquia",
+    "lat": 5.840995666,
+    "lng": -76.01065253
+  },
+  {
+    "codigo_municipio": "47189",
+    "municipio": "Ciénaga",
+    "departamento": "Magdalena",
+    "lat": 10.85754552,
+    "lng": -74.02500493
+  },
+  {
+    "codigo_municipio": "23189",
+    "municipio": "Ciénaga de Oro",
+    "departamento": "Córdoba",
+    "lat": 8.841811894,
+    "lng": -75.60779829
+  },
+  {
+    "codigo_municipio": "15189",
+    "municipio": "Ciénega",
+    "departamento": "Boyacá",
+    "lat": 5.393059633,
+    "lng": -73.28205772
+  },
+  {
+    "codigo_municipio": "13222",
+    "municipio": "Clemencia",
+    "departamento": "Bolívar",
+    "lat": 10.55663696,
+    "lng": -75.31446653
+  },
+  {
+    "codigo_municipio": "05197",
+    "municipio": "Cocorná",
+    "departamento": "Antioquia",
+    "lat": 6.005593074,
+    "lng": -75.16015403
+  },
+  {
+    "codigo_municipio": "73200",
+    "municipio": "Coello",
+    "departamento": "Tolima",
+    "lat": 4.315603867,
+    "lng": -74.91470256
+  },
+  {
+    "codigo_municipio": "25200",
+    "municipio": "Cogua",
+    "departamento": "Cundinamarca",
+    "lat": 5.103127532,
+    "lng": -73.97536559
+  },
+  {
+    "codigo_municipio": "41206",
+    "municipio": "Colombia",
+    "departamento": "Huila",
+    "lat": 3.262763564,
+    "lng": -74.78516117
+  },
+  {
+    "codigo_municipio": "70204",
+    "municipio": "Colosó",
+    "departamento": "Sucre",
+    "lat": 9.494043427,
+    "lng": -75.34528693
+  },
+  {
+    "codigo_municipio": "52203",
+    "municipio": "Colón",
+    "departamento": "Nariño",
+    "lat": 1.636334379,
+    "lng": -77.0473156
+  },
+  {
+    "codigo_municipio": "86219",
+    "municipio": "Colón",
+    "departamento": "Putumayo",
+    "lat": 1.204815876,
+    "lng": -76.97376805
+  },
+  {
+    "codigo_municipio": "05206",
+    "municipio": "Concepción",
+    "departamento": "Antioquia",
+    "lat": 6.376106187,
+    "lng": -75.21785901
+  },
+  {
+    "codigo_municipio": "68207",
+    "municipio": "Concepción",
+    "departamento": "Santander",
+    "lat": 6.76062337,
+    "lng": -72.61815735
+  },
+  {
+    "codigo_municipio": "05209",
+    "municipio": "Concordia",
+    "departamento": "Antioquia",
+    "lat": 6.057468678,
+    "lng": -75.90014678
+  },
+  {
+    "codigo_municipio": "47205",
+    "municipio": "Concordia",
+    "departamento": "Magdalena",
+    "lat": 10.23284801,
+    "lng": -74.77810175
+  },
+  {
+    "codigo_municipio": "27205",
+    "municipio": "Condoto",
+    "departamento": "Chocó",
+    "lat": 5.070586101,
+    "lng": -76.50701751
+  },
+  {
+    "codigo_municipio": "68209",
+    "municipio": "Confines",
+    "departamento": "Santander",
+    "lat": 6.342314443,
+    "lng": -73.25014013
+  },
+  {
+    "codigo_municipio": "52207",
+    "municipio": "Consacá",
+    "departamento": "Nariño",
+    "lat": 1.209066732,
+    "lng": -77.44063921
+  },
+  {
+    "codigo_municipio": "52210",
+    "municipio": "Contadero",
+    "departamento": "Nariño",
+    "lat": 0.932667458,
+    "lng": -77.52808731
+  },
+  {
+    "codigo_municipio": "68211",
+    "municipio": "Contratación",
+    "departamento": "Santander",
+    "lat": 6.303116611,
+    "lng": -73.50211527
+  },
+  {
+    "codigo_municipio": "54206",
+    "municipio": "Convención",
+    "departamento": "Norte de Santander",
+    "lat": 8.873159895,
+    "lng": -73.20007769
+  },
+  {
+    "codigo_municipio": "05212",
+    "municipio": "Copacabana",
+    "departamento": "Antioquia",
+    "lat": 6.351882893,
+    "lng": -75.50075633
+  },
+  {
+    "codigo_municipio": "15212",
+    "municipio": "Coper",
+    "departamento": "Boyacá",
+    "lat": 5.452461072,
+    "lng": -74.05996578
+  },
+  {
+    "codigo_municipio": "19212",
+    "municipio": "Corinto",
+    "departamento": "Cauca",
+    "lat": 3.136753606,
+    "lng": -76.20964569
+  },
+  {
+    "codigo_municipio": "68217",
+    "municipio": "Coromoro",
+    "departamento": "Santander",
+    "lat": 6.234735779,
+    "lng": -72.98176803
+  },
+  {
+    "codigo_municipio": "70215",
+    "municipio": "Corozal",
+    "departamento": "Sucre",
+    "lat": 9.160624283,
+    "lng": -75.23858178
+  },
+  {
+    "codigo_municipio": "15215",
+    "municipio": "Corrales",
+    "departamento": "Boyacá",
+    "lat": 5.82454582,
+    "lng": -72.84544845
+  },
+  {
+    "codigo_municipio": "25214",
+    "municipio": "Cota",
+    "departamento": "Cundinamarca",
+    "lat": 4.76754674,
+    "lng": -74.1415583
+  },
+  {
+    "codigo_municipio": "23300",
+    "municipio": "Cotorra",
+    "departamento": "Córdoba",
+    "lat": 9.071460219,
+    "lng": -75.75459276
+  },
+  {
+    "codigo_municipio": "15218",
+    "municipio": "Covarachía",
+    "departamento": "Boyacá",
+    "lat": 6.519521476,
+    "lng": -72.74020421
+  },
+  {
+    "codigo_municipio": "70221",
+    "municipio": "Coveñas",
+    "departamento": "Sucre",
+    "lat": 9.394449802,
+    "lng": -75.6574915
+  },
+  {
+    "codigo_municipio": "73217",
+    "municipio": "Coyaima",
+    "departamento": "Tolima",
+    "lat": 3.775490271,
+    "lng": -75.14720213
+  },
+  {
+    "codigo_municipio": "81220",
+    "municipio": "Cravo Norte",
+    "departamento": "Arauca",
+    "lat": 6.39654349,
+    "lng": -70.07381197
+  },
+  {
+    "codigo_municipio": "52224",
+    "municipio": "Cuaspud Carlosama",
+    "departamento": "Nariño",
+    "lat": 0.875426999,
+    "lng": -77.73591601
+  },
+  {
+    "codigo_municipio": "50223",
+    "municipio": "Cubarral",
+    "departamento": "Meta",
+    "lat": 3.834631516,
+    "lng": -74.06232494
+  },
+  {
+    "codigo_municipio": "15223",
+    "municipio": "Cubará",
+    "departamento": "Boyacá",
+    "lat": 6.886954878,
+    "lng": -72.18156285
+  },
+  {
+    "codigo_municipio": "15224",
+    "municipio": "Cucaita",
+    "departamento": "Boyacá",
+    "lat": 5.527104109,
+    "lng": -73.44598646
+  },
+  {
+    "codigo_municipio": "25224",
+    "municipio": "Cucunubá",
+    "departamento": "Cundinamarca",
+    "lat": 5.230308105,
+    "lng": -73.78001885
+  },
+  {
+    "codigo_municipio": "54223",
+    "municipio": "Cucutilla",
+    "departamento": "Norte de Santander",
+    "lat": 7.502182366,
+    "lng": -72.79703447
+  },
+  {
+    "codigo_municipio": "50226",
+    "municipio": "Cumaral",
+    "departamento": "Meta",
+    "lat": 4.232526389,
+    "lng": -73.31477539
+  },
+  {
+    "codigo_municipio": "99773",
+    "municipio": "Cumaribo",
+    "departamento": "Vichada",
+    "lat": 4.262454746,
+    "lng": -69.52140484
+  },
+  {
+    "codigo_municipio": "52227",
+    "municipio": "Cumbal",
+    "departamento": "Nariño",
+    "lat": 0.944223274,
+    "lng": -77.95958446
+  },
+  {
+    "codigo_municipio": "52233",
+    "municipio": "Cumbitara",
+    "departamento": "Nariño",
+    "lat": 1.72559011,
+    "lng": -77.59281637
+  },
+  {
+    "codigo_municipio": "73226",
+    "municipio": "Cunday",
+    "departamento": "Tolima",
+    "lat": 3.98252395,
+    "lng": -74.68936908
+  },
+  {
+    "codigo_municipio": "18205",
+    "municipio": "Curillo",
+    "departamento": "Caquetá",
+    "lat": 1.115379292,
+    "lng": -75.97328452
+  },
+  {
+    "codigo_municipio": "68229",
+    "municipio": "Curití",
+    "departamento": "Santander",
+    "lat": 6.608966483,
+    "lng": -73.05897888
+  },
+  {
+    "codigo_municipio": "20228",
+    "municipio": "Curumaní",
+    "departamento": "Cesar",
+    "lat": 9.238771332,
+    "lng": -73.48810861
+  },
+  {
+    "codigo_municipio": "15226",
+    "municipio": "Cuítiva",
+    "departamento": "Boyacá",
+    "lat": 5.58775449,
+    "lng": -72.93953686
+  },
+  {
+    "codigo_municipio": "05120",
+    "municipio": "Cáceres",
+    "departamento": "Antioquia",
+    "lat": 7.665155105,
+    "lng": -75.22369744
+  },
+  {
+    "codigo_municipio": "54128",
+    "municipio": "Cáchira",
+    "departamento": "Norte de Santander",
+    "lat": 7.684188896,
+    "lng": -73.12939481
+  },
+  {
+    "codigo_municipio": "54125",
+    "municipio": "Cácota",
+    "departamento": "Norte de Santander",
+    "lat": 7.270560088,
+    "lng": -72.65212153
+  },
+  {
+    "codigo_municipio": "25151",
+    "municipio": "Cáqueza",
+    "departamento": "Cundinamarca",
+    "lat": 4.402259457,
+    "lng": -73.94482435
+  },
+  {
+    "codigo_municipio": "27160",
+    "municipio": "Cértegui",
+    "departamento": "Chocó",
+    "lat": 5.389828229,
+    "lng": -76.52264237
+  },
+  {
+    "codigo_municipio": "15204",
+    "municipio": "Cómbita",
+    "departamento": "Boyacá",
+    "lat": 5.667822366,
+    "lng": -73.32137049
+  },
+  {
+    "codigo_municipio": "13212",
+    "municipio": "Córdoba",
+    "departamento": "Bolívar",
+    "lat": 9.540047515,
+    "lng": -74.89445635
+  },
+  {
+    "codigo_municipio": "52215",
+    "municipio": "Córdoba",
+    "departamento": "Nariño",
+    "lat": 0.78274688,
+    "lng": -77.36805903
+  },
+  {
+    "codigo_municipio": "63212",
+    "municipio": "Córdoba",
+    "departamento": "Quindío",
+    "lat": 4.395975176,
+    "lng": -75.65132308
+  },
+  {
+    "codigo_municipio": "05234",
+    "municipio": "Dabeiba",
+    "departamento": "Antioquia",
+    "lat": 6.992243782,
+    "lng": -76.31426328
+  },
+  {
+    "codigo_municipio": "76233",
+    "municipio": "Dagua",
+    "departamento": "Valle del Cauca",
+    "lat": 3.649822218,
+    "lng": -76.72039347
+  },
+  {
+    "codigo_municipio": "44090",
+    "municipio": "Dibulla",
+    "departamento": "La Guajira",
+    "lat": 11.09029715,
+    "lng": -73.43568788
+  },
+  {
+    "codigo_municipio": "44098",
+    "municipio": "Distracción",
+    "departamento": "La Guajira",
+    "lat": 10.92505107,
+    "lng": -72.94444027
+  },
+  {
+    "codigo_municipio": "73236",
+    "municipio": "Dolores",
+    "departamento": "Tolima",
+    "lat": 3.597863274,
+    "lng": -74.80256674
+  },
+  {
+    "codigo_municipio": "05237",
+    "municipio": "Donmatías",
+    "departamento": "Antioquia",
+    "lat": 6.492403905,
+    "lng": -75.42227687
+  },
+  {
+    "codigo_municipio": "66170",
+    "municipio": "Dosquebradas",
+    "departamento": "Risaralda",
+    "lat": 4.842021144,
+    "lng": -75.66993655
+  },
+  {
+    "codigo_municipio": "15238",
+    "municipio": "Duitama",
+    "departamento": "Boyacá",
+    "lat": 5.890602515,
+    "lng": -73.06709484
+  },
+  {
+    "codigo_municipio": "54239",
+    "municipio": "Durania",
+    "departamento": "Norte de Santander",
+    "lat": 7.746993206,
+    "lng": -72.67208072
+  },
+  {
+    "codigo_municipio": "05240",
+    "municipio": "Ebéjico",
+    "departamento": "Antioquia",
+    "lat": 6.326444922,
+    "lng": -75.78331175
+  },
+  {
+    "codigo_municipio": "05250",
+    "municipio": "El Bagre",
+    "departamento": "Antioquia",
+    "lat": 7.704633351,
+    "lng": -74.66427726
+  },
+  {
+    "codigo_municipio": "47245",
+    "municipio": "El Banco",
+    "departamento": "Magdalena",
+    "lat": 9.114930635,
+    "lng": -73.98105491
+  },
+  {
+    "codigo_municipio": "76246",
+    "municipio": "El Cairo",
+    "departamento": "Valle del Cauca",
+    "lat": 4.756063701,
+    "lng": -76.21502826
+  },
+  {
+    "codigo_municipio": "50245",
+    "municipio": "El Calvario",
+    "departamento": "Meta",
+    "lat": 4.353769888,
+    "lng": -73.71441684
+  },
+  {
+    "codigo_municipio": "27135",
+    "municipio": "El Cantón del San Pablo",
+    "departamento": "Chocó",
+    "lat": 5.359661967,
+    "lng": -76.77255624
+  },
+  {
+    "codigo_municipio": "54245",
+    "municipio": "El Carmen",
+    "departamento": "Norte de Santander",
+    "lat": 8.867990035,
+    "lng": -73.34585922
+  },
+  {
+    "codigo_municipio": "27245",
+    "municipio": "El Carmen de Atrato",
+    "departamento": "Chocó",
+    "lat": 5.810938364,
+    "lng": -76.19189442
+  },
+  {
+    "codigo_municipio": "13244",
+    "municipio": "El Carmen de Bolívar",
+    "departamento": "Bolívar",
+    "lat": 9.699819876,
+    "lng": -75.15793573
+  },
+  {
+    "codigo_municipio": "68235",
+    "municipio": "El Carmen de Chucurí",
+    "departamento": "Santander",
+    "lat": 6.664260002,
+    "lng": -73.56475288
+  },
+  {
+    "codigo_municipio": "05148",
+    "municipio": "El Carmen de Viboral",
+    "departamento": "Antioquia",
+    "lat": 5.978078841,
+    "lng": -75.2635361
+  },
+  {
+    "codigo_municipio": "50251",
+    "municipio": "El Castillo",
+    "departamento": "Meta",
+    "lat": 3.60282633,
+    "lng": -73.89445238
+  },
+  {
+    "codigo_municipio": "76248",
+    "municipio": "El Cerrito",
+    "departamento": "Valle del Cauca",
+    "lat": 3.656072873,
+    "lng": -76.30841784
+  },
+  {
+    "codigo_municipio": "52250",
+    "municipio": "El Charco",
+    "departamento": "Nariño",
+    "lat": 2.216382295,
+    "lng": -77.99533234
+  },
+  {
+    "codigo_municipio": "15244",
+    "municipio": "El Cocuy",
+    "departamento": "Boyacá",
+    "lat": 6.353363177,
+    "lng": -72.41923752
+  },
+  {
+    "codigo_municipio": "25245",
+    "municipio": "El Colegio",
+    "departamento": "Cundinamarca",
+    "lat": 4.556947085,
+    "lng": -74.42658478
+  },
+  {
+    "codigo_municipio": "20238",
+    "municipio": "El Copey",
+    "departamento": "Cesar",
+    "lat": 10.19995356,
+    "lng": -73.91282064
+  },
+  {
+    "codigo_municipio": "18247",
+    "municipio": "El Doncello",
+    "departamento": "Caquetá",
+    "lat": 1.713734697,
+    "lng": -75.26878109
+  },
+  {
+    "codigo_municipio": "50270",
+    "municipio": "El Dorado",
+    "departamento": "Meta",
+    "lat": 3.706969785,
+    "lng": -73.83161892
+  },
+  {
+    "codigo_municipio": "76250",
+    "municipio": "El Dovio",
+    "departamento": "Valle del Cauca",
+    "lat": 4.539979729,
+    "lng": -76.28762701
+  },
+  {
+    "codigo_municipio": "15248",
+    "municipio": "El Espino",
+    "departamento": "Boyacá",
+    "lat": 6.508240556,
+    "lng": -72.48049625
+  },
+  {
+    "codigo_municipio": "68245",
+    "municipio": "El Guacamayo",
+    "departamento": "Santander",
+    "lat": 6.236115743,
+    "lng": -73.4977605
+  },
+  {
+    "codigo_municipio": "13248",
+    "municipio": "El Guamo",
+    "departamento": "Bolívar",
+    "lat": 10.03483672,
+    "lng": -74.92811072
+  },
+  {
+    "codigo_municipio": "27250",
+    "municipio": "El Litoral del San Juan",
+    "departamento": "Chocó",
+    "lat": 4.272940191,
+    "lng": -76.98785828
+  },
+  {
+    "codigo_municipio": "44110",
+    "municipio": "El Molino",
+    "departamento": "La Guajira",
+    "lat": 10.63669646,
+    "lng": -72.8858431
+  },
+  {
+    "codigo_municipio": "20250",
+    "municipio": "El Paso",
+    "departamento": "Cesar",
+    "lat": 9.683474681,
+    "lng": -73.73833778
+  },
+  {
+    "codigo_municipio": "18256",
+    "municipio": "El Paujíl",
+    "departamento": "Caquetá",
+    "lat": 1.476630016,
+    "lng": -75.20231825
+  },
+  {
+    "codigo_municipio": "52254",
+    "municipio": "El Peñol",
+    "departamento": "Nariño",
+    "lat": 1.512283967,
+    "lng": -77.43050934
+  },
+  {
+    "codigo_municipio": "13268",
+    "municipio": "El Peñón",
+    "departamento": "Bolívar",
+    "lat": 8.864818786,
+    "lng": -73.91230147
+  },
+  {
+    "codigo_municipio": "25258",
+    "municipio": "El Peñón",
+    "departamento": "Cundinamarca",
+    "lat": 5.261728244,
+    "lng": -74.30830564
+  },
+  {
+    "codigo_municipio": "68250",
+    "municipio": "El Peñón",
+    "departamento": "Santander",
+    "lat": 6.123389691,
+    "lng": -74.00040397
+  },
+  {
+    "codigo_municipio": "47258",
+    "municipio": "El Piñón",
+    "departamento": "Magdalena",
+    "lat": 10.34310988,
+    "lng": -74.67817756
+  },
+  {
+    "codigo_municipio": "68255",
+    "municipio": "El Playón",
+    "departamento": "Santander",
+    "lat": 7.524284721,
+    "lng": -73.18158192
+  },
+  {
+    "codigo_municipio": "95025",
+    "municipio": "El Retorno",
+    "departamento": "Guaviare",
+    "lat": 2.143447362,
+    "lng": -72.24364869
+  },
+  {
+    "codigo_municipio": "47268",
+    "municipio": "El Retén",
+    "departamento": "Magdalena",
+    "lat": 10.65961696,
+    "lng": -74.3251597
+  },
+  {
+    "codigo_municipio": "70233",
+    "municipio": "El Roble",
+    "departamento": "Sucre",
+    "lat": 9.036231591,
+    "lng": -75.14575038
+  },
+  {
+    "codigo_municipio": "25260",
+    "municipio": "El Rosal",
+    "departamento": "Cundinamarca",
+    "lat": 4.879723016,
+    "lng": -74.23802273
+  },
+  {
+    "codigo_municipio": "52256",
+    "municipio": "El Rosario",
+    "departamento": "Nariño",
+    "lat": 1.887689437,
+    "lng": -77.48319589
+  },
+  {
+    "codigo_municipio": "05697",
+    "municipio": "El Santuario",
+    "departamento": "Antioquia",
+    "lat": 6.124209495,
+    "lng": -75.25212278
+  },
+  {
+    "codigo_municipio": "52258",
+    "municipio": "El Tablón de Gómez",
+    "departamento": "Nariño",
+    "lat": 1.409430207,
+    "lng": -76.98526959
+  },
+  {
+    "codigo_municipio": "19256",
+    "municipio": "El Tambo",
+    "departamento": "Cauca",
+    "lat": 2.534488312,
+    "lng": -77.00511207
+  },
+  {
+    "codigo_municipio": "52260",
+    "municipio": "El Tambo",
+    "departamento": "Nariño",
+    "lat": 1.43026376,
+    "lng": -77.38311597
+  },
+  {
+    "codigo_municipio": "54250",
+    "municipio": "El Tarra",
+    "departamento": "Norte de Santander",
+    "lat": 8.678263671,
+    "lng": -73.0317597
+  },
+  {
+    "codigo_municipio": "54261",
+    "municipio": "El Zulia",
+    "departamento": "Norte de Santander",
+    "lat": 8.081200092,
+    "lng": -72.63152118
+  },
+  {
+    "codigo_municipio": "76243",
+    "municipio": "El Águila",
+    "departamento": "Valle del Cauca",
+    "lat": 4.917562873,
+    "lng": -76.06601001
+  },
+  {
+    "codigo_municipio": "41244",
+    "municipio": "Elías",
+    "departamento": "Huila",
+    "lat": 2.022053305,
+    "lng": -75.94430521
+  },
+  {
+    "codigo_municipio": "68264",
+    "municipio": "Encino",
+    "departamento": "Santander",
+    "lat": 6.079061224,
+    "lng": -73.06206665
+  },
+  {
+    "codigo_municipio": "68266",
+    "municipio": "Enciso",
+    "departamento": "Santander",
+    "lat": 6.65824115,
+    "lng": -72.68027939
+  },
+  {
+    "codigo_municipio": "05264",
+    "municipio": "Entrerríos",
+    "departamento": "Antioquia",
+    "lat": 6.594656004,
+    "lng": -75.55913083
+  },
+  {
+    "codigo_municipio": "05266",
+    "municipio": "Envigado",
+    "departamento": "Antioquia",
+    "lat": 6.154394922,
+    "lng": -75.54686779
+  },
+  {
+    "codigo_municipio": "73268",
+    "municipio": "Espinal",
+    "departamento": "Tolima",
+    "lat": 4.166476969,
+    "lng": -74.89352941
+  },
+  {
+    "codigo_municipio": "25269",
+    "municipio": "Facatativá",
+    "departamento": "Cundinamarca",
+    "lat": 4.834052334,
+    "lng": -74.3380229
+  },
+  {
+    "codigo_municipio": "73270",
+    "municipio": "Falan",
+    "departamento": "Tolima",
+    "lat": 5.079256598,
+    "lng": -74.95703372
+  },
+  {
+    "codigo_municipio": "17272",
+    "municipio": "Filadelfia",
+    "departamento": "Caldas",
+    "lat": 5.285743777,
+    "lng": -75.58978784
+  },
+  {
+    "codigo_municipio": "63272",
+    "municipio": "Filandia",
+    "departamento": "Quindío",
+    "lat": 4.669325347,
+    "lng": -75.67146941
+  },
+  {
+    "codigo_municipio": "15272",
+    "municipio": "Firavitoba",
+    "departamento": "Boyacá",
+    "lat": 5.67367659,
+    "lng": -73.01983352
+  },
+  {
+    "codigo_municipio": "73275",
+    "municipio": "Flandes",
+    "departamento": "Tolima",
+    "lat": 4.242813257,
+    "lng": -74.83708638
+  },
+  {
+    "codigo_municipio": "18001",
+    "municipio": "Florencia",
+    "departamento": "Caquetá",
+    "lat": 1.749138704,
+    "lng": -75.55823906
+  },
+  {
+    "codigo_municipio": "19290",
+    "municipio": "Florencia",
+    "departamento": "Cauca",
+    "lat": 1.69453474,
+    "lng": -77.08735723
+  },
+  {
+    "codigo_municipio": "15276",
+    "municipio": "Floresta",
+    "departamento": "Boyacá",
+    "lat": 5.85899211,
+    "lng": -72.92499827
+  },
+  {
+    "codigo_municipio": "76275",
+    "municipio": "Florida",
+    "departamento": "Valle del Cauca",
+    "lat": 3.304104295,
+    "lng": -76.16477307
+  },
+  {
+    "codigo_municipio": "68276",
+    "municipio": "Floridablanca",
+    "departamento": "Santander",
+    "lat": 7.079704598,
+    "lng": -73.0679925
+  },
+  {
+    "codigo_municipio": "68271",
+    "municipio": "Florián",
+    "departamento": "Santander",
+    "lat": 5.801106291,
+    "lng": -73.95524931
+  },
+  {
+    "codigo_municipio": "44279",
+    "municipio": "Fonseca",
+    "departamento": "La Guajira",
+    "lat": 10.8283716,
+    "lng": -72.8018178
+  },
+  {
+    "codigo_municipio": "81300",
+    "municipio": "Fortul",
+    "departamento": "Arauca",
+    "lat": 6.750907234,
+    "lng": -71.79124241
+  },
+  {
+    "codigo_municipio": "25281",
+    "municipio": "Fosca",
+    "departamento": "Cundinamarca",
+    "lat": 4.316280072,
+    "lng": -73.95286784
+  },
+  {
+    "codigo_municipio": "52520",
+    "municipio": "Francisco Pizarro",
+    "departamento": "Nariño",
+    "lat": 2.088531925,
+    "lng": -78.59193099
+  },
+  {
+    "codigo_municipio": "05282",
+    "municipio": "Fredonia",
+    "departamento": "Antioquia",
+    "lat": 5.887702934,
+    "lng": -75.67926242
+  },
+  {
+    "codigo_municipio": "73283",
+    "municipio": "Fresno",
+    "departamento": "Tolima",
+    "lat": 5.186694812,
+    "lng": -75.05228995
+  },
+  {
+    "codigo_municipio": "05284",
+    "municipio": "Frontino",
+    "departamento": "Antioquia",
+    "lat": 6.691364773,
+    "lng": -76.33199656
+  },
+  {
+    "codigo_municipio": "50287",
+    "municipio": "Fuente de Oro",
+    "departamento": "Meta",
+    "lat": 3.382370124,
+    "lng": -73.59625429
+  },
+  {
+    "codigo_municipio": "47288",
+    "municipio": "Fundación",
+    "departamento": "Magdalena",
+    "lat": 10.45937818,
+    "lng": -73.88406518
+  },
+  {
+    "codigo_municipio": "52287",
+    "municipio": "Funes",
+    "departamento": "Nariño",
+    "lat": 0.957786429,
+    "lng": -77.39532781
+  },
+  {
+    "codigo_municipio": "25286",
+    "municipio": "Funza",
+    "departamento": "Cundinamarca",
+    "lat": 4.743996711,
+    "lng": -74.19865992
+  },
+  {
+    "codigo_municipio": "25290",
+    "municipio": "Fusagasugá",
+    "departamento": "Cundinamarca",
+    "lat": 4.323534028,
+    "lng": -74.38859114
+  },
+  {
+    "codigo_municipio": "25279",
+    "municipio": "Fómeque",
+    "departamento": "Cundinamarca",
+    "lat": 4.528568462,
+    "lng": -73.79705267
+  },
+  {
+    "codigo_municipio": "25288",
+    "municipio": "Fúquene",
+    "departamento": "Cundinamarca",
+    "lat": 5.416288902,
+    "lng": -73.77059829
+  },
+  {
+    "codigo_municipio": "25293",
+    "municipio": "Gachalá",
+    "departamento": "Cundinamarca",
+    "lat": 4.65495513,
+    "lng": -73.51055381
+  },
+  {
+    "codigo_municipio": "25295",
+    "municipio": "Gachancipá",
+    "departamento": "Cundinamarca",
+    "lat": 5.01001953,
+    "lng": -73.87671759
+  },
+  {
+    "codigo_municipio": "15293",
+    "municipio": "Gachantivá",
+    "departamento": "Boyacá",
+    "lat": 5.744105975,
+    "lng": -73.5426552
+  },
+  {
+    "codigo_municipio": "25297",
+    "municipio": "Gachetá",
+    "departamento": "Cundinamarca",
+    "lat": 4.867551134,
+    "lng": -73.61773287
+  },
+  {
+    "codigo_municipio": "08296",
+    "municipio": "Galapa",
+    "departamento": "Atlántico",
+    "lat": 10.89771991,
+    "lng": -74.88708788
+  },
+  {
+    "codigo_municipio": "70235",
+    "municipio": "Galeras",
+    "departamento": "Sucre",
+    "lat": 9.135169096,
+    "lng": -74.98134706
+  },
+  {
+    "codigo_municipio": "68296",
+    "municipio": "Galán",
+    "departamento": "Santander",
+    "lat": 6.671810994,
+    "lng": -73.32467124
+  },
+  {
+    "codigo_municipio": "25299",
+    "municipio": "Gama",
+    "departamento": "Cundinamarca",
+    "lat": 4.723573464,
+    "lng": -73.60054441
+  },
+  {
+    "codigo_municipio": "20295",
+    "municipio": "Gamarra",
+    "departamento": "Cesar",
+    "lat": 8.337726622,
+    "lng": -73.70649199
+  },
+  {
+    "codigo_municipio": "15299",
+    "municipio": "Garagoa",
+    "departamento": "Boyacá",
+    "lat": 5.089466651,
+    "lng": -73.31430272
+  },
+  {
+    "codigo_municipio": "41298",
+    "municipio": "Garzón",
+    "departamento": "Huila",
+    "lat": 2.172441496,
+    "lng": -75.57131243
+  },
+  {
+    "codigo_municipio": "41306",
+    "municipio": "Gigante",
+    "departamento": "Huila",
+    "lat": 2.371781539,
+    "lng": -75.51699754
+  },
+  {
+    "codigo_municipio": "76306",
+    "municipio": "Ginebra",
+    "departamento": "Valle del Cauca",
+    "lat": 3.74410441,
+    "lng": -76.19082004
+  },
+  {
+    "codigo_municipio": "05306",
+    "municipio": "Giraldo",
+    "departamento": "Antioquia",
+    "lat": 6.663095863,
+    "lng": -75.94804663
+  },
+  {
+    "codigo_municipio": "25307",
+    "municipio": "Girardot",
+    "departamento": "Cundinamarca",
+    "lat": 4.338154518,
+    "lng": -74.81143922
+  },
+  {
+    "codigo_municipio": "05308",
+    "municipio": "Girardota",
+    "departamento": "Antioquia",
+    "lat": 6.379745895,
+    "lng": -75.44795744
+  },
+  {
+    "codigo_municipio": "68307",
+    "municipio": "Girón",
+    "departamento": "Santander",
+    "lat": 6.976734127,
+    "lng": -73.205267
+  },
+  {
+    "codigo_municipio": "20310",
+    "municipio": "González",
+    "departamento": "Cesar",
+    "lat": 8.405516522,
+    "lng": -73.37537309
+  },
+  {
+    "codigo_municipio": "54313",
+    "municipio": "Gramalote",
+    "departamento": "Norte de Santander",
+    "lat": 7.906522991,
+    "lng": -72.80705582
+  },
+  {
+    "codigo_municipio": "05313",
+    "municipio": "Granada",
+    "departamento": "Antioquia",
+    "lat": 6.123380721,
+    "lng": -75.12763646
+  },
+  {
+    "codigo_municipio": "25312",
+    "municipio": "Granada",
+    "departamento": "Cundinamarca",
+    "lat": 4.523484884,
+    "lng": -74.33724619
+  },
+  {
+    "codigo_municipio": "50313",
+    "municipio": "Granada",
+    "departamento": "Meta",
+    "lat": 3.441051399,
+    "lng": -73.7611547
+  },
+  {
+    "codigo_municipio": "68318",
+    "municipio": "Guaca",
+    "departamento": "Santander",
+    "lat": 6.9434341,
+    "lng": -72.82369873
+  },
+  {
+    "codigo_municipio": "15317",
+    "municipio": "Guacamayas",
+    "departamento": "Boyacá",
+    "lat": 6.445438546,
+    "lng": -72.51635332
+  },
+  {
+    "codigo_municipio": "76318",
+    "municipio": "Guacarí",
+    "departamento": "Valle del Cauca",
+    "lat": 3.759414991,
+    "lng": -76.34518277
+  },
+  {
+    "codigo_municipio": "19300",
+    "municipio": "Guachené",
+    "departamento": "Cauca",
+    "lat": 3.144389993,
+    "lng": -76.39234811
+  },
+  {
+    "codigo_municipio": "25317",
+    "municipio": "Guachetá",
+    "departamento": "Cundinamarca",
+    "lat": 5.387291542,
+    "lng": -73.69328234
+  },
+  {
+    "codigo_municipio": "52317",
+    "municipio": "Guachucal",
+    "departamento": "Nariño",
+    "lat": 0.975037904,
+    "lng": -77.73758941
+  },
+  {
+    "codigo_municipio": "76111",
+    "municipio": "Guadalajara de Buga",
+    "departamento": "Valle del Cauca",
+    "lat": 3.819854318,
+    "lng": -75.98312419
+  },
+  {
+    "codigo_municipio": "05315",
+    "municipio": "Guadalupe",
+    "departamento": "Antioquia",
+    "lat": 6.861576325,
+    "lng": -75.22591303
+  },
+  {
+    "codigo_municipio": "41319",
+    "municipio": "Guadalupe",
+    "departamento": "Huila",
+    "lat": 1.984394016,
+    "lng": -75.69693549
+  },
+  {
+    "codigo_municipio": "68320",
+    "municipio": "Guadalupe",
+    "departamento": "Santander",
+    "lat": 6.233278248,
+    "lng": -73.40977445
+  },
+  {
+    "codigo_municipio": "25320",
+    "municipio": "Guaduas",
+    "departamento": "Cundinamarca",
+    "lat": 5.173554764,
+    "lng": -74.64014651
+  },
+  {
+    "codigo_municipio": "52320",
+    "municipio": "Guaitarilla",
+    "departamento": "Nariño",
+    "lat": 1.151366658,
+    "lng": -77.53011336
+  },
+  {
+    "codigo_municipio": "52323",
+    "municipio": "Gualmatán",
+    "departamento": "Nariño",
+    "lat": 0.928642623,
+    "lng": -77.58261883
+  },
+  {
+    "codigo_municipio": "47318",
+    "municipio": "Guamal",
+    "departamento": "Magdalena",
+    "lat": 9.248004673,
+    "lng": -74.13968085
+  },
+  {
+    "codigo_municipio": "50318",
+    "municipio": "Guamal",
+    "departamento": "Meta",
+    "lat": 3.947775585,
+    "lng": -73.95983864
+  },
+  {
+    "codigo_municipio": "73319",
+    "municipio": "Guamo",
+    "departamento": "Tolima",
+    "lat": 4.076501341,
+    "lng": -74.97657287
+  },
+  {
+    "codigo_municipio": "19318",
+    "municipio": "Guapi",
+    "departamento": "Cauca",
+    "lat": 2.41326696,
+    "lng": -77.69047531
+  },
+  {
+    "codigo_municipio": "68322",
+    "municipio": "Guapotá",
+    "departamento": "Santander",
+    "lat": 6.319299865,
+    "lng": -73.33115275
+  },
+  {
+    "codigo_municipio": "70265",
+    "municipio": "Guaranda",
+    "departamento": "Sucre",
+    "lat": 8.337828523,
+    "lng": -74.68734926
+  },
+  {
+    "codigo_municipio": "05318",
+    "municipio": "Guarne",
+    "departamento": "Antioquia",
+    "lat": 6.266625703,
+    "lng": -75.43730801
+  },
+  {
+    "codigo_municipio": "25322",
+    "municipio": "Guasca",
+    "departamento": "Cundinamarca",
+    "lat": 4.801276832,
+    "lng": -73.84643485
+  },
+  {
+    "codigo_municipio": "05321",
+    "municipio": "Guatapé",
+    "departamento": "Antioquia",
+    "lat": 6.236329826,
+    "lng": -75.15651272
+  },
+  {
+    "codigo_municipio": "25324",
+    "municipio": "Guataquí",
+    "departamento": "Cundinamarca",
+    "lat": 4.516381655,
+    "lng": -74.78257788
+  },
+  {
+    "codigo_municipio": "25326",
+    "municipio": "Guatavita",
+    "departamento": "Cundinamarca",
+    "lat": 4.91158717,
+    "lng": -73.78648564
+  },
+  {
+    "codigo_municipio": "15322",
+    "municipio": "Guateque",
+    "departamento": "Boyacá",
+    "lat": 5.01450831,
+    "lng": -73.48812352
+  },
+  {
+    "codigo_municipio": "68324",
+    "municipio": "Guavatá",
+    "departamento": "Santander",
+    "lat": 5.944894844,
+    "lng": -73.72173671
+  },
+  {
+    "codigo_municipio": "25328",
+    "municipio": "Guayabal de Síquima",
+    "departamento": "Cundinamarca",
+    "lat": 4.866310254,
+    "lng": -74.4767709
+  },
+  {
+    "codigo_municipio": "25335",
+    "municipio": "Guayabetal",
+    "departamento": "Cundinamarca",
+    "lat": 4.231875945,
+    "lng": -73.83543981
+  },
+  {
+    "codigo_municipio": "15325",
+    "municipio": "Guayatá",
+    "departamento": "Boyacá",
+    "lat": 4.931424341,
+    "lng": -73.49663372
+  },
+  {
+    "codigo_municipio": "25339",
+    "municipio": "Gutiérrez",
+    "departamento": "Cundinamarca",
+    "lat": 4.166089563,
+    "lng": -74.0246527
+  },
+  {
+    "codigo_municipio": "66318",
+    "municipio": "Guática",
+    "departamento": "Risaralda",
+    "lat": 5.320295966,
+    "lng": -75.80436659
+  },
+  {
+    "codigo_municipio": "68298",
+    "municipio": "Gámbita",
+    "departamento": "Santander",
+    "lat": 5.924383558,
+    "lng": -73.31939934
+  },
+  {
+    "codigo_municipio": "15296",
+    "municipio": "Gámeza",
+    "departamento": "Boyacá",
+    "lat": 5.799050256,
+    "lng": -72.72964765
+  },
+  {
+    "codigo_municipio": "63302",
+    "municipio": "Génova",
+    "departamento": "Quindío",
+    "lat": 4.180107773,
+    "lng": -75.76056695
+  },
+  {
+    "codigo_municipio": "05310",
+    "municipio": "Gómez Plata",
+    "departamento": "Antioquia",
+    "lat": 6.709562839,
+    "lng": -75.19270291
+  },
+  {
+    "codigo_municipio": "68327",
+    "municipio": "Güepsa",
+    "departamento": "Santander",
+    "lat": 6.04656148,
+    "lng": -73.57847854
+  },
+  {
+    "codigo_municipio": "15332",
+    "municipio": "Güicán de la Sierra",
+    "departamento": "Boyacá",
+    "lat": 6.566991765,
+    "lng": -72.25599334
+  },
+  {
+    "codigo_municipio": "54344",
+    "municipio": "Hacarí",
+    "departamento": "Norte de Santander",
+    "lat": 8.361831987,
+    "lng": -73.0782633
+  },
+  {
+    "codigo_municipio": "13300",
+    "municipio": "Hatillo de Loba",
+    "departamento": "Bolívar",
+    "lat": 8.981717133,
+    "lng": -74.09071902
+  },
+  {
+    "codigo_municipio": "68344",
+    "municipio": "Hato",
+    "departamento": "Santander",
+    "lat": 6.559878299,
+    "lng": -73.36178841
+  },
+  {
+    "codigo_municipio": "85125",
+    "municipio": "Hato Corozal",
+    "departamento": "Casanare",
+    "lat": 6.03948032,
+    "lng": -71.52445752
+  },
+  {
+    "codigo_municipio": "44378",
+    "municipio": "Hatonuevo",
+    "departamento": "La Guajira",
+    "lat": 11.09905582,
+    "lng": -72.73842427
+  },
+  {
+    "codigo_municipio": "05347",
+    "municipio": "Heliconia",
+    "departamento": "Antioquia",
+    "lat": 6.214511788,
+    "lng": -75.74971002
+  },
+  {
+    "codigo_municipio": "54347",
+    "municipio": "Herrán",
+    "departamento": "Norte de Santander",
+    "lat": 7.493955781,
+    "lng": -72.49269998
+  },
+  {
+    "codigo_municipio": "73347",
+    "municipio": "Herveo",
+    "departamento": "Tolima",
+    "lat": 5.068553783,
+    "lng": -75.24322959
+  },
+  {
+    "codigo_municipio": "05353",
+    "municipio": "Hispania",
+    "departamento": "Antioquia",
+    "lat": 5.797039002,
+    "lng": -75.90669203
+  },
+  {
+    "codigo_municipio": "41349",
+    "municipio": "Hobo",
+    "departamento": "Huila",
+    "lat": 2.541654161,
+    "lng": -75.44781083
+  },
+  {
+    "codigo_municipio": "73349",
+    "municipio": "Honda",
+    "departamento": "Tolima",
+    "lat": 5.179416561,
+    "lng": -74.78303094
+  },
+  {
+    "codigo_municipio": "73001",
+    "municipio": "Ibagué",
+    "departamento": "Tolima",
+    "lat": 4.451921427,
+    "lng": -75.252591
+  },
+  {
+    "codigo_municipio": "73352",
+    "municipio": "Icononzo",
+    "departamento": "Tolima",
+    "lat": 4.133276369,
+    "lng": -74.53964257
+  },
+  {
+    "codigo_municipio": "52352",
+    "municipio": "Iles",
+    "departamento": "Nariño",
+    "lat": 0.980534037,
+    "lng": -77.5186573
+  },
+  {
+    "codigo_municipio": "52354",
+    "municipio": "Imués",
+    "departamento": "Nariño",
+    "lat": 1.07287697,
+    "lng": -77.50150864
+  },
+  {
+    "codigo_municipio": "19355",
+    "municipio": "Inzá",
+    "departamento": "Cauca",
+    "lat": 2.499058783,
+    "lng": -76.13762531
+  },
+  {
+    "codigo_municipio": "94001",
+    "municipio": "Inírida",
+    "departamento": "Guainía",
+    "lat": 3.516363079,
+    "lng": -68.00834728
+  },
+  {
+    "codigo_municipio": "52356",
+    "municipio": "Ipiales",
+    "departamento": "Nariño",
+    "lat": 0.497708465,
+    "lng": -77.24047625
+  },
+  {
+    "codigo_municipio": "41359",
+    "municipio": "Isnos",
+    "departamento": "Huila",
+    "lat": 1.945591321,
+    "lng": -76.18204722
+  },
+  {
+    "codigo_municipio": "27361",
+    "municipio": "Istmina",
+    "departamento": "Chocó",
+    "lat": 4.586818665,
+    "lng": -77.00090737
+  },
+  {
+    "codigo_municipio": "05360",
+    "municipio": "Itagüí",
+    "departamento": "Antioquia",
+    "lat": 6.179279438,
+    "lng": -75.6142037
+  },
+  {
+    "codigo_municipio": "05361",
+    "municipio": "Ituango",
+    "departamento": "Antioquia",
+    "lat": 7.341549718,
+    "lng": -75.67842277
+  },
+  {
+    "codigo_municipio": "15362",
+    "municipio": "Iza",
+    "departamento": "Boyacá",
+    "lat": 5.617366016,
+    "lng": -72.96986504
+  },
+  {
+    "codigo_municipio": "19364",
+    "municipio": "Jambaló",
+    "departamento": "Cauca",
+    "lat": 2.84981013,
+    "lng": -76.31124919
+  },
+  {
+    "codigo_municipio": "76364",
+    "municipio": "Jamundí",
+    "departamento": "Valle del Cauca",
+    "lat": 3.213892389,
+    "lng": -76.62760418
+  },
+  {
+    "codigo_municipio": "05364",
+    "municipio": "Jardín",
+    "departamento": "Antioquia",
+    "lat": 5.574444339,
+    "lng": -75.81842575
+  },
+  {
+    "codigo_municipio": "15367",
+    "municipio": "Jenesano",
+    "departamento": "Boyacá",
+    "lat": 5.38916272,
+    "lng": -73.40087021
+  },
+  {
+    "codigo_municipio": "05368",
+    "municipio": "Jericó",
+    "departamento": "Antioquia",
+    "lat": 5.769820536,
+    "lng": -75.76488256
+  },
+  {
+    "codigo_municipio": "15368",
+    "municipio": "Jericó",
+    "departamento": "Boyacá",
+    "lat": 6.155633662,
+    "lng": -72.58523093
+  },
+  {
+    "codigo_municipio": "25368",
+    "municipio": "Jerusalén",
+    "departamento": "Cundinamarca",
+    "lat": 4.571350254,
+    "lng": -74.68915854
+  },
+  {
+    "codigo_municipio": "68368",
+    "municipio": "Jesús María",
+    "departamento": "Santander",
+    "lat": 5.872705896,
+    "lng": -73.78997419
+  },
+  {
+    "codigo_municipio": "68370",
+    "municipio": "Jordán",
+    "departamento": "Santander",
+    "lat": 6.710814846,
+    "lng": -73.1211236
+  },
+  {
+    "codigo_municipio": "08372",
+    "municipio": "Juan de Acosta",
+    "departamento": "Atlántico",
+    "lat": 10.82306503,
+    "lng": -75.07841904
+  },
+  {
+    "codigo_municipio": "25372",
+    "municipio": "Junín",
+    "departamento": "Cundinamarca",
+    "lat": 4.705170789,
+    "lng": -73.69247873
+  },
+  {
+    "codigo_municipio": "27372",
+    "municipio": "Juradó",
+    "departamento": "Chocó",
+    "lat": 7.103338868,
+    "lng": -77.67973662
+  },
+  {
+    "codigo_municipio": "23350",
+    "municipio": "La Apartada",
+    "departamento": "Córdoba",
+    "lat": 8.052218422,
+    "lng": -75.28816022
+  },
+  {
+    "codigo_municipio": "41378",
+    "municipio": "La Argentina",
+    "departamento": "Huila",
+    "lat": 2.156287619,
+    "lng": -76.00679451
+  },
+  {
+    "codigo_municipio": "68377",
+    "municipio": "La Belleza",
+    "departamento": "Santander",
+    "lat": 5.895724341,
+    "lng": -74.04676575
+  },
+  {
+    "codigo_municipio": "25377",
+    "municipio": "La Calera",
+    "departamento": "Cundinamarca",
+    "lat": 4.700785443,
+    "lng": -73.92939921
+  },
+  {
+    "codigo_municipio": "15380",
+    "municipio": "La Capilla",
+    "departamento": "Boyacá",
+    "lat": 5.113167102,
+    "lng": -73.45923708
+  },
+  {
+    "codigo_municipio": "05376",
+    "municipio": "La Ceja",
+    "departamento": "Antioquia",
+    "lat": 5.992524843,
+    "lng": -75.43086935
+  },
+  {
+    "codigo_municipio": "66383",
+    "municipio": "La Celia",
+    "departamento": "Risaralda",
+    "lat": 4.988127679,
+    "lng": -76.00822678
+  },
+  {
+    "codigo_municipio": "52378",
+    "municipio": "La Cruz",
+    "departamento": "Nariño",
+    "lat": 1.584175998,
+    "lng": -76.92335262
+  },
+  {
+    "codigo_municipio": "76377",
+    "municipio": "La Cumbre",
+    "departamento": "Valle del Cauca",
+    "lat": 3.694303106,
+    "lng": -76.58989905
+  },
+  {
+    "codigo_municipio": "17380",
+    "municipio": "La Dorada",
+    "departamento": "Caldas",
+    "lat": 5.410515691,
+    "lng": -74.72114262
+  },
+  {
+    "codigo_municipio": "54385",
+    "municipio": "La Esperanza",
+    "departamento": "Norte de Santander",
+    "lat": 7.695233593,
+    "lng": -73.36139672
+  },
+  {
+    "codigo_municipio": "05380",
+    "municipio": "La Estrella",
+    "departamento": "Antioquia",
+    "lat": 6.137595883,
+    "lng": -75.64895499
+  },
+  {
+    "codigo_municipio": "52381",
+    "municipio": "La Florida",
+    "departamento": "Nariño",
+    "lat": 1.338034371,
+    "lng": -77.42293041
+  },
+  {
+    "codigo_municipio": "20383",
+    "municipio": "La Gloria",
+    "departamento": "Cesar",
+    "lat": 8.588002247,
+    "lng": -73.61602384
+  },
+  {
+    "codigo_municipio": "20400",
+    "municipio": "La Jagua de Ibirico",
+    "departamento": "Cesar",
+    "lat": 9.52099808,
+    "lng": -73.32249338
+  },
+  {
+    "codigo_municipio": "44420",
+    "municipio": "La Jagua del Pilar",
+    "departamento": "La Guajira",
+    "lat": 10.4580941,
+    "lng": -73.07209193
+  },
+  {
+    "codigo_municipio": "52385",
+    "municipio": "La Llanada",
+    "departamento": "Nariño",
+    "lat": 1.541847847,
+    "lng": -77.61781608
+  },
+  {
+    "codigo_municipio": "50350",
+    "municipio": "La Macarena",
+    "departamento": "Meta",
+    "lat": 2.161863917,
+    "lng": -74.09488076
+  },
+  {
+    "codigo_municipio": "17388",
+    "municipio": "La Merced",
+    "departamento": "Caldas",
+    "lat": 5.393185716,
+    "lng": -75.55791071
+  },
+  {
+    "codigo_municipio": "25386",
+    "municipio": "La Mesa",
+    "departamento": "Cundinamarca",
+    "lat": 4.650773167,
+    "lng": -74.47321717
+  },
+  {
+    "codigo_municipio": "18410",
+    "municipio": "La Montañita",
+    "departamento": "Caquetá",
+    "lat": 1.302860442,
+    "lng": -75.23572732
+  },
+  {
+    "codigo_municipio": "25394",
+    "municipio": "La Palma",
+    "departamento": "Cundinamarca",
+    "lat": 5.333400646,
+    "lng": -74.40807863
+  },
+  {
+    "codigo_municipio": "20621",
+    "municipio": "La Paz",
+    "departamento": "Cesar",
+    "lat": 10.24440562,
+    "lng": -73.07824569
+  },
+  {
+    "codigo_municipio": "68397",
+    "municipio": "La Paz",
+    "departamento": "Santander",
+    "lat": 6.21737437,
+    "lng": -73.62977195
+  },
+  {
+    "codigo_municipio": "25398",
+    "municipio": "La Peña",
+    "departamento": "Cundinamarca",
+    "lat": 5.20459882,
+    "lng": -74.40786611
+  },
+  {
+    "codigo_municipio": "05390",
+    "municipio": "La Pintada",
+    "departamento": "Antioquia",
+    "lat": 5.746583958,
+    "lng": -75.60220206
+  },
+  {
+    "codigo_municipio": "41396",
+    "municipio": "La Plata",
+    "departamento": "Huila",
+    "lat": 2.328076586,
+    "lng": -76.00117299
+  },
+  {
+    "codigo_municipio": "54398",
+    "municipio": "La Playa",
+    "departamento": "Norte de Santander",
+    "lat": 8.256757875,
+    "lng": -73.18789327
+  },
+  {
+    "codigo_municipio": "99524",
+    "municipio": "La Primavera",
+    "departamento": "Vichada",
+    "lat": 5.517593607,
+    "lng": -69.62044054
+  },
+  {
+    "codigo_municipio": "85136",
+    "municipio": "La Salina",
+    "departamento": "Casanare",
+    "lat": 6.178282373,
+    "lng": -72.34693377
+  },
+  {
+    "codigo_municipio": "19392",
+    "municipio": "La Sierra",
+    "departamento": "Cauca",
+    "lat": 2.187473572,
+    "lng": -76.78228032
+  },
+  {
+    "codigo_municipio": "63401",
+    "municipio": "La Tebaida",
+    "departamento": "Quindío",
+    "lat": 4.426884849,
+    "lng": -75.81927335
+  },
+  {
+    "codigo_municipio": "52390",
+    "municipio": "La Tola",
+    "departamento": "Nariño",
+    "lat": 2.56027333,
+    "lng": -78.23506694
+  },
+  {
+    "codigo_municipio": "05400",
+    "municipio": "La Unión",
+    "departamento": "Antioquia",
+    "lat": 5.940434685,
+    "lng": -75.35429023
+  },
+  {
+    "codigo_municipio": "52399",
+    "municipio": "La Unión",
+    "departamento": "Nariño",
+    "lat": 1.619697376,
+    "lng": -77.14284622
+  },
+  {
+    "codigo_municipio": "70400",
+    "municipio": "La Unión",
+    "departamento": "Sucre",
+    "lat": 8.811997799,
+    "lng": -75.28322212
+  },
+  {
+    "codigo_municipio": "76400",
+    "municipio": "La Unión",
+    "departamento": "Valle del Cauca",
+    "lat": 4.537937391,
+    "lng": -76.10328983
+  },
+  {
+    "codigo_municipio": "15403",
+    "municipio": "La Uvita",
+    "departamento": "Boyacá",
+    "lat": 6.265126191,
+    "lng": -72.55551085
+  },
+  {
+    "codigo_municipio": "19397",
+    "municipio": "La Vega",
+    "departamento": "Cauca",
+    "lat": 2.053933426,
+    "lng": -76.7588062
+  },
+  {
+    "codigo_municipio": "25402",
+    "municipio": "La Vega",
+    "departamento": "Cundinamarca",
+    "lat": 4.978619842,
+    "lng": -74.33936061
+  },
+  {
+    "codigo_municipio": "15401",
+    "municipio": "La Victoria",
+    "departamento": "Boyacá",
+    "lat": 5.507008121,
+    "lng": -74.24162727
+  },
+  {
+    "codigo_municipio": "76403",
+    "municipio": "La Victoria",
+    "departamento": "Valle del Cauca",
+    "lat": 4.483511142,
+    "lng": -75.96677303
+  },
+  {
+    "codigo_municipio": "66400",
+    "municipio": "La Virginia",
+    "departamento": "Risaralda",
+    "lat": 4.904704187,
+    "lng": -75.85208162
+  },
+  {
+    "codigo_municipio": "54377",
+    "municipio": "Labateca",
+    "departamento": "Norte de Santander",
+    "lat": 7.218372474,
+    "lng": -72.48281514
+  },
+  {
+    "codigo_municipio": "15377",
+    "municipio": "Labranzagrande",
+    "departamento": "Boyacá",
+    "lat": 5.541378132,
+    "lng": -72.5903846
+  },
+  {
+    "codigo_municipio": "68385",
+    "municipio": "Landázuri",
+    "departamento": "Santander",
+    "lat": 6.385234814,
+    "lng": -73.78760899
+  },
+  {
+    "codigo_municipio": "68406",
+    "municipio": "Lebrija",
+    "departamento": "Santander",
+    "lat": 7.204060063,
+    "lng": -73.29138097
+  },
+  {
+    "codigo_municipio": "52405",
+    "municipio": "Leiva",
+    "departamento": "Nariño",
+    "lat": 1.900862361,
+    "lng": -77.31220073
+  },
+  {
+    "codigo_municipio": "50400",
+    "municipio": "Lejanías",
+    "departamento": "Meta",
+    "lat": 3.614714873,
+    "lng": -74.09628467
+  },
+  {
+    "codigo_municipio": "25407",
+    "municipio": "Lenguazaque",
+    "departamento": "Cundinamarca",
+    "lat": 5.303637171,
+    "lng": -73.68153228
+  },
+  {
+    "codigo_municipio": "91001",
+    "municipio": "Leticia",
+    "departamento": "Amazonas",
+    "lat": -3.530058784,
+    "lng": -70.04513691
+  },
+  {
+    "codigo_municipio": "05411",
+    "municipio": "Liborina",
+    "departamento": "Antioquia",
+    "lat": 6.723990935,
+    "lng": -75.78300046
+  },
+  {
+    "codigo_municipio": "52411",
+    "municipio": "Linares",
+    "departamento": "Nariño",
+    "lat": 1.395173084,
+    "lng": -77.52093774
+  },
+  {
+    "codigo_municipio": "27413",
+    "municipio": "Lloró",
+    "departamento": "Chocó",
+    "lat": 5.585101179,
+    "lng": -76.38544449
+  },
+  {
+    "codigo_municipio": "23417",
+    "municipio": "Lorica",
+    "departamento": "Córdoba",
+    "lat": 9.165034998,
+    "lng": -75.90978124
+  },
+  {
+    "codigo_municipio": "52418",
+    "municipio": "Los Andes",
+    "departamento": "Nariño",
+    "lat": 1.672601269,
+    "lng": -77.71054449
+  },
+  {
+    "codigo_municipio": "23419",
+    "municipio": "Los Córdobas",
+    "departamento": "Córdoba",
+    "lat": 8.823307063,
+    "lng": -76.3430552
+  },
+  {
+    "codigo_municipio": "70418",
+    "municipio": "Los Palmitos",
+    "departamento": "Sucre",
+    "lat": 9.422380117,
+    "lng": -75.21302191
+  },
+  {
+    "codigo_municipio": "54405",
+    "municipio": "Los Patios",
+    "departamento": "Norte de Santander",
+    "lat": 7.742291094,
+    "lng": -72.52680784
+  },
+  {
+    "codigo_municipio": "68418",
+    "municipio": "Los Santos",
+    "departamento": "Santander",
+    "lat": 6.812162934,
+    "lng": -73.10785086
+  },
+  {
+    "codigo_municipio": "54418",
+    "municipio": "Lourdes",
+    "departamento": "Norte de Santander",
+    "lat": 7.963712759,
+    "lng": -72.8467029
+  },
+  {
+    "codigo_municipio": "08421",
+    "municipio": "Luruaco",
+    "departamento": "Atlántico",
+    "lat": 10.63503116,
+    "lng": -75.15402741
+  },
+  {
+    "codigo_municipio": "73408",
+    "municipio": "Lérida",
+    "departamento": "Tolima",
+    "lat": 4.866034592,
+    "lng": -74.92337178
+  },
+  {
+    "codigo_municipio": "73411",
+    "municipio": "Líbano",
+    "departamento": "Tolima",
+    "lat": 4.877936755,
+    "lng": -75.04763076
+  },
+  {
+    "codigo_municipio": "19418",
+    "municipio": "López de Micay",
+    "departamento": "Cauca",
+    "lat": 2.95819877,
+    "lng": -77.24212158
+  },
+  {
+    "codigo_municipio": "15425",
+    "municipio": "Macanal",
+    "departamento": "Boyacá",
+    "lat": 4.980176495,
+    "lng": -73.29413695
+  },
+  {
+    "codigo_municipio": "68425",
+    "municipio": "Macaravita",
+    "departamento": "Santander",
+    "lat": 6.513745303,
+    "lng": -72.58536492
+  },
+  {
+    "codigo_municipio": "05425",
+    "municipio": "Maceo",
+    "departamento": "Antioquia",
+    "lat": 6.534573585,
+    "lng": -74.71410854
+  },
+  {
+    "codigo_municipio": "25426",
+    "municipio": "Machetá",
+    "departamento": "Cundinamarca",
+    "lat": 5.040349198,
+    "lng": -73.61738241
+  },
+  {
+    "codigo_municipio": "25430",
+    "municipio": "Madrid",
+    "departamento": "Cundinamarca",
+    "lat": 4.75156751,
+    "lng": -74.2896305
+  },
+  {
+    "codigo_municipio": "13430",
+    "municipio": "Magangué",
+    "departamento": "Bolívar",
+    "lat": 9.053135895,
+    "lng": -74.70539318
+  },
+  {
+    "codigo_municipio": "52427",
+    "municipio": "Magüí",
+    "departamento": "Nariño",
+    "lat": 1.906858429,
+    "lng": -78.04473644
+  },
+  {
+    "codigo_municipio": "13433",
+    "municipio": "Mahates",
+    "departamento": "Bolívar",
+    "lat": 10.17821391,
+    "lng": -75.17978161
+  },
+  {
+    "codigo_municipio": "44430",
+    "municipio": "Maicao",
+    "departamento": "La Guajira",
+    "lat": 11.38157764,
+    "lng": -72.29500818
+  },
+  {
+    "codigo_municipio": "70429",
+    "municipio": "Majagual",
+    "departamento": "Sucre",
+    "lat": 8.546148134,
+    "lng": -74.71037883
+  },
+  {
+    "codigo_municipio": "08433",
+    "municipio": "Malambo",
+    "departamento": "Atlántico",
+    "lat": 10.84828864,
+    "lng": -74.80617555
+  },
+  {
+    "codigo_municipio": "52435",
+    "municipio": "Mallama",
+    "departamento": "Nariño",
+    "lat": 1.155947016,
+    "lng": -77.84664646
+  },
+  {
+    "codigo_municipio": "08436",
+    "municipio": "Manatí",
+    "departamento": "Atlántico",
+    "lat": 10.45414555,
+    "lng": -74.98477367
+  },
+  {
+    "codigo_municipio": "44560",
+    "municipio": "Manaure",
+    "departamento": "La Guajira",
+    "lat": 11.60554263,
+    "lng": -72.57160392
+  },
+  {
+    "codigo_municipio": "20443",
+    "municipio": "Manaure Balcón del Cesar",
+    "departamento": "Cesar",
+    "lat": 10.38027852,
+    "lng": -73.00706275
+  },
+  {
+    "codigo_municipio": "17001",
+    "municipio": "Manizales",
+    "departamento": "Caldas",
+    "lat": 5.08343301,
+    "lng": -75.50727881
+  },
+  {
+    "codigo_municipio": "25436",
+    "municipio": "Manta",
+    "departamento": "Cundinamarca",
+    "lat": 4.976881151,
+    "lng": -73.56313741
+  },
+  {
+    "codigo_municipio": "17433",
+    "municipio": "Manzanares",
+    "departamento": "Caldas",
+    "lat": 5.23295391,
+    "lng": -75.15263447
+  },
+  {
+    "codigo_municipio": "85139",
+    "municipio": "Maní",
+    "departamento": "Casanare",
+    "lat": 4.675769488,
+    "lng": -72.21280273
+  },
+  {
+    "codigo_municipio": "50325",
+    "municipio": "Mapiripán",
+    "departamento": "Meta",
+    "lat": 3.117523361,
+    "lng": -71.93805692
+  },
+  {
+    "codigo_municipio": "13440",
+    "municipio": "Margarita",
+    "departamento": "Bolívar",
+    "lat": 9.054601889,
+    "lng": -74.22584706
+  },
+  {
+    "codigo_municipio": "05440",
+    "municipio": "Marinilla",
+    "departamento": "Antioquia",
+    "lat": 6.18520515,
+    "lng": -75.30487933
+  },
+  {
+    "codigo_municipio": "15442",
+    "municipio": "Maripí",
+    "departamento": "Boyacá",
+    "lat": 5.569810633,
+    "lng": -74.02003127
+  },
+  {
+    "codigo_municipio": "17442",
+    "municipio": "Marmato",
+    "departamento": "Caldas",
+    "lat": 5.492632029,
+    "lng": -75.60209955
+  },
+  {
+    "codigo_municipio": "17444",
+    "municipio": "Marquetalia",
+    "departamento": "Caldas",
+    "lat": 5.309142491,
+    "lng": -75.04117892
+  },
+  {
+    "codigo_municipio": "66440",
+    "municipio": "Marsella",
+    "departamento": "Risaralda",
+    "lat": 4.942936185,
+    "lng": -75.7532139
+  },
+  {
+    "codigo_municipio": "17446",
+    "municipio": "Marulanda",
+    "departamento": "Caldas",
+    "lat": 5.235585244,
+    "lng": -75.28316648
+  },
+  {
+    "codigo_municipio": "13442",
+    "municipio": "María la Baja",
+    "departamento": "Bolívar",
+    "lat": 9.976017168,
+    "lng": -75.34380265
+  },
+  {
+    "codigo_municipio": "68444",
+    "municipio": "Matanza",
+    "departamento": "Santander",
+    "lat": 7.348778319,
+    "lng": -73.05438997
+  },
+  {
+    "codigo_municipio": "05001",
+    "municipio": "Medellín",
+    "departamento": "Antioquia",
+    "lat": 6.257590259,
+    "lng": -75.61103107
+  },
+  {
+    "codigo_municipio": "25438",
+    "municipio": "Medina",
+    "departamento": "Cundinamarca",
+    "lat": 4.484437919,
+    "lng": -73.40598487
+  },
+  {
+    "codigo_municipio": "27425",
+    "municipio": "Medio Atrato",
+    "departamento": "Chocó",
+    "lat": 6.033880098,
+    "lng": -76.6734697
+  },
+  {
+    "codigo_municipio": "27430",
+    "municipio": "Medio Baudó",
+    "departamento": "Chocó",
+    "lat": 5.110392243,
+    "lng": -76.99593075
+  },
+  {
+    "codigo_municipio": "27450",
+    "municipio": "Medio San Juan",
+    "departamento": "Chocó",
+    "lat": 4.621182739,
+    "lng": -76.80861843
+  },
+  {
+    "codigo_municipio": "73449",
+    "municipio": "Melgar",
+    "departamento": "Tolima",
+    "lat": 4.193215498,
+    "lng": -74.60517497
+  },
+  {
+    "codigo_municipio": "19450",
+    "municipio": "Mercaderes",
+    "departamento": "Cauca",
+    "lat": 1.793825164,
+    "lng": -77.18060381
+  },
+  {
+    "codigo_municipio": "50330",
+    "municipio": "Mesetas",
+    "departamento": "Meta",
+    "lat": 3.154771201,
+    "lng": -74.12454824
+  },
+  {
+    "codigo_municipio": "18460",
+    "municipio": "Milán",
+    "departamento": "Caquetá",
+    "lat": 1.146692554,
+    "lng": -75.38664764
+  },
+  {
+    "codigo_municipio": "15455",
+    "municipio": "Miraflores",
+    "departamento": "Boyacá",
+    "lat": 5.150953297,
+    "lng": -73.17896722
+  },
+  {
+    "codigo_municipio": "95200",
+    "municipio": "Miraflores",
+    "departamento": "Guaviare",
+    "lat": 1.363974932,
+    "lng": -72.01810951
+  },
+  {
+    "codigo_municipio": "19455",
+    "municipio": "Miranda",
+    "departamento": "Cauca",
+    "lat": 3.228235212,
+    "lng": -76.21670827
+  },
+  {
+    "codigo_municipio": "66456",
+    "municipio": "Mistrató",
+    "departamento": "Risaralda",
+    "lat": 5.414078141,
+    "lng": -75.96135387
+  },
+  {
+    "codigo_municipio": "97001",
+    "municipio": "Mitú",
+    "departamento": "Vaupés",
+    "lat": 1.06148231,
+    "lng": -70.46688401
+  },
+  {
+    "codigo_municipio": "86001",
+    "municipio": "Mocoa",
+    "departamento": "Putumayo",
+    "lat": 1.26070915,
+    "lng": -76.66584349
+  },
+  {
+    "codigo_municipio": "68464",
+    "municipio": "Mogotes",
+    "departamento": "Santander",
+    "lat": 6.492532315,
+    "lng": -72.95834772
+  },
+  {
+    "codigo_municipio": "68468",
+    "municipio": "Molagavita",
+    "departamento": "Santander",
+    "lat": 6.643290559,
+    "lng": -72.81916274
+  },
+  {
+    "codigo_municipio": "23464",
+    "municipio": "Momil",
+    "departamento": "Córdoba",
+    "lat": 9.265461621,
+    "lng": -75.65090876
+  },
+  {
+    "codigo_municipio": "15464",
+    "municipio": "Mongua",
+    "departamento": "Boyacá",
+    "lat": 5.710937981,
+    "lng": -72.63402875
+  },
+  {
+    "codigo_municipio": "15466",
+    "municipio": "Monguí",
+    "departamento": "Boyacá",
+    "lat": 5.697352228,
+    "lng": -72.83298664
+  },
+  {
+    "codigo_municipio": "15469",
+    "municipio": "Moniquirá",
+    "departamento": "Boyacá",
+    "lat": 5.863370485,
+    "lng": -73.55852538
+  },
+  {
+    "codigo_municipio": "05467",
+    "municipio": "Montebello",
+    "departamento": "Antioquia",
+    "lat": 5.916853903,
+    "lng": -75.51972693
+  },
+  {
+    "codigo_municipio": "13458",
+    "municipio": "Montecristo",
+    "departamento": "Bolívar",
+    "lat": 8.01710024,
+    "lng": -74.46342911
+  },
+  {
+    "codigo_municipio": "23466",
+    "municipio": "Montelíbano",
+    "departamento": "Córdoba",
+    "lat": 7.866432635,
+    "lng": -75.87533926
+  },
+  {
+    "codigo_municipio": "63470",
+    "municipio": "Montenegro",
+    "departamento": "Quindío",
+    "lat": 4.521890945,
+    "lng": -75.81806594
+  },
+  {
+    "codigo_municipio": "85162",
+    "municipio": "Monterrey",
+    "departamento": "Casanare",
+    "lat": 4.841308642,
+    "lng": -72.8473434
+  },
+  {
+    "codigo_municipio": "23001",
+    "municipio": "Montería",
+    "departamento": "Córdoba",
+    "lat": 8.584698016,
+    "lng": -75.95055079
+  },
+  {
+    "codigo_municipio": "13473",
+    "municipio": "Morales",
+    "departamento": "Bolívar",
+    "lat": 8.253700061,
+    "lng": -73.9713459
+  },
+  {
+    "codigo_municipio": "19473",
+    "municipio": "Morales",
+    "departamento": "Cauca",
+    "lat": 2.773663981,
+    "lng": -76.74605152
+  },
+  {
+    "codigo_municipio": "18479",
+    "municipio": "Morelia",
+    "departamento": "Caquetá",
+    "lat": 1.38299611,
+    "lng": -75.67381123
+  },
+  {
+    "codigo_municipio": "70473",
+    "municipio": "Morroa",
+    "departamento": "Sucre",
+    "lat": 9.392496685,
+    "lng": -75.32718744
+  },
+  {
+    "codigo_municipio": "25473",
+    "municipio": "Mosquera",
+    "departamento": "Cundinamarca",
+    "lat": 4.672714223,
+    "lng": -74.23573194
+  },
+  {
+    "codigo_municipio": "52473",
+    "municipio": "Mosquera",
+    "departamento": "Nariño",
+    "lat": 2.442493698,
+    "lng": -78.438827
+  },
+  {
+    "codigo_municipio": "15476",
+    "municipio": "Motavita",
+    "departamento": "Boyacá",
+    "lat": 5.606192449,
+    "lng": -73.37734267
+  },
+  {
+    "codigo_municipio": "23500",
+    "municipio": "Moñitos",
+    "departamento": "Córdoba",
+    "lat": 9.190515343,
+    "lng": -76.11931709
+  },
+  {
+    "codigo_municipio": "73461",
+    "municipio": "Murillo",
+    "departamento": "Tolima",
+    "lat": 4.826734468,
+    "lng": -75.21993987
+  },
+  {
+    "codigo_municipio": "05475",
+    "municipio": "Murindó",
+    "departamento": "Antioquia",
+    "lat": 6.828773855,
+    "lng": -76.70861349
+  },
+  {
+    "codigo_municipio": "05480",
+    "municipio": "Mutatá",
+    "departamento": "Antioquia",
+    "lat": 7.329557848,
+    "lng": -76.4630657
+  },
+  {
+    "codigo_municipio": "54480",
+    "municipio": "Mutiscua",
+    "departamento": "Norte de Santander",
+    "lat": 7.31694997,
+    "lng": -72.76834584
+  },
+  {
+    "codigo_municipio": "15480",
+    "municipio": "Muzo",
+    "departamento": "Boyacá",
+    "lat": 5.539429272,
+    "lng": -74.11177139
+  },
+  {
+    "codigo_municipio": "68432",
+    "municipio": "Málaga",
+    "departamento": "Santander",
+    "lat": 6.720222349,
+    "lng": -72.73841091
+  },
+  {
+    "codigo_municipio": "05483",
+    "municipio": "Nariño",
+    "departamento": "Antioquia",
+    "lat": 5.581275312,
+    "lng": -75.19457019
+  },
+  {
+    "codigo_municipio": "25483",
+    "municipio": "Nariño",
+    "departamento": "Cundinamarca",
+    "lat": 4.407952015,
+    "lng": -74.80565317
+  },
+  {
+    "codigo_municipio": "52480",
+    "municipio": "Nariño",
+    "departamento": "Nariño",
+    "lat": 1.286775273,
+    "lng": -77.35220367
+  },
+  {
+    "codigo_municipio": "73483",
+    "municipio": "Natagaima",
+    "departamento": "Tolima",
+    "lat": 3.540518203,
+    "lng": -75.12200999
+  },
+  {
+    "codigo_municipio": "05495",
+    "municipio": "Nechí",
+    "departamento": "Antioquia",
+    "lat": 7.983477394,
+    "lng": -74.65844186
+  },
+  {
+    "codigo_municipio": "05490",
+    "municipio": "Necoclí",
+    "departamento": "Antioquia",
+    "lat": 8.493728551,
+    "lng": -76.67699588
+  },
+  {
+    "codigo_municipio": "17486",
+    "municipio": "Neira",
+    "departamento": "Caldas",
+    "lat": 5.183358589,
+    "lng": -75.50692977
+  },
+  {
+    "codigo_municipio": "41001",
+    "municipio": "Neiva",
+    "departamento": "Huila",
+    "lat": 2.993360046,
+    "lng": -75.27236232
+  },
+  {
+    "codigo_municipio": "25486",
+    "municipio": "Nemocón",
+    "departamento": "Cundinamarca",
+    "lat": 5.093705358,
+    "lng": -73.88380238
+  },
+  {
+    "codigo_municipio": "25488",
+    "municipio": "Nilo",
+    "departamento": "Cundinamarca",
+    "lat": 4.294780933,
+    "lng": -74.614695
+  },
+  {
+    "codigo_municipio": "25489",
+    "municipio": "Nimaima",
+    "departamento": "Cundinamarca",
+    "lat": 5.121445325,
+    "lng": -74.39737048
+  },
+  {
+    "codigo_municipio": "15491",
+    "municipio": "Nobsa",
+    "departamento": "Boyacá",
+    "lat": 5.778759851,
+    "lng": -72.93268324
+  },
+  {
+    "codigo_municipio": "25491",
+    "municipio": "Nocaima",
+    "departamento": "Cundinamarca",
+    "lat": 5.066110761,
+    "lng": -74.38975476
+  },
+  {
+    "codigo_municipio": "17495",
+    "municipio": "Norcasia",
+    "departamento": "Caldas",
+    "lat": 5.638062349,
+    "lng": -74.85492707
+  },
+  {
+    "codigo_municipio": "13490",
+    "municipio": "Norosí",
+    "departamento": "Bolívar",
+    "lat": 8.50613476,
+    "lng": -74.11588912
+  },
+  {
+    "codigo_municipio": "47460",
+    "municipio": "Nueva Granada",
+    "departamento": "Magdalena",
+    "lat": 9.735998134,
+    "lng": -74.32840222
+  },
+  {
+    "codigo_municipio": "15494",
+    "municipio": "Nuevo Colón",
+    "departamento": "Boyacá",
+    "lat": 5.354701485,
+    "lng": -73.44873424
+  },
+  {
+    "codigo_municipio": "85225",
+    "municipio": "Nunchía",
+    "departamento": "Casanare",
+    "lat": 5.529181235,
+    "lng": -72.09251937
+  },
+  {
+    "codigo_municipio": "27495",
+    "municipio": "Nuquí",
+    "departamento": "Chocó",
+    "lat": 5.591359844,
+    "lng": -77.33057439
+  },
+  {
+    "codigo_municipio": "41483",
+    "municipio": "Nátaga",
+    "departamento": "Huila",
+    "lat": 2.576066285,
+    "lng": -75.78693757
+  },
+  {
+    "codigo_municipio": "27491",
+    "municipio": "Nóvita",
+    "departamento": "Chocó",
+    "lat": 4.853386627,
+    "lng": -76.61823669
+  },
+  {
+    "codigo_municipio": "76497",
+    "municipio": "Obando",
+    "departamento": "Valle del Cauca",
+    "lat": 4.597588666,
+    "lng": -75.9491997
+  },
+  {
+    "codigo_municipio": "68498",
+    "municipio": "Ocamonte",
+    "departamento": "Santander",
+    "lat": 6.355368858,
+    "lng": -73.12211833
+  },
+  {
+    "codigo_municipio": "54498",
+    "municipio": "Ocaña",
+    "departamento": "Norte de Santander",
+    "lat": 8.206637527,
+    "lng": -73.33765033
+  },
+  {
+    "codigo_municipio": "68500",
+    "municipio": "Oiba",
+    "departamento": "Santander",
+    "lat": 6.225596216,
+    "lng": -73.27961515
+  },
+  {
+    "codigo_municipio": "15500",
+    "municipio": "Oicatá",
+    "departamento": "Boyacá",
+    "lat": 5.610787844,
+    "lng": -73.27991905
+  },
+  {
+    "codigo_municipio": "05501",
+    "municipio": "Olaya",
+    "departamento": "Antioquia",
+    "lat": 6.611418083,
+    "lng": -75.77567097
+  },
+  {
+    "codigo_municipio": "52490",
+    "municipio": "Olaya Herrera",
+    "departamento": "Nariño",
+    "lat": 2.287856547,
+    "lng": -78.31219024
+  },
+  {
+    "codigo_municipio": "68502",
+    "municipio": "Onzaga",
+    "departamento": "Santander",
+    "lat": 6.335194548,
+    "lng": -72.81205838
+  },
+  {
+    "codigo_municipio": "41503",
+    "municipio": "Oporapa",
+    "departamento": "Huila",
+    "lat": 2.061191362,
+    "lng": -76.04110289
+  },
+  {
+    "codigo_municipio": "86320",
+    "municipio": "Orito",
+    "departamento": "Putumayo",
+    "lat": 0.673756323,
+    "lng": -76.94313923
+  },
+  {
+    "codigo_municipio": "85230",
+    "municipio": "Orocué",
+    "departamento": "Casanare",
+    "lat": 4.915139133,
+    "lng": -71.59873966
+  },
+  {
+    "codigo_municipio": "73504",
+    "municipio": "Ortega",
+    "departamento": "Tolima",
+    "lat": 3.937793962,
+    "lng": -75.27824314
+  },
+  {
+    "codigo_municipio": "52506",
+    "municipio": "Ospina",
+    "departamento": "Nariño",
+    "lat": 1.029815854,
+    "lng": -77.55234944
+  },
+  {
+    "codigo_municipio": "15507",
+    "municipio": "Otanche",
+    "departamento": "Boyacá",
+    "lat": 5.753787787,
+    "lng": -74.19719423
+  },
+  {
+    "codigo_municipio": "70508",
+    "municipio": "Ovejas",
+    "departamento": "Sucre",
+    "lat": 9.549655271,
+    "lng": -75.18855916
+  },
+  {
+    "codigo_municipio": "15511",
+    "municipio": "Pachavita",
+    "departamento": "Boyacá",
+    "lat": 5.148323877,
+    "lng": -73.39951219
+  },
+  {
+    "codigo_municipio": "25513",
+    "municipio": "Pacho",
+    "departamento": "Cundinamarca",
+    "lat": 5.168367634,
+    "lng": -74.16336544
+  },
+  {
+    "codigo_municipio": "19513",
+    "municipio": "Padilla",
+    "departamento": "Cauca",
+    "lat": 3.194730618,
+    "lng": -76.3362418
+  },
+  {
+    "codigo_municipio": "41518",
+    "municipio": "Paicol",
+    "departamento": "Huila",
+    "lat": 2.40689827,
+    "lng": -75.72803027
+  },
+  {
+    "codigo_municipio": "20517",
+    "municipio": "Pailitas",
+    "departamento": "Cesar",
+    "lat": 8.938916143,
+    "lng": -73.57247213
+  },
+  {
+    "codigo_municipio": "25518",
+    "municipio": "Paime",
+    "departamento": "Cundinamarca",
+    "lat": 5.387647345,
+    "lng": -74.16395696
+  },
+  {
+    "codigo_municipio": "15516",
+    "municipio": "Paipa",
+    "departamento": "Boyacá",
+    "lat": 5.762027786,
+    "lng": -73.13777442
+  },
+  {
+    "codigo_municipio": "15518",
+    "municipio": "Pajarito",
+    "departamento": "Boyacá",
+    "lat": 5.382328949,
+    "lng": -72.69672674
+  },
+  {
+    "codigo_municipio": "41524",
+    "municipio": "Palermo",
+    "departamento": "Huila",
+    "lat": 2.914491967,
+    "lng": -75.44066118
+  },
+  {
+    "codigo_municipio": "17524",
+    "municipio": "Palestina",
+    "departamento": "Caldas",
+    "lat": 5.050342543,
+    "lng": -75.66176266
+  },
+  {
+    "codigo_municipio": "41530",
+    "municipio": "Palestina",
+    "departamento": "Huila",
+    "lat": 1.68458076,
+    "lng": -76.1478559
+  },
+  {
+    "codigo_municipio": "68522",
+    "municipio": "Palmar",
+    "departamento": "Santander",
+    "lat": 6.525876964,
+    "lng": -73.28247337
+  },
+  {
+    "codigo_municipio": "08520",
+    "municipio": "Palmar de Varela",
+    "departamento": "Atlántico",
+    "lat": 10.69481208,
+    "lng": -74.7701509
+  },
+  {
+    "codigo_municipio": "68524",
+    "municipio": "Palmas del Socorro",
+    "departamento": "Santander",
+    "lat": 6.391750107,
+    "lng": -73.28273174
+  },
+  {
+    "codigo_municipio": "76520",
+    "municipio": "Palmira",
+    "departamento": "Valle del Cauca",
+    "lat": 3.558392876,
+    "lng": -76.22779972
+  },
+  {
+    "codigo_municipio": "70523",
+    "municipio": "Palmito",
+    "departamento": "Sucre",
+    "lat": 9.334940293,
+    "lng": -75.56199027
+  },
+  {
+    "codigo_municipio": "73520",
+    "municipio": "Palocabildo",
+    "departamento": "Tolima",
+    "lat": 5.094035737,
+    "lng": -75.0184505
+  },
+  {
+    "codigo_municipio": "54518",
+    "municipio": "Pamplona",
+    "departamento": "Norte de Santander",
+    "lat": 7.379057623,
+    "lng": -72.67590348
+  },
+  {
+    "codigo_municipio": "54520",
+    "municipio": "Pamplonita",
+    "departamento": "Norte de Santander",
+    "lat": 7.48287886,
+    "lng": -72.63515401
+  },
+  {
+    "codigo_municipio": "25524",
+    "municipio": "Pandi",
+    "departamento": "Cundinamarca",
+    "lat": 4.180497268,
+    "lng": -74.4711213
+  },
+  {
+    "codigo_municipio": "15522",
+    "municipio": "Panqueba",
+    "departamento": "Boyacá",
+    "lat": 6.443299758,
+    "lng": -72.46182431
+  },
+  {
+    "codigo_municipio": "25530",
+    "municipio": "Paratebueno",
+    "departamento": "Cundinamarca",
+    "lat": 4.368158959,
+    "lng": -73.2416614
+  },
+  {
+    "codigo_municipio": "25535",
+    "municipio": "Pasca",
+    "departamento": "Cundinamarca",
+    "lat": 4.293733611,
+    "lng": -74.27396924
+  },
+  {
+    "codigo_municipio": "52001",
+    "municipio": "Pasto",
+    "departamento": "Nariño",
+    "lat": 1.083605497,
+    "lng": -77.20610074
+  },
+  {
+    "codigo_municipio": "19532",
+    "municipio": "Patía",
+    "departamento": "Cauca",
+    "lat": 2.157983906,
+    "lng": -77.0465762
+  },
+  {
+    "codigo_municipio": "15531",
+    "municipio": "Pauna",
+    "departamento": "Boyacá",
+    "lat": 5.688801559,
+    "lng": -74.00504122
+  },
+  {
+    "codigo_municipio": "15533",
+    "municipio": "Paya",
+    "departamento": "Boyacá",
+    "lat": 5.621242742,
+    "lng": -72.3692906
+  },
+  {
+    "codigo_municipio": "85250",
+    "municipio": "Paz de Ariporo",
+    "departamento": "Casanare",
+    "lat": 5.779915281,
+    "lng": -70.86947037
+  },
+  {
+    "codigo_municipio": "15537",
+    "municipio": "Paz de Río",
+    "departamento": "Boyacá",
+    "lat": 6.030008561,
+    "lng": -72.75988018
+  },
+  {
+    "codigo_municipio": "47541",
+    "municipio": "Pedraza",
+    "departamento": "Magdalena",
+    "lat": 10.15429546,
+    "lng": -74.83178091
+  },
+  {
+    "codigo_municipio": "20550",
+    "municipio": "Pelaya",
+    "departamento": "Cesar",
+    "lat": 8.764116734,
+    "lng": -73.63295546
+  },
+  {
+    "codigo_municipio": "17541",
+    "municipio": "Pensilvania",
+    "departamento": "Caldas",
+    "lat": 5.407187836,
+    "lng": -75.16683996
+  },
+  {
+    "codigo_municipio": "05543",
+    "municipio": "Peque",
+    "departamento": "Antioquia",
+    "lat": 7.044180058,
+    "lng": -75.88968843
+  },
+  {
+    "codigo_municipio": "66001",
+    "municipio": "Pereira",
+    "departamento": "Risaralda",
+    "lat": 4.803662773,
+    "lng": -75.79579093
+  },
+  {
+    "codigo_municipio": "15542",
+    "municipio": "Pesca",
+    "departamento": "Boyacá",
+    "lat": 5.498483324,
+    "lng": -73.07837993
+  },
+  {
+    "codigo_municipio": "05541",
+    "municipio": "Peñol",
+    "departamento": "Antioquia",
+    "lat": 6.232396368,
+    "lng": -75.22350906
+  },
+  {
+    "codigo_municipio": "19533",
+    "municipio": "Piamonte",
+    "departamento": "Cauca",
+    "lat": 1.054128816,
+    "lng": -76.4443271
+  },
+  {
+    "codigo_municipio": "68547",
+    "municipio": "Piedecuesta",
+    "departamento": "Santander",
+    "lat": 6.97082104,
+    "lng": -73.01481196
+  },
+  {
+    "codigo_municipio": "73547",
+    "municipio": "Piedras",
+    "departamento": "Tolima",
+    "lat": 4.433764446,
+    "lng": -74.99879938
+  },
+  {
+    "codigo_municipio": "19548",
+    "municipio": "Piendamó - Tunía",
+    "departamento": "Cauca",
+    "lat": 2.702420026,
+    "lng": -76.53770455
+  },
+  {
+    "codigo_municipio": "63548",
+    "municipio": "Pijao",
+    "departamento": "Quindío",
+    "lat": 4.30397934,
+    "lng": -75.68330417
+  },
+  {
+    "codigo_municipio": "47545",
+    "municipio": "Pijiño del Carmen",
+    "departamento": "Magdalena",
+    "lat": 9.530748654,
+    "lng": -74.1447657
+  },
+  {
+    "codigo_municipio": "68549",
+    "municipio": "Pinchote",
+    "departamento": "Santander",
+    "lat": 6.513892626,
+    "lng": -73.17570986
+  },
+  {
+    "codigo_municipio": "13549",
+    "municipio": "Pinillos",
+    "departamento": "Bolívar",
+    "lat": 8.886315511,
+    "lng": -74.40888476
+  },
+  {
+    "codigo_municipio": "08549",
+    "municipio": "Piojó",
+    "departamento": "Atlántico",
+    "lat": 10.74078959,
+    "lng": -75.14366034
+  },
+  {
+    "codigo_municipio": "15550",
+    "municipio": "Pisba",
+    "departamento": "Boyacá",
+    "lat": 5.768131812,
+    "lng": -72.43993232
+  },
+  {
+    "codigo_municipio": "41548",
+    "municipio": "Pital",
+    "departamento": "Huila",
+    "lat": 2.259601773,
+    "lng": -75.8319516
+  },
+  {
+    "codigo_municipio": "41551",
+    "municipio": "Pitalito",
+    "departamento": "Huila",
+    "lat": 1.848217185,
+    "lng": -76.05217643
+  },
+  {
+    "codigo_municipio": "47551",
+    "municipio": "Pivijay",
+    "departamento": "Magdalena",
+    "lat": 10.43303399,
+    "lng": -74.41251197
+  },
+  {
+    "codigo_municipio": "73555",
+    "municipio": "Planadas",
+    "departamento": "Tolima",
+    "lat": 3.09897343,
+    "lng": -75.81684413
+  },
+  {
+    "codigo_municipio": "23555",
+    "municipio": "Planeta Rica",
+    "departamento": "Córdoba",
+    "lat": 8.181108488,
+    "lng": -75.68923803
+  },
+  {
+    "codigo_municipio": "47555",
+    "municipio": "Plato",
+    "departamento": "Magdalena",
+    "lat": 9.76945611,
+    "lng": -74.60181576
+  },
+  {
+    "codigo_municipio": "52540",
+    "municipio": "Policarpa",
+    "departamento": "Nariño",
+    "lat": 1.735354202,
+    "lng": -77.48134359
+  },
+  {
+    "codigo_municipio": "08558",
+    "municipio": "Polonuevo",
+    "departamento": "Atlántico",
+    "lat": 10.76740141,
+    "lng": -74.85414844
+  },
+  {
+    "codigo_municipio": "08560",
+    "municipio": "Ponedera",
+    "departamento": "Atlántico",
+    "lat": 10.59465102,
+    "lng": -74.79847316
+  },
+  {
+    "codigo_municipio": "19001",
+    "municipio": "Popayán",
+    "departamento": "Cauca",
+    "lat": 2.471704362,
+    "lng": -76.59194419
+  },
+  {
+    "codigo_municipio": "85263",
+    "municipio": "Pore",
+    "departamento": "Casanare",
+    "lat": 5.663194953,
+    "lng": -71.92580806
+  },
+  {
+    "codigo_municipio": "52560",
+    "municipio": "Potosí",
+    "departamento": "Nariño",
+    "lat": 0.785841088,
+    "lng": -77.52870407
+  },
+  {
+    "codigo_municipio": "76563",
+    "municipio": "Pradera",
+    "departamento": "Valle del Cauca",
+    "lat": 3.42063665,
+    "lng": -76.17841841
+  },
+  {
+    "codigo_municipio": "73563",
+    "municipio": "Prado",
+    "departamento": "Tolima",
+    "lat": 3.729166649,
+    "lng": -74.87247706
+  },
+  {
+    "codigo_municipio": "88564",
+    "municipio": "Providencia",
+    "departamento": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+    "lat": 13.3511096,
+    "lng": -81.37388549
+  },
+  {
+    "codigo_municipio": "52565",
+    "municipio": "Providencia",
+    "departamento": "Nariño",
+    "lat": 1.232864821,
+    "lng": -77.59844212
+  },
+  {
+    "codigo_municipio": "20570",
+    "municipio": "Pueblo Bello",
+    "departamento": "Cesar",
+    "lat": 10.41736874,
+    "lng": -73.61450632
+  },
+  {
+    "codigo_municipio": "23570",
+    "municipio": "Pueblo Nuevo",
+    "departamento": "Córdoba",
+    "lat": 8.481339568,
+    "lng": -75.40516154
+  },
+  {
+    "codigo_municipio": "66572",
+    "municipio": "Pueblo Rico",
+    "departamento": "Risaralda",
+    "lat": 5.286295408,
+    "lng": -76.07359421
+  },
+  {
+    "codigo_municipio": "05576",
+    "municipio": "Pueblorrico",
+    "departamento": "Antioquia",
+    "lat": 5.80970186,
+    "lng": -75.86076667
+  },
+  {
+    "codigo_municipio": "47570",
+    "municipio": "Puebloviejo",
+    "departamento": "Magdalena",
+    "lat": 10.84758901,
+    "lng": -74.36057942
+  },
+  {
+    "codigo_municipio": "68572",
+    "municipio": "Puente Nacional",
+    "departamento": "Santander",
+    "lat": 5.831129906,
+    "lng": -73.67841815
+  },
+  {
+    "codigo_municipio": "52573",
+    "municipio": "Puerres",
+    "departamento": "Nariño",
+    "lat": 0.854351651,
+    "lng": -77.35032523
+  },
+  {
+    "codigo_municipio": "86568",
+    "municipio": "Puerto Asís",
+    "departamento": "Putumayo",
+    "lat": 0.433884539,
+    "lng": -76.52158203
+  },
+  {
+    "codigo_municipio": "05579",
+    "municipio": "Puerto Berrío",
+    "departamento": "Antioquia",
+    "lat": 6.481922267,
+    "lng": -74.5287421
+  },
+  {
+    "codigo_municipio": "15572",
+    "municipio": "Puerto Boyacá",
+    "departamento": "Boyacá",
+    "lat": 5.953466654,
+    "lng": -74.4528581
+  },
+  {
+    "codigo_municipio": "86569",
+    "municipio": "Puerto Caicedo",
+    "departamento": "Putumayo",
+    "lat": 0.70416861,
+    "lng": -76.49864415
+  },
+  {
+    "codigo_municipio": "99001",
+    "municipio": "Puerto Carreño",
+    "departamento": "Vichada",
+    "lat": 5.836529669,
+    "lng": -68.14122234
+  },
+  {
+    "codigo_municipio": "08573",
+    "municipio": "Puerto Colombia",
+    "departamento": "Atlántico",
+    "lat": 11.0044226,
+    "lng": -74.9074058
+  },
+  {
+    "codigo_municipio": "50450",
+    "municipio": "Puerto Concordia",
+    "departamento": "Meta",
+    "lat": 2.752260112,
+    "lng": -72.7210941
+  },
+  {
+    "codigo_municipio": "23574",
+    "municipio": "Puerto Escondido",
+    "departamento": "Córdoba",
+    "lat": 8.988667731,
+    "lng": -76.19405912
+  },
+  {
+    "codigo_municipio": "50568",
+    "municipio": "Puerto Gaitán",
+    "departamento": "Meta",
+    "lat": 4.005034467,
+    "lng": -71.63157429
+  },
+  {
+    "codigo_municipio": "86571",
+    "municipio": "Puerto Guzmán",
+    "departamento": "Putumayo",
+    "lat": 0.746432215,
+    "lng": -75.88022979
+  },
+  {
+    "codigo_municipio": "86573",
+    "municipio": "Puerto Leguízamo",
+    "departamento": "Putumayo",
+    "lat": 0.05947197,
+    "lng": -75.06479327
+  },
+  {
+    "codigo_municipio": "23580",
+    "municipio": "Puerto Libertador",
+    "departamento": "Córdoba",
+    "lat": 7.711515736,
+    "lng": -75.77123224
+  },
+  {
+    "codigo_municipio": "50577",
+    "municipio": "Puerto Lleras",
+    "departamento": "Meta",
+    "lat": 3.193092925,
+    "lng": -73.23671436
+  },
+  {
+    "codigo_municipio": "50573",
+    "municipio": "Puerto López",
+    "departamento": "Meta",
+    "lat": 4.014298921,
+    "lng": -72.64570499
+  },
+  {
+    "codigo_municipio": "05585",
+    "municipio": "Puerto Nare",
+    "departamento": "Antioquia",
+    "lat": 6.126539139,
+    "lng": -74.70317722
+  },
+  {
+    "codigo_municipio": "91540",
+    "municipio": "Puerto Nariño",
+    "departamento": "Amazonas",
+    "lat": -3.631323222,
+    "lng": -70.47199039
+  },
+  {
+    "codigo_municipio": "68573",
+    "municipio": "Puerto Parra",
+    "departamento": "Santander",
+    "lat": 6.685278856,
+    "lng": -73.95761256
+  },
+  {
+    "codigo_municipio": "18592",
+    "municipio": "Puerto Rico",
+    "departamento": "Caquetá",
+    "lat": 2.018940891,
+    "lng": -75.07308627
+  },
+  {
+    "codigo_municipio": "50590",
+    "municipio": "Puerto Rico",
+    "departamento": "Meta",
+    "lat": 2.758083657,
+    "lng": -73.13780171
+  },
+  {
+    "codigo_municipio": "81591",
+    "municipio": "Puerto Rondón",
+    "departamento": "Arauca",
+    "lat": 6.411761829,
+    "lng": -70.96678964
+  },
+  {
+    "codigo_municipio": "25572",
+    "municipio": "Puerto Salgar",
+    "departamento": "Cundinamarca",
+    "lat": 5.619752748,
+    "lng": -74.5801923
+  },
+  {
+    "codigo_municipio": "54553",
+    "municipio": "Puerto Santander",
+    "departamento": "Norte de Santander",
+    "lat": 8.329138642,
+    "lng": -72.41119066
+  },
+  {
+    "codigo_municipio": "19573",
+    "municipio": "Puerto Tejada",
+    "departamento": "Cauca",
+    "lat": 3.266724205,
+    "lng": -76.41846353
+  },
+  {
+    "codigo_municipio": "05591",
+    "municipio": "Puerto Triunfo",
+    "departamento": "Antioquia",
+    "lat": 5.954830151,
+    "lng": -74.6861918
+  },
+  {
+    "codigo_municipio": "68575",
+    "municipio": "Puerto Wilches",
+    "departamento": "Santander",
+    "lat": 7.398198257,
+    "lng": -73.8354696
+  },
+  {
+    "codigo_municipio": "25580",
+    "municipio": "Pulí",
+    "departamento": "Cundinamarca",
+    "lat": 4.691336253,
+    "lng": -74.68074404
+  },
+  {
+    "codigo_municipio": "52585",
+    "municipio": "Pupiales",
+    "departamento": "Nariño",
+    "lat": 0.916769831,
+    "lng": -77.63336954
+  },
+  {
+    "codigo_municipio": "19585",
+    "municipio": "Puracé",
+    "departamento": "Cauca",
+    "lat": 2.262153618,
+    "lng": -76.44826938
+  },
+  {
+    "codigo_municipio": "73585",
+    "municipio": "Purificación",
+    "departamento": "Tolima",
+    "lat": 3.854281614,
+    "lng": -74.87451155
+  },
+  {
+    "codigo_municipio": "23586",
+    "municipio": "Purísima de la Concepción",
+    "departamento": "Córdoba",
+    "lat": 9.282386127,
+    "lng": -75.72129392
+  },
+  {
+    "codigo_municipio": "17513",
+    "municipio": "Pácora",
+    "departamento": "Caldas",
+    "lat": 5.500035035,
+    "lng": -75.48245057
+  },
+  {
+    "codigo_municipio": "15514",
+    "municipio": "Páez",
+    "departamento": "Boyacá",
+    "lat": 5.095211035,
+    "lng": -73.00435863
+  },
+  {
+    "codigo_municipio": "19517",
+    "municipio": "Páez",
+    "departamento": "Cauca",
+    "lat": 2.733887702,
+    "lng": -75.99368264
+  },
+  {
+    "codigo_municipio": "68533",
+    "municipio": "Páramo",
+    "departamento": "Santander",
+    "lat": 6.416631131,
+    "lng": -73.17148232
+  },
+  {
+    "codigo_municipio": "25592",
+    "municipio": "Quebradanegra",
+    "departamento": "Cundinamarca",
+    "lat": 5.09998103,
+    "lng": -74.4945107
+  },
+  {
+    "codigo_municipio": "25594",
+    "municipio": "Quetame",
+    "departamento": "Cundinamarca",
+    "lat": 4.334589044,
+    "lng": -73.85264561
+  },
+  {
+    "codigo_municipio": "27001",
+    "municipio": "Quibdó",
+    "departamento": "Chocó",
+    "lat": 5.7543229,
+    "lng": -76.65015147
+  },
+  {
+    "codigo_municipio": "63594",
+    "municipio": "Quimbaya",
+    "departamento": "Quindío",
+    "lat": 4.610273497,
+    "lng": -75.79205087
+  },
+  {
+    "codigo_municipio": "66594",
+    "municipio": "Quinchía",
+    "departamento": "Risaralda",
+    "lat": 5.323906864,
+    "lng": -75.71339683
+  },
+  {
+    "codigo_municipio": "25596",
+    "municipio": "Quipile",
+    "departamento": "Cundinamarca",
+    "lat": 4.726907976,
+    "lng": -74.55359926
+  },
+  {
+    "codigo_municipio": "15580",
+    "municipio": "Quípama",
+    "departamento": "Boyacá",
+    "lat": 5.595729831,
+    "lng": -74.26857067
+  },
+  {
+    "codigo_municipio": "54599",
+    "municipio": "Ragonvalia",
+    "departamento": "Norte de Santander",
+    "lat": 7.595355974,
+    "lng": -72.50756622
+  },
+  {
+    "codigo_municipio": "15599",
+    "municipio": "Ramiriquí",
+    "departamento": "Boyacá",
+    "lat": 5.319934092,
+    "lng": -73.310779
+  },
+  {
+    "codigo_municipio": "85279",
+    "municipio": "Recetor",
+    "departamento": "Casanare",
+    "lat": 5.263068507,
+    "lng": -72.77081831
+  },
+  {
+    "codigo_municipio": "13580",
+    "municipio": "Regidor",
+    "departamento": "Bolívar",
+    "lat": 8.672628558,
+    "lng": -73.91450679
+  },
+  {
+    "codigo_municipio": "05604",
+    "municipio": "Remedios",
+    "departamento": "Antioquia",
+    "lat": 6.997267375,
+    "lng": -74.55865652
+  },
+  {
+    "codigo_municipio": "47605",
+    "municipio": "Remolino",
+    "departamento": "Magdalena",
+    "lat": 10.64860351,
+    "lng": -74.58106823
+  },
+  {
+    "codigo_municipio": "08606",
+    "municipio": "Repelón",
+    "departamento": "Atlántico",
+    "lat": 10.50757051,
+    "lng": -75.12188053
+  },
+  {
+    "codigo_municipio": "50606",
+    "municipio": "Restrepo",
+    "departamento": "Meta",
+    "lat": 4.204310977,
+    "lng": -73.50226037
+  },
+  {
+    "codigo_municipio": "76606",
+    "municipio": "Restrepo",
+    "departamento": "Valle del Cauca",
+    "lat": 3.806494973,
+    "lng": -76.53489853
+  },
+  {
+    "codigo_municipio": "05607",
+    "municipio": "Retiro",
+    "departamento": "Antioquia",
+    "lat": 6.053444254,
+    "lng": -75.51573805
+  },
+  {
+    "codigo_municipio": "25612",
+    "municipio": "Ricaurte",
+    "departamento": "Cundinamarca",
+    "lat": 4.307363489,
+    "lng": -74.72943403
+  },
+  {
+    "codigo_municipio": "52612",
+    "municipio": "Ricaurte",
+    "departamento": "Nariño",
+    "lat": 1.147671848,
+    "lng": -78.05811118
+  },
+  {
+    "codigo_municipio": "73616",
+    "municipio": "Rioblanco",
+    "departamento": "Tolima",
+    "lat": 3.468077548,
+    "lng": -75.85481103
+  },
+  {
+    "codigo_municipio": "76616",
+    "municipio": "Riofrío",
+    "departamento": "Valle del Cauca",
+    "lat": 4.109500298,
+    "lng": -76.37105443
+  },
+  {
+    "codigo_municipio": "44001",
+    "municipio": "Riohacha",
+    "departamento": "La Guajira",
+    "lat": 11.24297214,
+    "lng": -72.95876315
+  },
+  {
+    "codigo_municipio": "05615",
+    "municipio": "Rionegro",
+    "departamento": "Antioquia",
+    "lat": 6.150785807,
+    "lng": -75.41076052
+  },
+  {
+    "codigo_municipio": "68615",
+    "municipio": "Rionegro",
+    "departamento": "Santander",
+    "lat": 7.474226085,
+    "lng": -73.37246417
+  },
+  {
+    "codigo_municipio": "17614",
+    "municipio": "Riosucio",
+    "departamento": "Caldas",
+    "lat": 5.442275418,
+    "lng": -75.75220499
+  },
+  {
+    "codigo_municipio": "27615",
+    "municipio": "Riosucio",
+    "departamento": "Chocó",
+    "lat": 7.389887937,
+    "lng": -77.24067483
+  },
+  {
+    "codigo_municipio": "17616",
+    "municipio": "Risaralda",
+    "departamento": "Caldas",
+    "lat": 5.097563816,
+    "lng": -75.73335166
+  },
+  {
+    "codigo_municipio": "41615",
+    "municipio": "Rivera",
+    "departamento": "Huila",
+    "lat": 2.79286115,
+    "lng": -75.23536868
+  },
+  {
+    "codigo_municipio": "52621",
+    "municipio": "Roberto Payán",
+    "departamento": "Nariño",
+    "lat": 1.897581156,
+    "lng": -78.3811163
+  },
+  {
+    "codigo_municipio": "76622",
+    "municipio": "Roldanillo",
+    "departamento": "Valle del Cauca",
+    "lat": 4.443571848,
+    "lng": -76.16824249
+  },
+  {
+    "codigo_municipio": "73622",
+    "municipio": "Roncesvalles",
+    "departamento": "Tolima",
+    "lat": 4.097861181,
+    "lng": -75.59428027
+  },
+  {
+    "codigo_municipio": "15621",
+    "municipio": "Rondón",
+    "departamento": "Boyacá",
+    "lat": 5.379947879,
+    "lng": -73.19650995
+  },
+  {
+    "codigo_municipio": "19622",
+    "municipio": "Rosas",
+    "departamento": "Cauca",
+    "lat": 2.260421954,
+    "lng": -76.74582033
+  },
+  {
+    "codigo_municipio": "73624",
+    "municipio": "Rovira",
+    "departamento": "Tolima",
+    "lat": 4.216730954,
+    "lng": -75.34758364
+  },
+  {
+    "codigo_municipio": "15600",
+    "municipio": "Ráquira",
+    "departamento": "Boyacá",
+    "lat": 5.496268621,
+    "lng": -73.62894438
+  },
+  {
+    "codigo_municipio": "27580",
+    "municipio": "Río Iró",
+    "departamento": "Chocó",
+    "lat": 5.190995015,
+    "lng": -76.41996151
+  },
+  {
+    "codigo_municipio": "27600",
+    "municipio": "Río Quito",
+    "departamento": "Chocó",
+    "lat": 5.567533337,
+    "lng": -76.81157084
+  },
+  {
+    "codigo_municipio": "13600",
+    "municipio": "Río Viejo",
+    "departamento": "Bolívar",
+    "lat": 8.559982465,
+    "lng": -73.90298668
+  },
+  {
+    "codigo_municipio": "20614",
+    "municipio": "Río de Oro",
+    "departamento": "Cesar",
+    "lat": 8.201070245,
+    "lng": -73.48750127
+  },
+  {
+    "codigo_municipio": "68655",
+    "municipio": "Sabana de Torres",
+    "departamento": "Santander",
+    "lat": 7.4065422,
+    "lng": -73.57131807
+  },
+  {
+    "codigo_municipio": "08634",
+    "municipio": "Sabanagrande",
+    "departamento": "Atlántico",
+    "lat": 10.79894015,
+    "lng": -74.7687966
+  },
+  {
+    "codigo_municipio": "05628",
+    "municipio": "Sabanalarga",
+    "departamento": "Antioquia",
+    "lat": 6.901000506,
+    "lng": -75.79222754
+  },
+  {
+    "codigo_municipio": "08638",
+    "municipio": "Sabanalarga",
+    "departamento": "Atlántico",
+    "lat": 10.62250777,
+    "lng": -74.95510542
+  },
+  {
+    "codigo_municipio": "85300",
+    "municipio": "Sabanalarga",
+    "departamento": "Casanare",
+    "lat": 4.81119011,
+    "lng": -72.99580655
+  },
+  {
+    "codigo_municipio": "47660",
+    "municipio": "Sabanas de San Ángel",
+    "departamento": "Magdalena",
+    "lat": 10.10533028,
+    "lng": -74.2644392
+  },
+  {
+    "codigo_municipio": "05631",
+    "municipio": "Sabaneta",
+    "departamento": "Antioquia",
+    "lat": 6.138305183,
+    "lng": -75.60880599
+  },
+  {
+    "codigo_municipio": "15632",
+    "municipio": "Saboyá",
+    "departamento": "Boyacá",
+    "lat": 5.699926051,
+    "lng": -73.74799466
+  },
+  {
+    "codigo_municipio": "23660",
+    "municipio": "Sahagún",
+    "departamento": "Córdoba",
+    "lat": 8.799007016,
+    "lng": -75.42925664
+  },
+  {
+    "codigo_municipio": "41660",
+    "municipio": "Saladoblanco",
+    "departamento": "Huila",
+    "lat": 2.100382849,
+    "lng": -76.22897871
+  },
+  {
+    "codigo_municipio": "17653",
+    "municipio": "Salamina",
+    "departamento": "Caldas",
+    "lat": 5.370332425,
+    "lng": -75.40962177
+  },
+  {
+    "codigo_municipio": "47675",
+    "municipio": "Salamina",
+    "departamento": "Magdalena",
+    "lat": 10.51538178,
+    "lng": -74.72296972
+  },
+  {
+    "codigo_municipio": "54660",
+    "municipio": "Salazar",
+    "departamento": "Norte de Santander",
+    "lat": 7.772747824,
+    "lng": -72.86769959
+  },
+  {
+    "codigo_municipio": "73671",
+    "municipio": "Saldaña",
+    "departamento": "Tolima",
+    "lat": 3.912542787,
+    "lng": -75.01859762
+  },
+  {
+    "codigo_municipio": "63690",
+    "municipio": "Salento",
+    "departamento": "Quindío",
+    "lat": 4.611314654,
+    "lng": -75.53092112
+  },
+  {
+    "codigo_municipio": "05642",
+    "municipio": "Salgar",
+    "departamento": "Antioquia",
+    "lat": 5.970502334,
+    "lng": -75.98137251
+  },
+  {
+    "codigo_municipio": "15646",
+    "municipio": "Samacá",
+    "departamento": "Boyacá",
+    "lat": 5.47053997,
+    "lng": -73.5211756
+  },
+  {
+    "codigo_municipio": "52678",
+    "municipio": "Samaniego",
+    "departamento": "Nariño",
+    "lat": 1.430555262,
+    "lng": -77.69179559
+  },
+  {
+    "codigo_municipio": "17662",
+    "municipio": "Samaná",
+    "departamento": "Caldas",
+    "lat": 5.519692873,
+    "lng": -74.99718577
+  },
+  {
+    "codigo_municipio": "70670",
+    "municipio": "Sampués",
+    "departamento": "Sucre",
+    "lat": 9.165188649,
+    "lng": -75.36027422
+  },
+  {
+    "codigo_municipio": "41668",
+    "municipio": "San Agustín",
+    "departamento": "Huila",
+    "lat": 1.924165493,
+    "lng": -76.4165655
+  },
+  {
+    "codigo_municipio": "20710",
+    "municipio": "San Alberto",
+    "departamento": "Cesar",
+    "lat": 7.769815987,
+    "lng": -73.47218888
+  },
+  {
+    "codigo_municipio": "68669",
+    "municipio": "San Andrés",
+    "departamento": "Santander",
+    "lat": 6.796483063,
+    "lng": -72.81613202
+  },
+  {
+    "codigo_municipio": "05647",
+    "municipio": "San Andrés de Cuerquía",
+    "departamento": "Antioquia",
+    "lat": 6.918427233,
+    "lng": -75.6657758
+  },
+  {
+    "codigo_municipio": "23670",
+    "municipio": "San Andrés de Sotavento",
+    "departamento": "Córdoba",
+    "lat": 9.121296353,
+    "lng": -75.52091711
+  },
+  {
+    "codigo_municipio": "52835",
+    "municipio": "San Andrés de Tumaco",
+    "departamento": "Nariño",
+    "lat": 1.574550638,
+    "lng": -78.61540963
+  },
+  {
+    "codigo_municipio": "23672",
+    "municipio": "San Antero",
+    "departamento": "Córdoba",
+    "lat": 9.359667489,
+    "lng": -75.78700252
+  },
+  {
+    "codigo_municipio": "73675",
+    "municipio": "San Antonio",
+    "departamento": "Tolima",
+    "lat": 3.926088268,
+    "lng": -75.50991004
+  },
+  {
+    "codigo_municipio": "25645",
+    "municipio": "San Antonio del Tequendama",
+    "departamento": "Cundinamarca",
+    "lat": 4.599741357,
+    "lng": -74.34490342
+  },
+  {
+    "codigo_municipio": "68673",
+    "municipio": "San Benito",
+    "departamento": "Santander",
+    "lat": 6.076525355,
+    "lng": -73.55295302
+  },
+  {
+    "codigo_municipio": "70678",
+    "municipio": "San Benito Abad",
+    "departamento": "Sucre",
+    "lat": 8.835634919,
+    "lng": -74.96469398
+  },
+  {
+    "codigo_municipio": "25649",
+    "municipio": "San Bernardo",
+    "departamento": "Cundinamarca",
+    "lat": 4.140958464,
+    "lng": -74.35397692
+  },
+  {
+    "codigo_municipio": "52685",
+    "municipio": "San Bernardo",
+    "departamento": "Nariño",
+    "lat": 1.529782485,
+    "lng": -77.02070663
+  },
+  {
+    "codigo_municipio": "23675",
+    "municipio": "San Bernardo del Viento",
+    "departamento": "Córdoba",
+    "lat": 9.330098329,
+    "lng": -75.97623858
+  },
+  {
+    "codigo_municipio": "54670",
+    "municipio": "San Calixto",
+    "departamento": "Norte de Santander",
+    "lat": 8.414441404,
+    "lng": -73.2176038
+  },
+  {
+    "codigo_municipio": "05649",
+    "municipio": "San Carlos",
+    "departamento": "Antioquia",
+    "lat": 6.193789659,
+    "lng": -74.90732769
+  },
+  {
+    "codigo_municipio": "23678",
+    "municipio": "San Carlos",
+    "departamento": "Córdoba",
+    "lat": 8.706464263,
+    "lng": -75.69251825
+  },
+  {
+    "codigo_municipio": "50680",
+    "municipio": "San Carlos de Guaroa",
+    "departamento": "Meta",
+    "lat": 3.84761678,
+    "lng": -73.27583401
+  },
+  {
+    "codigo_municipio": "25653",
+    "municipio": "San Cayetano",
+    "departamento": "Cundinamarca",
+    "lat": 5.314600423,
+    "lng": -74.07232077
+  },
+  {
+    "codigo_municipio": "54673",
+    "municipio": "San Cayetano",
+    "departamento": "Norte de Santander",
+    "lat": 7.847872195,
+    "lng": -72.60971203
+  },
+  {
+    "codigo_municipio": "13620",
+    "municipio": "San Cristóbal",
+    "departamento": "Bolívar",
+    "lat": 10.36972087,
+    "lng": -75.07333835
+  },
+  {
+    "codigo_municipio": "20750",
+    "municipio": "San Diego",
+    "departamento": "Cesar",
+    "lat": 10.16952712,
+    "lng": -73.2879827
+  },
+  {
+    "codigo_municipio": "15660",
+    "municipio": "San Eduardo",
+    "departamento": "Boyacá",
+    "lat": 5.234614686,
+    "lng": -73.04914067
+  },
+  {
+    "codigo_municipio": "13647",
+    "municipio": "San Estanislao",
+    "departamento": "Bolívar",
+    "lat": 10.36468192,
+    "lng": -75.20523487
+  },
+  {
+    "codigo_municipio": "13650",
+    "municipio": "San Fernando",
+    "departamento": "Bolívar",
+    "lat": 9.081483143,
+    "lng": -74.37186647
+  },
+  {
+    "codigo_municipio": "05652",
+    "municipio": "San Francisco",
+    "departamento": "Antioquia",
+    "lat": 5.840093731,
+    "lng": -74.98176334
+  },
+  {
+    "codigo_municipio": "25658",
+    "municipio": "San Francisco",
+    "departamento": "Cundinamarca",
+    "lat": 4.964100703,
+    "lng": -74.27217129
+  },
+  {
+    "codigo_municipio": "86755",
+    "municipio": "San Francisco",
+    "departamento": "Putumayo",
+    "lat": 1.136071096,
+    "lng": -76.84726661
+  },
+  {
+    "codigo_municipio": "68679",
+    "municipio": "San Gil",
+    "departamento": "Santander",
+    "lat": 6.550778765,
+    "lng": -73.11887911
+  },
+  {
+    "codigo_municipio": "13654",
+    "municipio": "San Jacinto",
+    "departamento": "Bolívar",
+    "lat": 9.835362011,
+    "lng": -75.10609201
+  },
+  {
+    "codigo_municipio": "13655",
+    "municipio": "San Jacinto del Cauca",
+    "departamento": "Bolívar",
+    "lat": 8.212463202,
+    "lng": -74.75082
+  },
+  {
+    "codigo_municipio": "05656",
+    "municipio": "San Jerónimo",
+    "departamento": "Antioquia",
+    "lat": 6.438300409,
+    "lng": -75.70310727
+  },
+  {
+    "codigo_municipio": "68682",
+    "municipio": "San Joaquín",
+    "departamento": "Santander",
+    "lat": 6.459879823,
+    "lng": -72.85471883
+  },
+  {
+    "codigo_municipio": "17665",
+    "municipio": "San José",
+    "departamento": "Caldas",
+    "lat": 5.083424513,
+    "lng": -75.8101789
+  },
+  {
+    "codigo_municipio": "54001",
+    "municipio": "San José de Cúcuta",
+    "departamento": "Norte de Santander",
+    "lat": 8.112041811,
+    "lng": -72.48862641
+  },
+  {
+    "codigo_municipio": "68684",
+    "municipio": "San José de Miranda",
+    "departamento": "Santander",
+    "lat": 6.629400185,
+    "lng": -72.73976423
+  },
+  {
+    "codigo_municipio": "15664",
+    "municipio": "San José de Pare",
+    "departamento": "Boyacá",
+    "lat": 5.994154088,
+    "lng": -73.54386522
+  },
+  {
+    "codigo_municipio": "70823",
+    "municipio": "San José de Toluviejo",
+    "departamento": "Sucre",
+    "lat": 9.490297716,
+    "lng": -75.44451115
+  },
+  {
+    "codigo_municipio": "23682",
+    "municipio": "San José de Uré",
+    "departamento": "Córdoba",
+    "lat": 7.753054395,
+    "lng": -75.5672474
+  },
+  {
+    "codigo_municipio": "05658",
+    "municipio": "San José de la Montaña",
+    "departamento": "Antioquia",
+    "lat": 6.823258913,
+    "lng": -75.67770826
+  },
+  {
+    "codigo_municipio": "18610",
+    "municipio": "San José del Fragua",
+    "departamento": "Caquetá",
+    "lat": 1.304702314,
+    "lng": -76.11000594
+  },
+  {
+    "codigo_municipio": "95001",
+    "municipio": "San José del Guaviare",
+    "departamento": "Guaviare",
+    "lat": 2.484286091,
+    "lng": -71.91916993
+  },
+  {
+    "codigo_municipio": "27660",
+    "municipio": "San José del Palmar",
+    "departamento": "Chocó",
+    "lat": 4.958741345,
+    "lng": -76.28002361
+  },
+  {
+    "codigo_municipio": "13657",
+    "municipio": "San Juan Nepomuceno",
+    "departamento": "Bolívar",
+    "lat": 9.967957823,
+    "lng": -75.06571959
+  },
+  {
+    "codigo_municipio": "50683",
+    "municipio": "San Juan de Arama",
+    "departamento": "Meta",
+    "lat": 3.289851171,
+    "lng": -73.81635243
+  },
+  {
+    "codigo_municipio": "70702",
+    "municipio": "San Juan de Betulia",
+    "departamento": "Sucre",
+    "lat": 9.292019071,
+    "lng": -75.21363579
+  },
+  {
+    "codigo_municipio": "25662",
+    "municipio": "San Juan de Rioseco",
+    "departamento": "Cundinamarca",
+    "lat": 4.814537831,
+    "lng": -74.61525985
+  },
+  {
+    "codigo_municipio": "05659",
+    "municipio": "San Juan de Urabá",
+    "departamento": "Antioquia",
+    "lat": 8.707141583,
+    "lng": -76.53248234
+  },
+  {
+    "codigo_municipio": "44650",
+    "municipio": "San Juan del Cesar",
+    "departamento": "La Guajira",
+    "lat": 10.81311496,
+    "lng": -73.08659986
+  },
+  {
+    "codigo_municipio": "50686",
+    "municipio": "San Juanito",
+    "departamento": "Meta",
+    "lat": 4.471346322,
+    "lng": -73.66041355
+  },
+  {
+    "codigo_municipio": "52687",
+    "municipio": "San Lorenzo",
+    "departamento": "Nariño",
+    "lat": 1.542139582,
+    "lng": -77.21872693
+  },
+  {
+    "codigo_municipio": "05660",
+    "municipio": "San Luis",
+    "departamento": "Antioquia",
+    "lat": 6.024205956,
+    "lng": -75.0076674
+  },
+  {
+    "codigo_municipio": "73678",
+    "municipio": "San Luis",
+    "departamento": "Tolima",
+    "lat": 4.057271684,
+    "lng": -75.16320806
+  },
+  {
+    "codigo_municipio": "15667",
+    "municipio": "San Luis de Gaceno",
+    "departamento": "Boyacá",
+    "lat": 4.798203543,
+    "lng": -73.13397018
+  },
+  {
+    "codigo_municipio": "85325",
+    "municipio": "San Luis de Palenque",
+    "departamento": "Casanare",
+    "lat": 5.274955665,
+    "lng": -71.81749276
+  },
+  {
+    "codigo_municipio": "70742",
+    "municipio": "San Luis de Sincé",
+    "departamento": "Sucre",
+    "lat": 9.256299047,
+    "lng": -75.09397089
+  },
+  {
+    "codigo_municipio": "70708",
+    "municipio": "San Marcos",
+    "departamento": "Sucre",
+    "lat": 8.589220102,
+    "lng": -75.17249955
+  },
+  {
+    "codigo_municipio": "20770",
+    "municipio": "San Martín",
+    "departamento": "Cesar",
+    "lat": 7.937788454,
+    "lng": -73.54436312
+  },
+  {
+    "codigo_municipio": "50689",
+    "municipio": "San Martín",
+    "departamento": "Meta",
+    "lat": 3.515860962,
+    "lng": -72.65672742
+  },
+  {
+    "codigo_municipio": "13667",
+    "municipio": "San Martín de Loba",
+    "departamento": "Bolívar",
+    "lat": 8.816088444,
+    "lng": -74.00599967
+  },
+  {
+    "codigo_municipio": "15673",
+    "municipio": "San Mateo",
+    "departamento": "Boyacá",
+    "lat": 6.395388812,
+    "lng": -72.55184862
+  },
+  {
+    "codigo_municipio": "86757",
+    "municipio": "San Miguel",
+    "departamento": "Putumayo",
+    "lat": 0.272449048,
+    "lng": -76.84510459
+  },
+  {
+    "codigo_municipio": "68686",
+    "municipio": "San Miguel",
+    "departamento": "Santander",
+    "lat": 6.568121541,
+    "lng": -72.64322497
+  },
+  {
+    "codigo_municipio": "15676",
+    "municipio": "San Miguel de Sema",
+    "departamento": "Boyacá",
+    "lat": 5.532326922,
+    "lng": -73.74715898
+  },
+  {
+    "codigo_municipio": "70713",
+    "municipio": "San Onofre",
+    "departamento": "Sucre",
+    "lat": 9.814599536,
+    "lng": -75.50522919
+  },
+  {
+    "codigo_municipio": "13670",
+    "municipio": "San Pablo",
+    "departamento": "Bolívar",
+    "lat": 7.507922612,
+    "lng": -74.10356977000001
+  },
+  {
+    "codigo_municipio": "52693",
+    "municipio": "San Pablo",
+    "departamento": "Nariño",
+    "lat": 1.681576627,
+    "lng": -76.97527979
+  },
+  {
+    "codigo_municipio": "15681",
+    "municipio": "San Pablo de Borbur",
+    "departamento": "Boyacá",
+    "lat": 5.677345066,
+    "lng": -74.11403749
+  },
+  {
+    "codigo_municipio": "70717",
+    "municipio": "San Pedro",
+    "departamento": "Sucre",
+    "lat": 9.396835638,
+    "lng": -75.03741815
+  },
+  {
+    "codigo_municipio": "76670",
+    "municipio": "San Pedro",
+    "departamento": "Valle del Cauca",
+    "lat": 3.98143244,
+    "lng": -76.20836168
+  },
+  {
+    "codigo_municipio": "52694",
+    "municipio": "San Pedro de Cartago",
+    "departamento": "Nariño",
+    "lat": 1.536823494,
+    "lng": -77.10140325
+  },
+  {
+    "codigo_municipio": "05665",
+    "municipio": "San Pedro de Urabá",
+    "departamento": "Antioquia",
+    "lat": 8.37915695,
+    "lng": -76.31664233
+  },
+  {
+    "codigo_municipio": "05664",
+    "municipio": "San Pedro de los Milagros",
+    "departamento": "Antioquia",
+    "lat": 6.458666308,
+    "lng": -75.5624839
+  },
+  {
+    "codigo_municipio": "23686",
+    "municipio": "San Pelayo",
+    "departamento": "Córdoba",
+    "lat": 8.987777392,
+    "lng": -75.90958771
+  },
+  {
+    "codigo_municipio": "05667",
+    "municipio": "San Rafael",
+    "departamento": "Antioquia",
+    "lat": 6.31074453,
+    "lng": -74.99858652
+  },
+  {
+    "codigo_municipio": "05670",
+    "municipio": "San Roque",
+    "departamento": "Antioquia",
+    "lat": 6.466165211,
+    "lng": -74.9450732
+  },
+  {
+    "codigo_municipio": "19693",
+    "municipio": "San Sebastián",
+    "departamento": "Cauca",
+    "lat": 1.856261815,
+    "lng": -76.71652424
+  },
+  {
+    "codigo_municipio": "47692",
+    "municipio": "San Sebastián de Buenavista",
+    "departamento": "Magdalena",
+    "lat": 9.380680272,
+    "lng": -74.19797988
+  },
+  {
+    "codigo_municipio": "73443",
+    "municipio": "San Sebastián de Mariquita",
+    "departamento": "Tolima",
+    "lat": 5.235322593,
+    "lng": -74.90668089
+  },
+  {
+    "codigo_municipio": "05674",
+    "municipio": "San Vicente Ferrer",
+    "departamento": "Antioquia",
+    "lat": 6.310387522,
+    "lng": -75.32740163
+  },
+  {
+    "codigo_municipio": "68689",
+    "municipio": "San Vicente de Chucurí",
+    "departamento": "Santander",
+    "lat": 6.894292346,
+    "lng": -73.53900334
+  },
+  {
+    "codigo_municipio": "18753",
+    "municipio": "San Vicente del Caguán",
+    "departamento": "Caquetá",
+    "lat": 1.308465061,
+    "lng": -74.19746971
+  },
+  {
+    "codigo_municipio": "47703",
+    "municipio": "San Zenón",
+    "departamento": "Magdalena",
+    "lat": 9.306869548,
+    "lng": -74.35851644
+  },
+  {
+    "codigo_municipio": "52683",
+    "municipio": "Sandoná",
+    "departamento": "Nariño",
+    "lat": 1.288105409,
+    "lng": -77.45670068
+  },
+  {
+    "codigo_municipio": "47707",
+    "municipio": "Santa Ana",
+    "departamento": "Magdalena",
+    "lat": 9.503097215,
+    "lng": -74.44419381
+  },
+  {
+    "codigo_municipio": "05679",
+    "municipio": "Santa Bárbara",
+    "departamento": "Antioquia",
+    "lat": 5.878984956,
+    "lng": -75.58330371
+  },
+  {
+    "codigo_municipio": "52696",
+    "municipio": "Santa Bárbara",
+    "departamento": "Nariño",
+    "lat": 2.494420411,
+    "lng": -77.98256461
+  },
+  {
+    "codigo_municipio": "68705",
+    "municipio": "Santa Bárbara",
+    "departamento": "Santander",
+    "lat": 6.988084711,
+    "lng": -72.89608933
+  },
+  {
+    "codigo_municipio": "47720",
+    "municipio": "Santa Bárbara de Pinto",
+    "departamento": "Magdalena",
+    "lat": 9.484388135,
+    "lng": -74.66521178
+  },
+  {
+    "codigo_municipio": "13673",
+    "municipio": "Santa Catalina",
+    "departamento": "Bolívar",
+    "lat": 10.64981278,
+    "lng": -75.26548463
+  },
+  {
+    "codigo_municipio": "13468",
+    "municipio": "Santa Cruz de Mompox",
+    "departamento": "Bolívar",
+    "lat": 9.142512064,
+    "lng": -74.54519906
+  },
+  {
+    "codigo_municipio": "05042",
+    "municipio": "Santa Fé de Antioquia",
+    "departamento": "Antioquia",
+    "lat": 6.535711576,
+    "lng": -75.90426658
+  },
+  {
+    "codigo_municipio": "68720",
+    "municipio": "Santa Helena del Opón",
+    "departamento": "Santander",
+    "lat": 6.40890734,
+    "lng": -73.58206609
+  },
+  {
+    "codigo_municipio": "73686",
+    "municipio": "Santa Isabel",
+    "departamento": "Tolima",
+    "lat": 4.740827622,
+    "lng": -75.20069946
+  },
+  {
+    "codigo_municipio": "08675",
+    "municipio": "Santa Lucía",
+    "departamento": "Atlántico",
+    "lat": 10.35364192,
+    "lng": -74.96541179
+  },
+  {
+    "codigo_municipio": "47001",
+    "municipio": "Santa Marta",
+    "departamento": "Magdalena",
+    "lat": 11.12189436,
+    "lng": -73.88527855
+  },
+  {
+    "codigo_municipio": "15690",
+    "municipio": "Santa María",
+    "departamento": "Boyacá",
+    "lat": 4.823002556,
+    "lng": -73.25377506
+  },
+  {
+    "codigo_municipio": "41676",
+    "municipio": "Santa María",
+    "departamento": "Huila",
+    "lat": 2.926265937,
+    "lng": -75.63359786
+  },
+  {
+    "codigo_municipio": "13683",
+    "municipio": "Santa Rosa",
+    "departamento": "Bolívar",
+    "lat": 10.46920726,
+    "lng": -75.36116053
+  },
+  {
+    "codigo_municipio": "19701",
+    "municipio": "Santa Rosa",
+    "departamento": "Cauca",
+    "lat": 1.52002179,
+    "lng": -76.53876281
+  },
+  {
+    "codigo_municipio": "66682",
+    "municipio": "Santa Rosa de Cabal",
+    "departamento": "Risaralda",
+    "lat": 4.833789828,
+    "lng": -75.54950174
+  },
+  {
+    "codigo_municipio": "05686",
+    "municipio": "Santa Rosa de Osos",
+    "departamento": "Antioquia",
+    "lat": 6.675827825,
+    "lng": -75.43814333
+  },
+  {
+    "codigo_municipio": "15693",
+    "municipio": "Santa Rosa de Viterbo",
+    "departamento": "Boyacá",
+    "lat": 5.892950301,
+    "lng": -72.9917278
+  },
+  {
+    "codigo_municipio": "13688",
+    "municipio": "Santa Rosa del Sur",
+    "departamento": "Bolívar",
+    "lat": 7.772519173,
+    "lng": -74.26272843
+  },
+  {
+    "codigo_municipio": "99624",
+    "municipio": "Santa Rosalía",
+    "departamento": "Vichada",
+    "lat": 4.968581012,
+    "lng": -70.65997097
+  },
+  {
+    "codigo_municipio": "15696",
+    "municipio": "Santa Sofía",
+    "departamento": "Boyacá",
+    "lat": 5.731602716,
+    "lng": -73.60366287
+  },
+  {
+    "codigo_municipio": "52699",
+    "municipio": "Santacruz",
+    "departamento": "Nariño",
+    "lat": 1.285179376,
+    "lng": -77.7445744
+  },
+  {
+    "codigo_municipio": "15686",
+    "municipio": "Santana",
+    "departamento": "Boyacá",
+    "lat": 6.057614971,
+    "lng": -73.48974828
+  },
+  {
+    "codigo_municipio": "19698",
+    "municipio": "Santander de Quilichao",
+    "departamento": "Cauca",
+    "lat": 2.984467338,
+    "lng": -76.49873145
+  },
+  {
+    "codigo_municipio": "54680",
+    "municipio": "Santiago",
+    "departamento": "Norte de Santander",
+    "lat": 7.889234454,
+    "lng": -72.7182541
+  },
+  {
+    "codigo_municipio": "86760",
+    "municipio": "Santiago",
+    "departamento": "Putumayo",
+    "lat": 1.036021482,
+    "lng": -76.97751684
+  },
+  {
+    "codigo_municipio": "70820",
+    "municipio": "Santiago de Tolú",
+    "departamento": "Sucre",
+    "lat": 9.533810567,
+    "lng": -75.53543469
+  },
+  {
+    "codigo_municipio": "05690",
+    "municipio": "Santo Domingo",
+    "departamento": "Antioquia",
+    "lat": 6.481044132,
+    "lng": -75.14260097
+  },
+  {
+    "codigo_municipio": "08685",
+    "municipio": "Santo Tomás",
+    "departamento": "Atlántico",
+    "lat": 10.75562656,
+    "lng": -74.78726468
+  },
+  {
+    "codigo_municipio": "66687",
+    "municipio": "Santuario",
+    "departamento": "Risaralda",
+    "lat": 5.076100313,
+    "lng": -76.02286946
+  },
+  {
+    "codigo_municipio": "52720",
+    "municipio": "Sapuyes",
+    "departamento": "Nariño",
+    "lat": 1.045287475,
+    "lng": -77.71810954
+  },
+  {
+    "codigo_municipio": "81736",
+    "municipio": "Saravena",
+    "departamento": "Arauca",
+    "lat": 6.906941714,
+    "lng": -71.85070757
+  },
+  {
+    "codigo_municipio": "54720",
+    "municipio": "Sardinata",
+    "departamento": "Norte de Santander",
+    "lat": 8.215080767,
+    "lng": -72.79580961
+  },
+  {
+    "codigo_municipio": "25718",
+    "municipio": "Sasaima",
+    "departamento": "Cundinamarca",
+    "lat": 4.946805263,
+    "lng": -74.41230921
+  },
+  {
+    "codigo_municipio": "15720",
+    "municipio": "Sativanorte",
+    "departamento": "Boyacá",
+    "lat": 6.13211793,
+    "lng": -72.73032415
+  },
+  {
+    "codigo_municipio": "15723",
+    "municipio": "Sativasur",
+    "departamento": "Boyacá",
+    "lat": 6.083405978,
+    "lng": -72.72410815
+  },
+  {
+    "codigo_municipio": "05736",
+    "municipio": "Segovia",
+    "departamento": "Antioquia",
+    "lat": 7.26692339,
+    "lng": -74.62163926
+  },
+  {
+    "codigo_municipio": "25736",
+    "municipio": "Sesquilé",
+    "departamento": "Cundinamarca",
+    "lat": 5.000633875,
+    "lng": -73.77206544
+  },
+  {
+    "codigo_municipio": "76736",
+    "municipio": "Sevilla",
+    "departamento": "Valle del Cauca",
+    "lat": 4.193411919,
+    "lng": -75.88818163
+  },
+  {
+    "codigo_municipio": "15740",
+    "municipio": "Siachoque",
+    "departamento": "Boyacá",
+    "lat": 5.498747701,
+    "lng": -73.21681778
+  },
+  {
+    "codigo_municipio": "25740",
+    "municipio": "Sibaté",
+    "departamento": "Cundinamarca",
+    "lat": 4.465970004,
+    "lng": -74.26328963
+  },
+  {
+    "codigo_municipio": "86749",
+    "municipio": "Sibundoy",
+    "departamento": "Putumayo",
+    "lat": 1.228746922,
+    "lng": -76.91307585
+  },
+  {
+    "codigo_municipio": "54743",
+    "municipio": "Silos",
+    "departamento": "Norte de Santander",
+    "lat": 7.180991879,
+    "lng": -72.78617884
+  },
+  {
+    "codigo_municipio": "25743",
+    "municipio": "Silvania",
+    "departamento": "Cundinamarca",
+    "lat": 4.436967141,
+    "lng": -74.37050903
+  },
+  {
+    "codigo_municipio": "19743",
+    "municipio": "Silvia",
+    "departamento": "Cauca",
+    "lat": 2.651291894,
+    "lng": -76.35057356
+  },
+  {
+    "codigo_municipio": "68745",
+    "municipio": "Simacota",
+    "departamento": "Santander",
+    "lat": 6.494231551,
+    "lng": -73.45910992
+  },
+  {
+    "codigo_municipio": "25745",
+    "municipio": "Simijaca",
+    "departamento": "Cundinamarca",
+    "lat": 5.509773128,
+    "lng": -73.84519164
+  },
+  {
+    "codigo_municipio": "13744",
+    "municipio": "Simití",
+    "departamento": "Bolívar",
+    "lat": 7.851315534,
+    "lng": -73.98371609
+  },
+  {
+    "codigo_municipio": "70001",
+    "municipio": "Sincelejo",
+    "departamento": "Sucre",
+    "lat": 9.316673928,
+    "lng": -75.43174967
+  },
+  {
+    "codigo_municipio": "27745",
+    "municipio": "Sipí",
+    "departamento": "Chocó",
+    "lat": 4.594415157,
+    "lng": -76.54194459
+  },
+  {
+    "codigo_municipio": "47745",
+    "municipio": "Sitionuevo",
+    "departamento": "Magdalena",
+    "lat": 10.89027616,
+    "lng": -74.62966038
+  },
+  {
+    "codigo_municipio": "25754",
+    "municipio": "Soacha",
+    "departamento": "Cundinamarca",
+    "lat": 4.581866267,
+    "lng": -74.24029696
+  },
+  {
+    "codigo_municipio": "15753",
+    "municipio": "Soatá",
+    "departamento": "Boyacá",
+    "lat": 6.323088045,
+    "lng": -72.69604089
+  },
+  {
+    "codigo_municipio": "15757",
+    "municipio": "Socha",
+    "departamento": "Boyacá",
+    "lat": 5.960498836,
+    "lng": -72.68239784
+  },
+  {
+    "codigo_municipio": "68755",
+    "municipio": "Socorro",
+    "departamento": "Santander",
+    "lat": 6.462088241,
+    "lng": -73.24436001
+  },
+  {
+    "codigo_municipio": "15755",
+    "municipio": "Socotá",
+    "departamento": "Boyacá",
+    "lat": 5.906513772,
+    "lng": -72.53646361
+  },
+  {
+    "codigo_municipio": "15759",
+    "municipio": "Sogamoso",
+    "departamento": "Boyacá",
+    "lat": 5.646672053,
+    "lng": -72.8709565
+  },
+  {
+    "codigo_municipio": "18756",
+    "municipio": "Solano",
+    "departamento": "Caquetá",
+    "lat": 0.096131862,
+    "lng": -72.32036402
+  },
+  {
+    "codigo_municipio": "08758",
+    "municipio": "Soledad",
+    "departamento": "Atlántico",
+    "lat": 10.9069066,
+    "lng": -74.7784249
+  },
+  {
+    "codigo_municipio": "18785",
+    "municipio": "Solita",
+    "departamento": "Caquetá",
+    "lat": 0.943939454,
+    "lng": -75.64668544
+  },
+  {
+    "codigo_municipio": "15761",
+    "municipio": "Somondoco",
+    "departamento": "Boyacá",
+    "lat": 4.970974064,
+    "lng": -73.42878785
+  },
+  {
+    "codigo_municipio": "05756",
+    "municipio": "Sonsón",
+    "departamento": "Antioquia",
+    "lat": 5.826388779,
+    "lng": -74.83637623
+  },
+  {
+    "codigo_municipio": "05761",
+    "municipio": "Sopetrán",
+    "departamento": "Antioquia",
+    "lat": 6.520164552,
+    "lng": -75.74580903
+  },
+  {
+    "codigo_municipio": "13760",
+    "municipio": "Soplaviento",
+    "departamento": "Bolívar",
+    "lat": 10.33209031,
+    "lng": -75.11699226
+  },
+  {
+    "codigo_municipio": "25758",
+    "municipio": "Sopó",
+    "departamento": "Cundinamarca",
+    "lat": 4.888060112,
+    "lng": -73.96587528
+  },
+  {
+    "codigo_municipio": "15762",
+    "municipio": "Sora",
+    "departamento": "Boyacá",
+    "lat": 5.580573191,
+    "lng": -73.44371838
+  },
+  {
+    "codigo_municipio": "15764",
+    "municipio": "Soracá",
+    "departamento": "Boyacá",
+    "lat": 5.494890461,
+    "lng": -73.31899997
+  },
+  {
+    "codigo_municipio": "15763",
+    "municipio": "Sotaquirá",
+    "departamento": "Boyacá",
+    "lat": 5.763010553,
+    "lng": -73.24352232
+  },
+  {
+    "codigo_municipio": "19760",
+    "municipio": "Sotará Paispamba",
+    "departamento": "Cauca",
+    "lat": 2.231820541,
+    "lng": -76.61146633
+  },
+  {
+    "codigo_municipio": "68770",
+    "municipio": "Suaita",
+    "departamento": "Santander",
+    "lat": 6.101499739,
+    "lng": -73.36225795
+  },
+  {
+    "codigo_municipio": "08770",
+    "municipio": "Suan",
+    "departamento": "Atlántico",
+    "lat": 10.31085035,
+    "lng": -74.90713308
+  },
+  {
+    "codigo_municipio": "41770",
+    "municipio": "Suaza",
+    "departamento": "Huila",
+    "lat": 1.870992095,
+    "lng": -75.80798471
+  },
+  {
+    "codigo_municipio": "25769",
+    "municipio": "Subachoque",
+    "departamento": "Cundinamarca",
+    "lat": 4.970358034,
+    "lng": -74.15689923
+  },
+  {
+    "codigo_municipio": "19785",
+    "municipio": "Sucre",
+    "departamento": "Cauca",
+    "lat": 2.057735184,
+    "lng": -76.90993965
+  },
+  {
+    "codigo_municipio": "68773",
+    "municipio": "Sucre",
+    "departamento": "Santander",
+    "lat": 5.983203734,
+    "lng": -73.95936235
+  },
+  {
+    "codigo_municipio": "70771",
+    "municipio": "Sucre",
+    "departamento": "Sucre",
+    "lat": 8.814333477,
+    "lng": -74.74753131
+  },
+  {
+    "codigo_municipio": "25772",
+    "municipio": "Suesca",
+    "departamento": "Cundinamarca",
+    "lat": 5.122728461,
+    "lng": -73.82427313
+  },
+  {
+    "codigo_municipio": "25777",
+    "municipio": "Supatá",
+    "departamento": "Cundinamarca",
+    "lat": 5.061692703,
+    "lng": -74.23138328
+  },
+  {
+    "codigo_municipio": "17777",
+    "municipio": "Supía",
+    "departamento": "Caldas",
+    "lat": 5.45295802,
+    "lng": -75.64035705
+  },
+  {
+    "codigo_municipio": "68780",
+    "municipio": "Suratá",
+    "departamento": "Santander",
+    "lat": 7.475402063,
+    "lng": -72.98779966
+  },
+  {
+    "codigo_municipio": "25779",
+    "municipio": "Susa",
+    "departamento": "Cundinamarca",
+    "lat": 5.440092358,
+    "lng": -73.82392529
+  },
+  {
+    "codigo_municipio": "15774",
+    "municipio": "Susacón",
+    "departamento": "Boyacá",
+    "lat": 6.215200578,
+    "lng": -72.71575634
+  },
+  {
+    "codigo_municipio": "15776",
+    "municipio": "Sutamarchán",
+    "departamento": "Boyacá",
+    "lat": 5.640030759,
+    "lng": -73.62598773
+  },
+  {
+    "codigo_municipio": "25781",
+    "municipio": "Sutatausa",
+    "departamento": "Cundinamarca",
+    "lat": 5.242909347,
+    "lng": -73.85540343
+  },
+  {
+    "codigo_municipio": "15778",
+    "municipio": "Sutatenza",
+    "departamento": "Boyacá",
+    "lat": 5.030711335,
+    "lng": -73.41224401
+  },
+  {
+    "codigo_municipio": "19780",
+    "municipio": "Suárez",
+    "departamento": "Cauca",
+    "lat": 2.936865997,
+    "lng": -76.7458243
+  },
+  {
+    "codigo_municipio": "73770",
+    "municipio": "Suárez",
+    "departamento": "Tolima",
+    "lat": 3.969210629,
+    "lng": -74.84448738
+  },
+  {
+    "codigo_municipio": "85315",
+    "municipio": "Sácama",
+    "departamento": "Casanare",
+    "lat": 6.049906435,
+    "lng": -72.21076163
+  },
+  {
+    "codigo_municipio": "15638",
+    "municipio": "Sáchica",
+    "departamento": "Boyacá",
+    "lat": 5.573464882,
+    "lng": -73.543102
+  },
+  {
+    "codigo_municipio": "25785",
+    "municipio": "Tabio",
+    "departamento": "Cundinamarca",
+    "lat": 4.951520046,
+    "lng": -74.08449648
+  },
+  {
+    "codigo_municipio": "27787",
+    "municipio": "Tadó",
+    "departamento": "Chocó",
+    "lat": 5.26610158,
+    "lng": -76.33109547
+  },
+  {
+    "codigo_municipio": "13780",
+    "municipio": "Talaigua Nuevo",
+    "departamento": "Bolívar",
+    "lat": 9.269516705,
+    "lng": -74.58695233
+  },
+  {
+    "codigo_municipio": "20787",
+    "municipio": "Tamalameque",
+    "departamento": "Cesar",
+    "lat": 8.902075012,
+    "lng": -73.7633962
+  },
+  {
+    "codigo_municipio": "81794",
+    "municipio": "Tame",
+    "departamento": "Arauca",
+    "lat": 6.390650479,
+    "lng": -71.79178647
+  },
+  {
+    "codigo_municipio": "52786",
+    "municipio": "Taminango",
+    "departamento": "Nariño",
+    "lat": 1.591661392,
+    "lng": -77.32525316
+  },
+  {
+    "codigo_municipio": "52788",
+    "municipio": "Tangua",
+    "departamento": "Nariño",
+    "lat": 1.064078111,
+    "lng": -77.35063491
+  },
+  {
+    "codigo_municipio": "97666",
+    "municipio": "Taraira",
+    "departamento": "Vaupés",
+    "lat": -0.719822209,
+    "lng": -69.90776202
+  },
+  {
+    "codigo_municipio": "05790",
+    "municipio": "Tarazá",
+    "departamento": "Antioquia",
+    "lat": 7.488875998,
+    "lng": -75.40189438
+  },
+  {
+    "codigo_municipio": "41791",
+    "municipio": "Tarqui",
+    "departamento": "Huila",
+    "lat": 2.130280544,
+    "lng": -75.87534845
+  },
+  {
+    "codigo_municipio": "05792",
+    "municipio": "Tarso",
+    "departamento": "Antioquia",
+    "lat": 5.871064557,
+    "lng": -75.82871144
+  },
+  {
+    "codigo_municipio": "15790",
+    "municipio": "Tasco",
+    "departamento": "Boyacá",
+    "lat": 5.882294313,
+    "lng": -72.72626817
+  },
+  {
+    "codigo_municipio": "85410",
+    "municipio": "Tauramena",
+    "departamento": "Casanare",
+    "lat": 4.697463691,
+    "lng": -72.62922436
+  },
+  {
+    "codigo_municipio": "25793",
+    "municipio": "Tausa",
+    "departamento": "Cundinamarca",
+    "lat": 5.170527212,
+    "lng": -73.95819594
+  },
+  {
+    "codigo_municipio": "41799",
+    "municipio": "Tello",
+    "departamento": "Huila",
+    "lat": 3.030611777,
+    "lng": -75.08536553
+  },
+  {
+    "codigo_municipio": "25797",
+    "municipio": "Tena",
+    "departamento": "Cundinamarca",
+    "lat": 4.666608192,
+    "lng": -74.36764956
+  },
+  {
+    "codigo_municipio": "47798",
+    "municipio": "Tenerife",
+    "departamento": "Magdalena",
+    "lat": 9.924701267,
+    "lng": -74.73263001
+  },
+  {
+    "codigo_municipio": "25799",
+    "municipio": "Tenjo",
+    "departamento": "Cundinamarca",
+    "lat": 4.838548601,
+    "lng": -74.14680287
+  },
+  {
+    "codigo_municipio": "15798",
+    "municipio": "Tenza",
+    "departamento": "Boyacá",
+    "lat": 5.071413139,
+    "lng": -73.42479699
+  },
+  {
+    "codigo_municipio": "54800",
+    "municipio": "Teorama",
+    "departamento": "Norte de Santander",
+    "lat": 8.760013794,
+    "lng": -73.15714097
+  },
+  {
+    "codigo_municipio": "41801",
+    "municipio": "Teruel",
+    "departamento": "Huila",
+    "lat": 2.851852692,
+    "lng": -75.75988934
+  },
+  {
+    "codigo_municipio": "41797",
+    "municipio": "Tesalia",
+    "departamento": "Huila",
+    "lat": 2.526855132,
+    "lng": -75.68259642
+  },
+  {
+    "codigo_municipio": "25805",
+    "municipio": "Tibacuy",
+    "departamento": "Cundinamarca",
+    "lat": 4.321357899,
+    "lng": -74.48667274
+  },
+  {
+    "codigo_municipio": "15804",
+    "municipio": "Tibaná",
+    "departamento": "Boyacá",
+    "lat": 5.301116649,
+    "lng": -73.3932521
+  },
+  {
+    "codigo_municipio": "15806",
+    "municipio": "Tibasosa",
+    "departamento": "Boyacá",
+    "lat": 5.747329389,
+    "lng": -73.01114724
+  },
+  {
+    "codigo_municipio": "25807",
+    "municipio": "Tibirita",
+    "departamento": "Cundinamarca",
+    "lat": 5.084102682,
+    "lng": -73.51362546
+  },
+  {
+    "codigo_municipio": "54810",
+    "municipio": "Tibú",
+    "departamento": "Norte de Santander",
+    "lat": 8.713507237,
+    "lng": -72.79925855
+  },
+  {
+    "codigo_municipio": "23807",
+    "municipio": "Tierralta",
+    "departamento": "Córdoba",
+    "lat": 7.813896829,
+    "lng": -76.16846678
+  },
+  {
+    "codigo_municipio": "41807",
+    "municipio": "Timaná",
+    "departamento": "Huila",
+    "lat": 1.950715226,
+    "lng": -75.91757649
+  },
+  {
+    "codigo_municipio": "19809",
+    "municipio": "Timbiquí",
+    "departamento": "Cauca",
+    "lat": 2.699475127,
+    "lng": -77.49131577
+  },
+  {
+    "codigo_municipio": "19807",
+    "municipio": "Timbío",
+    "departamento": "Cauca",
+    "lat": 2.369625312,
+    "lng": -76.71051932
+  },
+  {
+    "codigo_municipio": "15808",
+    "municipio": "Tinjacá",
+    "departamento": "Boyacá",
+    "lat": 5.577566497,
+    "lng": -73.67614572
+  },
+  {
+    "codigo_municipio": "15810",
+    "municipio": "Tipacoque",
+    "departamento": "Boyacá",
+    "lat": 6.42035349,
+    "lng": -72.69463583
+  },
+  {
+    "codigo_municipio": "13810",
+    "municipio": "Tiquisio",
+    "departamento": "Bolívar",
+    "lat": 8.492345176,
+    "lng": -74.29676139
+  },
+  {
+    "codigo_municipio": "05809",
+    "municipio": "Titiribí",
+    "departamento": "Antioquia",
+    "lat": 6.058349971,
+    "lng": -75.79966005
+  },
+  {
+    "codigo_municipio": "15814",
+    "municipio": "Toca",
+    "departamento": "Boyacá",
+    "lat": 5.580254287,
+    "lng": -73.1606969
+  },
+  {
+    "codigo_municipio": "25815",
+    "municipio": "Tocaima",
+    "departamento": "Cundinamarca",
+    "lat": 4.452072974,
+    "lng": -74.64864406
+  },
+  {
+    "codigo_municipio": "25817",
+    "municipio": "Tocancipá",
+    "departamento": "Cundinamarca",
+    "lat": 4.968852913,
+    "lng": -73.92887021
+  },
+  {
+    "codigo_municipio": "15816",
+    "municipio": "Togüí",
+    "departamento": "Boyacá",
+    "lat": 5.921830062,
+    "lng": -73.48921806
+  },
+  {
+    "codigo_municipio": "05819",
+    "municipio": "Toledo",
+    "departamento": "Antioquia",
+    "lat": 7.016397069,
+    "lng": -75.71363382
+  },
+  {
+    "codigo_municipio": "54820",
+    "municipio": "Toledo",
+    "departamento": "Norte de Santander",
+    "lat": 7.225864961,
+    "lng": -72.30593418
+  },
+  {
+    "codigo_municipio": "68820",
+    "municipio": "Tona",
+    "departamento": "Santander",
+    "lat": 7.170891099,
+    "lng": -72.93970443
+  },
+  {
+    "codigo_municipio": "25823",
+    "municipio": "Topaipí",
+    "departamento": "Cundinamarca",
+    "lat": 5.355688386,
+    "lng": -74.28963994
+  },
+  {
+    "codigo_municipio": "19821",
+    "municipio": "Toribío",
+    "departamento": "Cauca",
+    "lat": 2.975771999,
+    "lng": -76.20331566
+  },
+  {
+    "codigo_municipio": "76823",
+    "municipio": "Toro",
+    "departamento": "Valle del Cauca",
+    "lat": 4.638421279,
+    "lng": -76.08106176
+  },
+  {
+    "codigo_municipio": "15822",
+    "municipio": "Tota",
+    "departamento": "Boyacá",
+    "lat": 5.501297215,
+    "lng": -72.99633297
+  },
+  {
+    "codigo_municipio": "19824",
+    "municipio": "Totoró",
+    "departamento": "Cauca",
+    "lat": 2.475213085,
+    "lng": -76.39675937
+  },
+  {
+    "codigo_municipio": "85430",
+    "municipio": "Trinidad",
+    "departamento": "Casanare",
+    "lat": 5.354527091,
+    "lng": -71.25479519
+  },
+  {
+    "codigo_municipio": "76828",
+    "municipio": "Trujillo",
+    "departamento": "Valle del Cauca",
+    "lat": 4.233268116,
+    "lng": -76.34292699
+  },
+  {
+    "codigo_municipio": "08832",
+    "municipio": "Tubará",
+    "departamento": "Atlántico",
+    "lat": 10.90721938,
+    "lng": -74.98423293
+  },
+  {
+    "codigo_municipio": "23815",
+    "municipio": "Tuchín",
+    "departamento": "Córdoba",
+    "lat": 9.224630803,
+    "lng": -75.54410593
+  },
+  {
+    "codigo_municipio": "76834",
+    "municipio": "Tuluá",
+    "departamento": "Valle del Cauca",
+    "lat": 4.02840797,
+    "lng": -76.03250379
+  },
+  {
+    "codigo_municipio": "15001",
+    "municipio": "Tunja",
+    "departamento": "Boyacá",
+    "lat": 5.518472615,
+    "lng": -73.37801856
+  },
+  {
+    "codigo_municipio": "15832",
+    "municipio": "Tununguá",
+    "departamento": "Boyacá",
+    "lat": 5.720301516,
+    "lng": -73.94330927
+  },
+  {
+    "codigo_municipio": "13836",
+    "municipio": "Turbaco",
+    "departamento": "Bolívar",
+    "lat": 10.35310756,
+    "lng": -75.37971541
+  },
+  {
+    "codigo_municipio": "13838",
+    "municipio": "Turbaná",
+    "departamento": "Bolívar",
+    "lat": 10.25276929,
+    "lng": -75.43270299
+  },
+  {
+    "codigo_municipio": "05837",
+    "municipio": "Turbo",
+    "departamento": "Antioquia",
+    "lat": 8.173851745,
+    "lng": -76.5740377
+  },
+  {
+    "codigo_municipio": "15835",
+    "municipio": "Turmequé",
+    "departamento": "Boyacá",
+    "lat": 5.305697418,
+    "lng": -73.50908714
+  },
+  {
+    "codigo_municipio": "15837",
+    "municipio": "Tuta",
+    "departamento": "Boyacá",
+    "lat": 5.678126998,
+    "lng": -73.17343053
+  },
+  {
+    "codigo_municipio": "15839",
+    "municipio": "Tutazá",
+    "departamento": "Boyacá",
+    "lat": 6.078051903,
+    "lng": -72.85707832
+  },
+  {
+    "codigo_municipio": "85400",
+    "municipio": "Támara",
+    "departamento": "Casanare",
+    "lat": 5.878927424,
+    "lng": -72.20067822
+  },
+  {
+    "codigo_municipio": "05789",
+    "municipio": "Támesis",
+    "departamento": "Antioquia",
+    "lat": 5.673758571,
+    "lng": -75.70979974
+  },
+  {
+    "codigo_municipio": "15820",
+    "municipio": "Tópaga",
+    "departamento": "Boyacá",
+    "lat": 5.765350303,
+    "lng": -72.83672958
+  },
+  {
+    "codigo_municipio": "52838",
+    "municipio": "Túquerres",
+    "departamento": "Nariño",
+    "lat": 1.134440523,
+    "lng": -77.63073238
+  },
+  {
+    "codigo_municipio": "25839",
+    "municipio": "Ubalá",
+    "departamento": "Cundinamarca",
+    "lat": 4.803805182,
+    "lng": -73.47654604
+  },
+  {
+    "codigo_municipio": "25841",
+    "municipio": "Ubaque",
+    "departamento": "Cundinamarca",
+    "lat": 4.500754182,
+    "lng": -73.97564545
+  },
+  {
+    "codigo_municipio": "76845",
+    "municipio": "Ulloa",
+    "departamento": "Valle del Cauca",
+    "lat": 4.707718947,
+    "lng": -75.77835903
+  },
+  {
+    "codigo_municipio": "25845",
+    "municipio": "Une",
+    "departamento": "Cundinamarca",
+    "lat": 4.244611163,
+    "lng": -74.11187304
+  },
+  {
+    "codigo_municipio": "27800",
+    "municipio": "Unguía",
+    "departamento": "Chocó",
+    "lat": 8.117281079,
+    "lng": -77.10372723
+  },
+  {
+    "codigo_municipio": "27810",
+    "municipio": "Unión Panamericana",
+    "departamento": "Chocó",
+    "lat": 5.281599258,
+    "lng": -76.61962746
+  },
+  {
+    "codigo_municipio": "05842",
+    "municipio": "Uramita",
+    "departamento": "Antioquia",
+    "lat": 6.913916924,
+    "lng": -76.13318514
+  },
+  {
+    "codigo_municipio": "50370",
+    "municipio": "Uribe",
+    "departamento": "Meta",
+    "lat": 3.047726858,
+    "lng": -74.43066134
+  },
+  {
+    "codigo_municipio": "44847",
+    "municipio": "Uribia",
+    "departamento": "La Guajira",
+    "lat": 11.99971986,
+    "lng": -71.74882662
+  },
+  {
+    "codigo_municipio": "05847",
+    "municipio": "Urrao",
+    "departamento": "Antioquia",
+    "lat": 6.33534134,
+    "lng": -76.25906482
+  },
+  {
+    "codigo_municipio": "44855",
+    "municipio": "Urumita",
+    "departamento": "La Guajira",
+    "lat": 10.4947021,
+    "lng": -72.98623991
+  },
+  {
+    "codigo_municipio": "08849",
+    "municipio": "Usiacurí",
+    "departamento": "Atlántico",
+    "lat": 10.74052266,
+    "lng": -74.98267413
+  },
+  {
+    "codigo_municipio": "05854",
+    "municipio": "Valdivia",
+    "departamento": "Antioquia",
+    "lat": 7.265404213,
+    "lng": -75.40094502
+  },
+  {
+    "codigo_municipio": "23855",
+    "municipio": "Valencia",
+    "departamento": "Córdoba",
+    "lat": 8.219904128,
+    "lng": -76.2213286
+  },
+  {
+    "codigo_municipio": "68855",
+    "municipio": "Valle de San José",
+    "departamento": "Santander",
+    "lat": 6.434578919,
+    "lng": -73.10997171
+  },
+  {
+    "codigo_municipio": "73854",
+    "municipio": "Valle de San Juan",
+    "departamento": "Tolima",
+    "lat": 4.182125647,
+    "lng": -75.17148237
+  },
+  {
+    "codigo_municipio": "86865",
+    "municipio": "Valle del Guamuez",
+    "departamento": "Putumayo",
+    "lat": 0.42012589,
+    "lng": -76.77067026
+  },
+  {
+    "codigo_municipio": "20001",
+    "municipio": "Valledupar",
+    "departamento": "Cesar",
+    "lat": 10.21890277,
+    "lng": -73.45784764
+  },
+  {
+    "codigo_municipio": "05856",
+    "municipio": "Valparaíso",
+    "departamento": "Antioquia",
+    "lat": 5.651937802,
+    "lng": -75.63083412
+  },
+  {
+    "codigo_municipio": "18860",
+    "municipio": "Valparaíso",
+    "departamento": "Caquetá",
+    "lat": 1.07534915,
+    "lng": -75.73779004
+  },
+  {
+    "codigo_municipio": "05858",
+    "municipio": "Vegachí",
+    "departamento": "Antioquia",
+    "lat": 6.836535122,
+    "lng": -74.7540302
+  },
+  {
+    "codigo_municipio": "73861",
+    "municipio": "Venadillo",
+    "departamento": "Tolima",
+    "lat": 4.70988172,
+    "lng": -74.92089886
+  },
+  {
+    "codigo_municipio": "05861",
+    "municipio": "Venecia",
+    "departamento": "Antioquia",
+    "lat": 5.956576355,
+    "lng": -75.77722423
+  },
+  {
+    "codigo_municipio": "25506",
+    "municipio": "Venecia",
+    "departamento": "Cundinamarca",
+    "lat": 4.063342074,
+    "lng": -74.45259796
+  },
+  {
+    "codigo_municipio": "15861",
+    "municipio": "Ventaquemada",
+    "departamento": "Boyacá",
+    "lat": 5.383385481,
+    "lng": -73.52097942
+  },
+  {
+    "codigo_municipio": "25862",
+    "municipio": "Vergara",
+    "departamento": "Cundinamarca",
+    "lat": 5.131267542,
+    "lng": -74.30979229
+  },
+  {
+    "codigo_municipio": "76863",
+    "municipio": "Versalles",
+    "departamento": "Valle del Cauca",
+    "lat": 4.644242641,
+    "lng": -76.25924483
+  },
+  {
+    "codigo_municipio": "68867",
+    "municipio": "Vetas",
+    "departamento": "Santander",
+    "lat": 7.322219563,
+    "lng": -72.88156901
+  },
+  {
+    "codigo_municipio": "25867",
+    "municipio": "Vianí",
+    "departamento": "Cundinamarca",
+    "lat": 4.914040619,
+    "lng": -74.54936655
+  },
+  {
+    "codigo_municipio": "17867",
+    "municipio": "Victoria",
+    "departamento": "Caldas",
+    "lat": 5.447542859,
+    "lng": -74.83622502
+  },
+  {
+    "codigo_municipio": "05873",
+    "municipio": "Vigía del Fuerte",
+    "departamento": "Antioquia",
+    "lat": 6.453351334,
+    "lng": -76.69504802
+  },
+  {
+    "codigo_municipio": "76869",
+    "municipio": "Vijes",
+    "departamento": "Valle del Cauca",
+    "lat": 3.74365889,
+    "lng": -76.47064718
+  },
+  {
+    "codigo_municipio": "54871",
+    "municipio": "Villa Caro",
+    "departamento": "Norte de Santander",
+    "lat": 7.936293173,
+    "lng": -72.98759418
+  },
+  {
+    "codigo_municipio": "19845",
+    "municipio": "Villa Rica",
+    "departamento": "Cauca",
+    "lat": 3.180627317,
+    "lng": -76.46445558
+  },
+  {
+    "codigo_municipio": "15407",
+    "municipio": "Villa de Leyva",
+    "departamento": "Boyacá",
+    "lat": 5.665762424,
+    "lng": -73.514948
+  },
+  {
+    "codigo_municipio": "25843",
+    "municipio": "Villa de San Diego de Ubaté",
+    "departamento": "Cundinamarca",
+    "lat": 5.316080652,
+    "lng": -73.82010566
+  },
+  {
+    "codigo_municipio": "54874",
+    "municipio": "Villa del Rosario",
+    "departamento": "Norte de Santander",
+    "lat": 7.718635863,
+    "lng": -72.48361176
+  },
+  {
+    "codigo_municipio": "86885",
+    "municipio": "Villagarzón",
+    "departamento": "Putumayo",
+    "lat": 0.911149515,
+    "lng": -76.74495447
+  },
+  {
+    "codigo_municipio": "25871",
+    "municipio": "Villagómez",
+    "departamento": "Cundinamarca",
+    "lat": 5.270694636,
+    "lng": -74.19074375
+  },
+  {
+    "codigo_municipio": "73870",
+    "municipio": "Villahermosa",
+    "departamento": "Tolima",
+    "lat": 4.965753461,
+    "lng": -75.15592969
+  },
+  {
+    "codigo_municipio": "17873",
+    "municipio": "Villamaría",
+    "departamento": "Caldas",
+    "lat": 4.940211591,
+    "lng": -75.43544014
+  },
+  {
+    "codigo_municipio": "13873",
+    "municipio": "Villanueva",
+    "departamento": "Bolívar",
+    "lat": 10.4449132,
+    "lng": -75.26736275
+  },
+  {
+    "codigo_municipio": "85440",
+    "municipio": "Villanueva",
+    "departamento": "Casanare",
+    "lat": 4.528307719,
+    "lng": -72.82314281
+  },
+  {
+    "codigo_municipio": "44874",
+    "municipio": "Villanueva",
+    "departamento": "La Guajira",
+    "lat": 10.58364755,
+    "lng": -72.97520286
+  },
+  {
+    "codigo_municipio": "68872",
+    "municipio": "Villanueva",
+    "departamento": "Santander",
+    "lat": 6.685867326,
+    "lng": -73.16396916
+  },
+  {
+    "codigo_municipio": "25873",
+    "municipio": "Villapinzón",
+    "departamento": "Cundinamarca",
+    "lat": 5.227298709,
+    "lng": -73.57725921
+  },
+  {
+    "codigo_municipio": "73873",
+    "municipio": "Villarrica",
+    "departamento": "Tolima",
+    "lat": 3.854384097,
+    "lng": -74.61896623
+  },
+  {
+    "codigo_municipio": "50001",
+    "municipio": "Villavicencio",
+    "departamento": "Meta",
+    "lat": 4.09166877,
+    "lng": -73.49291595
+  },
+  {
+    "codigo_municipio": "41872",
+    "municipio": "Villavieja",
+    "departamento": "Huila",
+    "lat": 3.287057875,
+    "lng": -75.13838292
+  },
+  {
+    "codigo_municipio": "25875",
+    "municipio": "Villeta",
+    "departamento": "Cundinamarca",
+    "lat": 5.011670402,
+    "lng": -74.48764746
+  },
+  {
+    "codigo_municipio": "25878",
+    "municipio": "Viotá",
+    "departamento": "Cundinamarca",
+    "lat": 4.436054105,
+    "lng": -74.48543339
+  },
+  {
+    "codigo_municipio": "15879",
+    "municipio": "Viracachá",
+    "departamento": "Boyacá",
+    "lat": 5.440558216,
+    "lng": -73.26627456
+  },
+  {
+    "codigo_municipio": "50711",
+    "municipio": "Vistahermosa",
+    "departamento": "Meta",
+    "lat": 2.811616698,
+    "lng": -73.66652234
+  },
+  {
+    "codigo_municipio": "17877",
+    "municipio": "Viterbo",
+    "departamento": "Caldas",
+    "lat": 5.047822054,
+    "lng": -75.879297
+  },
+  {
+    "codigo_municipio": "68861",
+    "municipio": "Vélez",
+    "departamento": "Santander",
+    "lat": 6.00741043,
+    "lng": -73.69057256
+  },
+  {
+    "codigo_municipio": "25885",
+    "municipio": "Yacopí",
+    "departamento": "Cundinamarca",
+    "lat": 5.591910157,
+    "lng": -74.36480865
+  },
+  {
+    "codigo_municipio": "52885",
+    "municipio": "Yacuanquer",
+    "departamento": "Nariño",
+    "lat": 1.125547916,
+    "lng": -77.42467569
+  },
+  {
+    "codigo_municipio": "41885",
+    "municipio": "Yaguará",
+    "departamento": "Huila",
+    "lat": 2.646563339,
+    "lng": -75.51592645
+  },
+  {
+    "codigo_municipio": "05885",
+    "municipio": "Yalí",
+    "departamento": "Antioquia",
+    "lat": 6.716870679,
+    "lng": -74.75565002
+  },
+  {
+    "codigo_municipio": "05887",
+    "municipio": "Yarumal",
+    "departamento": "Antioquia",
+    "lat": 6.9881309,
+    "lng": -75.45439957
+  },
+  {
+    "codigo_municipio": "05890",
+    "municipio": "Yolombó",
+    "departamento": "Antioquia",
+    "lat": 6.64442786,
+    "lng": -75.02990266
+  },
+  {
+    "codigo_municipio": "05893",
+    "municipio": "Yondó",
+    "departamento": "Antioquia",
+    "lat": 6.925159318,
+    "lng": -74.15824041
+  },
+  {
+    "codigo_municipio": "85001",
+    "municipio": "Yopal",
+    "departamento": "Casanare",
+    "lat": 5.242744761,
+    "lng": -72.25802857
+  },
+  {
+    "codigo_municipio": "76890",
+    "municipio": "Yotoco",
+    "departamento": "Valle del Cauca",
+    "lat": 3.904130354,
+    "lng": -76.39080435
+  },
+  {
+    "codigo_municipio": "76892",
+    "municipio": "Yumbo",
+    "departamento": "Valle del Cauca",
+    "lat": 3.595913669,
+    "lng": -76.5109879
+  },
+  {
+    "codigo_municipio": "13894",
+    "municipio": "Zambrano",
+    "departamento": "Bolívar",
+    "lat": 9.745147021,
+    "lng": -74.88067037
+  },
+  {
+    "codigo_municipio": "68895",
+    "municipio": "Zapatoca",
+    "departamento": "Santander",
+    "lat": 6.813725566,
+    "lng": -73.30975044
+  },
+  {
+    "codigo_municipio": "47960",
+    "municipio": "Zapayán",
+    "departamento": "Magdalena",
+    "lat": 10.11779893,
+    "lng": -74.69115456
+  },
+  {
+    "codigo_municipio": "05895",
+    "municipio": "Zaragoza",
+    "departamento": "Antioquia",
+    "lat": 7.474004006,
+    "lng": -74.85848326
+  },
+  {
+    "codigo_municipio": "76895",
+    "municipio": "Zarzal",
+    "departamento": "Valle del Cauca",
+    "lat": 4.35359875,
+    "lng": -76.05065336
+  },
+  {
+    "codigo_municipio": "15897",
+    "municipio": "Zetaquira",
+    "departamento": "Boyacá",
+    "lat": 5.285635983,
+    "lng": -73.16763091
+  },
+  {
+    "codigo_municipio": "25898",
+    "municipio": "Zipacón",
+    "departamento": "Cundinamarca",
+    "lat": 4.75432173,
+    "lng": -74.38673444
+  },
+  {
+    "codigo_municipio": "25899",
+    "municipio": "Zipaquirá",
+    "departamento": "Cundinamarca",
+    "lat": 5.06631685,
+    "lng": -74.04960323
+  },
+  {
+    "codigo_municipio": "47980",
+    "municipio": "Zona Bananera",
+    "departamento": "Magdalena",
+    "lat": 10.79634658,
+    "lng": -74.17798317
+  },
+  {
+    "codigo_municipio": "54003",
+    "municipio": "Ábrego",
+    "departamento": "Norte de Santander",
+    "lat": 8.019834481,
+    "lng": -73.15850485
+  },
+  {
+    "codigo_municipio": "41357",
+    "municipio": "Íquira",
+    "departamento": "Huila",
+    "lat": 2.691517773,
+    "lng": -75.67383141
+  },
+  {
+    "codigo_municipio": "15842",
+    "municipio": "Úmbita",
+    "departamento": "Boyacá",
+    "lat": 5.217241368,
+    "lng": -73.46338477
+  },
+  {
+    "codigo_municipio": "25851",
+    "municipio": "Útica",
+    "departamento": "Cundinamarca",
+    "lat": 5.192795708,
+    "lng": -74.47780003
+  }
+]

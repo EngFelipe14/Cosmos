@@ -1,12 +1,32 @@
 import pool from '../configs/db.ts';
 import type { ObservacionClima, CreateObservacionClima } from '../models/observacion-clima.model.ts';
 
+/**
+ * Busca la observación climática más reciente (últimos 30 minutos) de un municipio.
+ *
+ * @async
+ * @function findValidByMunicipio
+ * @param {number} municipalityId - ID del municipio.
+ * @returns {Promise<ObservacionClima|null>} Observación climática reciente o `null` si no existe.
+*/
 export const findValidByMunicipio = async (municipalityId: number): Promise<ObservacionClima | null> => {
   const query = `SELECT * FROM Observacion_clima WHERE municipio_id = $1 AND timestamp >= (NOW() - INTERVAL '30 minutes') LIMIT 1;`;
   const result = await pool.query(query, [municipalityId]);
   return result.rows[0] || null;
 }
 
+/**
+ * Inserta o actualiza la observación climática de un municipio.
+ *
+ * - Si no existe registro, lo inserta.
+ * - Si existe, lo actualiza con los últimos datos.
+ *
+ * @async
+ * @function upsertWeather
+ * @param {number} municipioId - ID del municipio.
+ * @param {CreateObservacionClima} data - Datos climáticos obtenidos de la API.
+ * @returns {Promise<void>}
+*/
 export const upsertWeather = async(municipioId: number, data: CreateObservacionClima): Promise<void> => {
   const query = `
     INSERT INTO Observacion_clima (

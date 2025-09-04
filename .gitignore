@@ -1,7 +1,7 @@
 # Based on https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore
 
 # Doc from project root
-*.docx
+kickoff meeting.docx
 *.txt
 *.svg
 *.sql

@@ -13,6 +13,6 @@ app.listen(PORT, (): void => {
     console.log(`Servidor escuchando en el puerto ${PORT}`);
 });
 
-app.use("/auth", authRoutes);
-app.use("/clima", weatherRoutes);
-app.use('/', favoriteRoutes);
+app.use("/api/auth/google", authRoutes);
+app.use("/api/clima", weatherRoutes);
+app.use('/api/', favoriteRoutes);

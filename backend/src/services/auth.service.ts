@@ -11,9 +11,33 @@ import type { Municipio } from "../models/municipio.model.ts";
 
 
 const client = new OAuth2Client(config.GOOGLE_CLIENT_ID);
-const municipalityDC: Municipio = { longitud: -74.106992, latitud: 4.649251 };
+const municipalityDC: Municipio = {id: 1, longitud: -74.106992, latitud: 4.649251 };
 
-export async function loginWithGoogle(idToken: string) {
+/**
+ * Servicio para manejar el login usando Google OAuth2.
+ *
+ * Flujo:
+ * 1. Verifica el id_token recibido con la API de Google.
+ * 2. Extrae la información del usuario (sub, email, nombre, foto).
+ * 3. Busca el usuario en la base de datos por `google_sub`:
+ *    - Si no existe → lo crea.
+ *    - Si existe → lo reutiliza.
+ * 4. Genera un JWT propio del sistema.
+ * 5. Si el usuario tiene municipios favoritos:
+ *    - Devuelve el clima de ese municipio (datos recientes o llamando a OpenWeather).
+ * 6. Si no tiene favoritos:
+ *    - Devuelve el clima por defecto de Bogotá D.C.
+ *
+ * @async
+ * @function loginWithGoogle
+ * @param {string} idToken - Token de Google recibido en el login.
+ * @returns {Promise<Object>} Objeto con:
+ *   - token {string} JWT generado para el usuario
+ *   - clima|dataMunicipality {any} Información climática del municipio favorito o por defecto
+ *   - user {Object} Datos del usuario (id, email, nombre, foto)
+ * @throws {Error} Si el token de Google no es válido o falta información crítica.
+*/
+export async function loginWithGoogle(idToken: string): Promise<object> {
 
   const ticket = await client.verifyIdToken({
     idToken,

@@ -4,12 +4,18 @@ import { getWeatherCurrentController, getWeatherForecastController } from "../co
 
 const router = Router();
 
+/**
+ * Rutas para obetner el clima y pronóstico.
+ *
+ * @route GET /api/clima/actual
+ * @route GET /api/clima/pronostico
+*/
 router.get('/actual',
-    validateMunicipality,
-    getWeatherCurrentController
+    validateMunicipality,          // Middleware para validar el código del municipio.    
+    getWeatherCurrentController    // Controlador que maneja la petición del clima actual.
 )
 
 router.get('/pronostico',
-    validateMunicipality,
-    getWeatherForecastController);
+    validateMunicipality,           // Middleware para validar el código del municipio.
+    getWeatherForecastController);  // Controlador que maneja la petición del pronóstico
 export default router;

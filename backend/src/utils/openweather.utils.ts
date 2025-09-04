@@ -3,7 +3,18 @@ import { config } from '../configs/env.ts';
 
 const API_KEY = config.OPENWEATHER_KEY;
 
-export const requestWeatherCurrent = async (latitud: number, longitud: number, municipalityId?: number) => {
+/**
+ * Consulta la API de OpenWeather para obtener el clima actual de unas coordenadas.
+ *
+ * @async
+ * @function requestWeatherCurrent
+ * @param {number} latitud - Latitud del municipio.
+ * @param {number} longitud - Longitud del municipio.
+ * @param {number} [municipalityId] - ID del municipio en la base de datos (opcional).
+ * @returns {Promise<CreateObservacionClima>} Objeto con la información climática normalizada.
+ * @throws {Error} Si la API de OpenWeather responde con error.
+*/
+export const requestWeatherCurrent = async (latitud: number, longitud: number, municipalityId?: number): Promise<CreateObservacionClima> => {
   const url = `https://api.openweathermap.org/data/2.5/weather?lat=${latitud}&lon=${longitud}&appid=${API_KEY}&lang=es&units=metric`;
 
   const response = await fetch(url);
@@ -32,6 +43,15 @@ export const requestWeatherCurrent = async (latitud: number, longitud: number, m
   return clima;
 }
 
+/**
+ * Consulta la API de OpenWeather para obtener el pronóstico de un municipio.
+ *
+ * @async
+ * @function requestWeatherForecast
+ * @param {number} latitud - Latitud del municipio.
+ * @param {number} longitud - Longitud del municipio.
+ * @throws {Error} Si la API responde con error.
+*/
 export const requestWeatherForecast = async (latitud: number, longitud: number) => {
   const url = `https://api.openweathermap.org/data/2.5/forecast?lat=${latitud}&lon=${longitud}&appid=${API_KEY}&lang=es&units=metric`;
 
